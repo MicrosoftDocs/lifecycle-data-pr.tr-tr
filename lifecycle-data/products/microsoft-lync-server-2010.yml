@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Server 2010
+  description: Microsoft Lync Server 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879472"
+name: Microsoft Lync Server 2010
+summary: >+
+  Microsoft Lync Server 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu aşağıdaki sürümler için geçerlidir: Kurumsal, Grup Sohbet Yazılım Geliştirme Kiti, SDK, Standart
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Lync Telefon Sürümü](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition, Lync Server 2010 ve Lync Server 2013 ile desteklenmiştir. Lync Phone Edition'ın destek tarihi, Lync Server 2013 yaşam döngüsüyle uyumlu hale getirmek için 2 yıl uzatıldı.\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Grup Sohbet Yazılım Geliştirme Kiti\n* Sdk\n* Standart"
