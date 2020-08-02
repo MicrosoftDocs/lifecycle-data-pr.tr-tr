@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics Mobil Geliştirme Araçları
+  description: Dynamics Mobil Geliştirme Araçları, Bileşen Yaşam Döngüsü Politikası'nı izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844227"
+name: Dynamics Mobil Geliştirme Araçları
+summary: >+
+  Dynamics Mobil Geliştirme [Araçları, Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü Politikası'nı izler.
+
+
+products:
+- dynamics
+policyType: component
+supportDates:
+  start: 01/12/2008
+  end: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 01/12/2008
+  endDate: 01/14/2014
+content: ''

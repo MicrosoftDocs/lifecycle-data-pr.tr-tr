@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Gömülü 8
+  description: Windows Embedded 8, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844409"
+name: Windows Gömülü 8
+summary: >+
+  Windows Embedded [8, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu aşağıdaki sürümleri için geçerlidir: Pro, Standart
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n* [Windows Gömülü 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Müşterilerin desteklenmemek için Windows Emdedded 8.1'e geçiş yapması gerekir.\n\n## <a name=\"editions\"></a>Sürüm \n* Pro\n* Standart"
