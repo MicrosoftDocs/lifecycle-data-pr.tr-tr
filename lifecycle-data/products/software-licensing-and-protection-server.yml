@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Yazılım Lisanslama ve Koruma Sunucusu
+  description: Yazılım Lisanslama ve Koruma Sunucusu, Sabit Yaşam Döngüsü Politikası'nı izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843914"
+name: Yazılım Lisanslama ve Koruma Sunucusu
+summary: >
+  Yazılım Lisanslama ve Koruma [Sunucusu, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Kurumsal, Standart
+
+
+  > [!IMPORTANT]
+
+  > Yazılım Lisanslama ve Koruma Sunucusu'nun (SLPS) elden edilmesi nedeniyle Microsoft, 24 Eylül 2009'a kadar SLPS'yi desteklenebilmiştir.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Yazılım Lisanslama ve Koruma Sunucusu (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Standart"

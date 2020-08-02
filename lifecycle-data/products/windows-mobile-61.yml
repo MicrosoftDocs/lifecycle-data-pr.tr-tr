@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobil 6.1
+  description: Windows Mobile 6.1, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 09ef8cd65daf2ed34f0557d1180ba9b405bf0956
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843872"
+name: Windows Mobil 6.1
+summary: >
+  Windows Mobile 6.1, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu aşağıdaki sürümleri için geçerlidir: Adaptasyon Kiti, Profesyonel, Standart
+
+
+  > [!IMPORTANT]
+
+  > Bu ürüne yönelik destek sona erdi.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2008
+  end: 01/08/2013
+releases:
+- version: Original Release
+  startDate: 07/01/2008
+  endDate: 01/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>Sürüm \n* Adaptasyon Seti\n* Profesyonel\n* Standart"
