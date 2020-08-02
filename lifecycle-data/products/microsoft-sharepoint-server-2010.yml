@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint Server 2010
+  description: Microsoft SharePoint Server 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843924"
+name: Microsoft SharePoint Server 2010
+summary: >+
+  Microsoft SharePoint Server 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Erişim Hizmetleri, Tüm uygulanabilir, Excel Hizmetleri, Performans Noktası Hizmetleri
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 04/13/2021
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Destek uzantısı](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Geçiş kılavuzu](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Bu ürünün son destek tarihi 13 Ekim 2020 ile 13 Nisan 2021 tarihleri arasında uzatıldı.\n\n## <a name=\"editions\"></a>Sürüm \n* Erişim Hizmetleri\n* Tüm uygulanabilir\n* Excel Hizmetleri\n* Performans Noktası Hizmetleri"

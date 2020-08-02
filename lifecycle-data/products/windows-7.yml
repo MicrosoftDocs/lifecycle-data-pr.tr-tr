@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843887"
+name: Windows 7
+summary: "Windows [7, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu aşağıdaki sürümleri için geçerlidir: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Profesyonel Gömülü Sistemler için Profesyonel, Profesyonel N, Başlangıç, Başlangıç N, Ultimate, Gömülü Sistemler için Ultimate, Ultimate N\n\n> [!IMPORTANT]\n> Bu ürüne yönelik destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> '* Genişletilmiş Güvenlik Güncelleştirmeleri (ESU), windows 7 Professional, Enterprise ve Professional for Embedded Systems sürümleri için belirli toplu lisanslama programları aracılığıyla, desteğin bitimine üç yıl kadar ek bir süre için kullanılabilir. Daha fazla bilgi edinmek için Microsoft iş ortağınıza veya hesap ekibinize başvurun. \n\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://support.microsoft.com/help/4057281)\n* [Windows 7'den Windows 10'a yükseltme](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Genişletilmiş Güvenlik Güncelleme Programı (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Kurumsal N\n* Ana Sayfa Temel\n* Ev Premium\n* Ana Sayfa Premium N\n* Profesyonel\n* Gömülü Sistemler için Profesyonel\n* Profesyonel N\n* Starter\n* Başlangıç N\n* Nihai\n* Gömülü Sistemler için Ultimate\n* Nihai N"
