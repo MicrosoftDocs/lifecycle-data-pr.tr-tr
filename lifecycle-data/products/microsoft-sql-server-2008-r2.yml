@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2008 R2
+  description: Microsoft SQL Server 2008 R2, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844067"
+name: Microsoft SQL Server 2008 R2
+summary: >+
+  Microsoft SQL Server 2008 [R2, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu aşağıdaki sürümler için geçerlidir: Datacenter, Developer, Enterprise, Express, Express with Advanced Services, Embedded Systems için, Küçük İşletmeler için Standart, Standart Sürüm, Web, Çalışma Grubu
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/20/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [SQL Server destek sonu seçenekleri](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [SQL Server 2008 ve Windows Server 2008 bitiş destek seçenekleri](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Genişletilmiş Güvenlik Güncelleme Programı (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Genişletilmiş Güvenlik Güncelleştirmeleri (ESU), bu ürünün Veri Merkezi, Standart, Kurumsal ve Gömülü sürümleri için, desteğin bitiminden üç yıl öncesine kadar kullanılabilir.\n> [!NOTE]\n> Sadece IA64 için SP2 7/9/2019'a kadar desteklenecektir. Daha fazla bilgi için SQL Release Services bloguna bakın.\n\n## <a name=\"editions\"></a>Sürüm \n* Datacenter\n* Geliştirici\n* Kurumsal\n* Express\n* Gelişmiş Hizmetlerle Ekspres\n* Gömülü Sistemler için\n* Standart\n* Küçük İşletmeler için Standart Sürüm\n* Web\n* Çalışma grubu"

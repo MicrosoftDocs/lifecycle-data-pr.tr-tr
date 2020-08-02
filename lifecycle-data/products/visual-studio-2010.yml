@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Görsel Stüdyo 2010
+  description: Visual Studio 2010, Sabit Yaşam Döngüsü Politikası'nı izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844046"
+name: Görsel Stüdyo 2010
+summary: >+
+  Visual Studio 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+
+
+  Bu aşağıdaki sürümler için geçerlidir: Aracılar, Tüm, ASP .NET MVC 4, Express, F# 2.0 Çalışma Zamanı, Laboratuvar Yönetimi, Performans Araçları, Premium, Profesyonel, Uzaktan Hata Ayıklama, SDK, Shell (Entegre), Shell (İzole), Takım Ajanları, Takım Gezgini, Test Professional, Office Sistemi için Araçlar 4.0 Çalışma Zamanı, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Web DeveloperEXPRESS, Visual Developer Express, Visualization &
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Ajan\n* Tüm\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Çalışma Süresi\n* Laboratuvar Yönetimi\n* Performans Araçları\n* Premium\n* Profesyonel\n* Uzaktan Hata Ayıklama\n* Sdk\n* Kabuk (Entegre)\n* Kabuk (Yalıtılmış)\n* Takım Ajanları\n* Takım Gezgini\n* Test Profesyoneli\n* Office Sistemi 4.0 Çalışma Süresi Için Araçlar\n* Nihai\n* VB Ekspres\n* Görsel C# Ekspresi\n* Görsel C++ Ekspres\n* Görsel Web Geliştirici Express\n* Modelleme SDK& Görselleştirme"
