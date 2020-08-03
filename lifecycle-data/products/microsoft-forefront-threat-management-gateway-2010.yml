@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Ön Tehdit Yönetimi Ağ Geçidi 2010
+  description: Microsoft Forefront Threat Management Gateway 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844525"
+name: Microsoft Ön Tehdit Yönetimi Ağ Geçidi 2010
+summary: >
+  Microsoft Forefront Threat Management Gateway 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Kurumsal, Standart
+
+
+  > [!IMPORTANT]
+
+  > Destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/01/2009
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 10/04/2011
+  endDate: 04/14/2020
+- version: Service Pack 1
+  startDate: 06/07/2010
+  endDate: 01/08/2013
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Standart"
