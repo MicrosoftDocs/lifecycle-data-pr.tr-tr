@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Yığın Hub'ı
+  description: Azure Stack Hub, Modern Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872872"
+name: Azure Yığın Hub'ı
+summary: >+
+  Azure Stack [Hub, Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 08/31/2017
+releases:
+- version: Original Release
+  startDate: 08/31/2017
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Bilgi ve zaman çizelgelerine hizmet etme](/azure/azure-stack/azure-stack-servicing-policy)"

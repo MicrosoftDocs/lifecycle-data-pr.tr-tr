@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Müşteri Etkileşimuygulamaları için Dynamics 365, sürüm 9.0.2 (şirket içi güncelleme)
+  description: Müşteri Etkileşim uygulamaları için Dynamics 365, sürüm 9.0.2 (şirket içi güncelleştirme) Sabit Yaşam Döngüsü İlkesini izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 11e70e4e8ef3fb18ab06a385fbe4d9a434121ac6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872854"
+name: Müşteri Etkileşimuygulamaları için Dynamics 365, sürüm 9.0.2 (şirket içi güncelleme)
+summary: >+
+  Müşteri Etkileşim uygulamaları için Dynamics 365, sürüm 9.0.2 (şirket içi güncelleştirme) [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 10/31/2018
+  end: 01/09/2024
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release (ver 9.0)
+  startDate: 10/31/2018
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Destek Bilgileri](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)"
