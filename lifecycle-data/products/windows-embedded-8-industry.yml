@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Gömülü 8 Sanayi
+  description: Windows Embedded 8 Industry, Sabit Yaşam Döngüsü İlkesini izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864888"
+name: Windows Gömülü 8 Sanayi
+summary: >
+  Windows Embedded 8 [Industry, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+
+
+  Bu aşağıdaki sürümleri için geçerlidir: Enterprise, Pro
+
+
+  > [!IMPORTANT]
+
+  > Müşterilerin desteklenmemek için Windows 8.1'e geçiş yapması gerekir.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/24/2013
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 06/24/2013
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Pro"

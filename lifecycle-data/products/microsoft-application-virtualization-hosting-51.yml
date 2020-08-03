@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Masaüstü Bilgisayarlar için Microsoft Uygulama Sanallaştırma Hosting 5.1
+  description: Windows Masaüstü Bilgisayarlar için Microsoft Application Virtualization Hosting 5.1, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865188"
+name: Windows Masaüstü Bilgisayarlar için Microsoft Uygulama Sanallaştırma Hosting 5.1
+summary: >+
+  Windows Masaüstü Bilgisayarlar için Microsoft Application Virtualization Hosting 5.1, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Windows Masaüstü Bilgisayarlar için
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/01/2015
+  end: 01/09/2018
+  extendedEnd: 04/14/2026
+releases:
+- version: Original Release
+  startDate: 11/01/2015
+  endDate: 04/14/2026
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün bilgileri](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Windows Masaüstü Bilgisayarlar için"

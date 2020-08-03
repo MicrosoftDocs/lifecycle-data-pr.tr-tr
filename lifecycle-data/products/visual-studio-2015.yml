@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2015
+  description: Visual Studio 2015, Sabit Yaşam Döngüsü Politikası'nı izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865109"
+name: Visual Studio 2015
+summary: >+
+  Visual Studio 2015, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+
+
+  Bu aşağıdaki sürümler için geçerlidir: Aracılar, Topluluk, Kurumsal, Web için Express, Windows için Express 10, Windows Masaüstü için Express, Modelleme SDK, Profesyonel, Sürüm Yönetimi, Uzak Araçlar, SDK, Shell (Entegre), Shell (İzole), Test Profesyoneli, Visual C++ Yeniden Dağıtılabilir
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Servis bilgileri](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Ajan\n* Topluluk\n* Kurumsal\n* Web için Express\n* Windows 10 için Express\n* Windows Masaüstü için Express\n* Modelleme SDK\n* Profesyonel\n* Yayın Yönetimi\n* Uzak Araçlar\n* Sdk\n* Kabuk (Entegre)\n* Kabuk (Yalıtılmış)\n* Test Profesyoneli\n* Visual C++ Yeniden Dağıtılabilir"

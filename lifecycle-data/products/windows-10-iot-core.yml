@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT Çekirdek
+  description: Windows 10 IoT Core, Modern Yaşam Döngüsü İlkesini izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865152"
+name: Windows 10 IoT Çekirdek
+summary: >
+  Windows 10 IoT [Core, Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesini izler.
+
+
+
+  > [!IMPORTANT]
+
+  > Microsoft, 14 Ekim 2025 tarihine kadar en az bir Windows 10 Yarı Yıllık Kanalı desteklemeye devam edecektir.
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 08/02/2016
+  end: 10/14/2025
+releases:
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/09/2018
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün Bilgileri](/windows/iot-core/windows-iot-core)\n* [Windows yaşam döngüsü bilgi sayfası](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Hizmet Olarak Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ertelendikçe, sonraki Windows 10 Yarı Yıllık Kanal özelliği güncelleştirmeleri, Genel Destek tarihinin listelenen bitiş tarihinden önce yüklenebilir."

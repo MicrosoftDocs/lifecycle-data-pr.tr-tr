@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dinamikler NAV 2009 R2
+  description: Dynamics NAV 2009 R2, Sabit Yaşam Döngüsü Politikası'nı izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 01925fe0f661312fdda3eef0517d8e99c15bde06
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865207"
+name: Dinamikler NAV 2009 R2
+summary: >+
+  Dynamics NAV 2009 [R2, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 03/15/2011
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 03/15/2011
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> NAV 2009 için destek tarihlerinin bitiş imiş gibi uzatılır."

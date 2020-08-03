@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile, Ağustos 2016'da piyasaya sürüldü
+  description: Windows 10 Mobile, Ağustos 2016'da yayımlanan Sabit Yaşam Döngüsü Politikası'nı izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b9e0a074c7472ba059b79bac77a05a001e76d8c3
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864947"
+name: Windows 10 Mobile, Ağustos 2016'da piyasaya sürüldü
+summary: >
+  Windows 10 Mobile, Ağustos 2016'da yayımlanan [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+
+
+
+  > [!IMPORTANT]
+
+  > Bu ürüne yönelik destek sona erdi.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/16/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 08/16/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Aygıt İşletim Sistemi Yaşam Döngüsü SSS](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile 10 Aralık 2019'da desteği sona erdirdi](/lifecycle/announcements/windows-10-mobile-end-of-support)"

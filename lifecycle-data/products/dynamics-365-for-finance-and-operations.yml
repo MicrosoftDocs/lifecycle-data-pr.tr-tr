@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Finans ve Operasyonlar için Dynamics 365
+  description: Finans ve Operasyonlar için Dynamics 365, Modern Yaşam Döngüsü Politikası'nı takip etmektedir.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865132"
+name: Finans ve Operasyonlar için Dynamics 365
+summary: >+
+  Finans ve Operasyonlar için Dynamics [365, Modern](/lifecycle/policies/modern) Yaşam Döngüsü Politikası'nı takip etmektedir.
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Enterprise
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 02/19/2016
+releases:
+- version: Original Release
+  startDate: 02/19/2016
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Microsoft Dynamics 365 Yol Haritası](https://roadmap.dynamics.com/)\n* [Servis bilgileri](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Sistem gereksinimleri](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal"

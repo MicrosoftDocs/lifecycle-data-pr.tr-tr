@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ASP.NET Çekirdek
+  description: ASP.NET Core, Modern Yaşam Döngüsü Politikası'nı izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0d9d34cae13f320c21cbcb289e753c8a5f6a8462
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865144"
+name: ASP.NET Çekirdek
+summary: >+
+  ASP.NET [Core, Modern](/lifecycle/policies/modern) Yaşam Döngüsü Politikası'nı izler.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Yaşam Döngüsü SSS - .NET Core](/lifecycle/faq/dotnet-core)\n* [Servis bilgileri](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET yol haritası](https://github.com/dotnet/core/blob/master/roadmap.md)"

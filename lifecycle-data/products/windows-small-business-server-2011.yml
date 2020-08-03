@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Küçük İşletme Sunucusu 2011
+  description: Windows Small Business Server 2011, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865057"
+name: Windows Küçük İşletme Sunucusu 2011
+summary: >
+  Windows Small Business Server 2011, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu aşağıdaki sürümler için geçerlidir: Essentials, Premium Eklenti, Standart
+
+
+  > [!IMPORTANT]
+
+  > Bu ürün paketinin destek tarihi, bireysel bileşen ürünmün ilgili yaşam döngüleri tarafından belirlenir. Destek uzunluğunu belirlemek için lütfen tek tek bileşen ürününün yaşam döngüsünü gözden geçirin.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/09/2011
+releases:
+- version: Original Release
+  startDate: 03/09/2011
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://aka.ms/AA1ovn4)\n* [Windows Small Business Server 2011 Standard'ı Windows Server Essentials'a geçirin](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Temel Öğeler\n* Premium Eklenti\n* Standart"

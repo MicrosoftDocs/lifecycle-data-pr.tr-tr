@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dinamikler 365 İş Merkezi
+  description: Dynamics 365 Business Central, Modern Yaşam Döngüsü Politikası'nı takip etmektedir.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865135"
+name: Dinamikler 365 İş Merkezi
+summary: >+
+  Dynamics 365 Business [Central, Modern](/lifecycle/policies/modern) Yaşam Döngüsü Politikası'nı takip etmektedir.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Microsoft Dynamics 365 Yol Haritası](https://aka.ms/businessappsreleasenotes)\n* [Servis bilgileri](/dynamics365/business-central/dev-itpro/faq)\n* [Sistem gereksinimleri](/dynamics365/business-central/product-requirements)"
