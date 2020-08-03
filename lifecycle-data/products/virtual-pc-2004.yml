@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Sanal PC 2004
+  description: Sanal PC 2004, Sabit Yaşam Döngüsü Politikası'nı izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 869a0829186bfc00b527cb9196a97356020ea033
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844421"
+name: Sanal PC 2004
+summary: >
+  Sanal PC 2004, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+
+
+  Bu aşağıdaki sürümleri için geçerlidir: Express, Standart
+
+
+  > [!IMPORTANT]
+
+  > Bu ürüne yönelik destek sona erdi.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/20/2004
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 1
+  startDate: 08/30/2006
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 01/20/2004
+  endDate: 10/09/2007
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express 13 Nisan 2006 tarihinde piyasaya sürüldü.\n\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Express\n* Standart"
