@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'HL7 1.0 için Microsoft BizTalk Hızlandırıcı '
+  description: HL7 1.0 için Microsoft BizTalk Hızlandırıcı sı Sabit Yaşam Döngüsü İlkesi izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cef326653a2bc78d5b8b20c1dfb907827cd216d3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844591"
+name: 'HL7 1.0 için Microsoft BizTalk Hızlandırıcı '
+summary: >+
+  HL7 1.0 için Microsoft BizTalk Hızlandırıcı [sı Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi izler.
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Standart
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 05/27/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/27/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Sürüm \n* Standart"

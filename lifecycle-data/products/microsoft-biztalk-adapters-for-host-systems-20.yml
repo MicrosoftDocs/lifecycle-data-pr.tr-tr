@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ana Bilgisayar Sistemleri 2.0 için Microsoft BizTalk Bağdaştırıcıları
+  description: Ana Bilgisayar Sistemleri 2.0 için Microsoft BizTalk Bağdaştırıcıları, Sabit Yaşam Döngüsü İlkesini izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844579"
+name: Ana Bilgisayar Sistemleri 2.0 için Microsoft BizTalk Bağdaştırıcıları
+summary: >+
+  Ana Bilgisayar Sistemleri 2.0 için Microsoft BizTalk Bağdaştırıcıları, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Geliştirici, Standart
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Geliştirici\n* Standart"
