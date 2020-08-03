@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Endpoint Protection 2010
+  description: Microsoft Forefront Endpoint Protection 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865169"
+name: Microsoft Forefront Endpoint Protection 2010
+summary: >
+  Microsoft Forefront Endpoint Protection 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+
+  > [!IMPORTANT]
+
+  > Destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Servis bilgileri](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Müşteriler tam olarak desteklenecek en son kötü amaçlı yazılımdan koruma platformu güncelleştirmesiyle güncel kalmalı. Forefront Endpoint Protection 2010, hem genel hem de genişletilmiş destek için System Center Configuration Manager 2007 ile aynı yaşam döngüsü politikası kapsamındadır."

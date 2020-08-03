@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: IIS Medya Hizmetleri 4.0
+  description: IIS Media Services 4.0, Bileşen Yaşam Döngüsü İlkesini izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 52297271a9bb92f999b37f70833442af5458ac62
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865016"
+name: IIS Medya Hizmetleri 4.0
+summary: >+
+  IIS Media Services 4.0, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesini izler.
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 01/30/2011
+releases:
+- version: Original Release
+  startDate: 01/30/2011
+content: "\n\n> [!NOTE]\n> Bu sürüm, ana Ana Ürün olan Windows Server 2008'in Destek Yaşam Döngüsü'nü izleyen bir Bileşen olarak bilinir"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Core
+  description: Microsoft .NET Core, Modern Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ec4cd98c7576838861d440b6f5c1856a1414d93f
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864973"
+name: Microsoft .NET Core
+summary: >+
+  Microsoft .NET [Core, Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [.NET yol haritası](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Servis bilgileri](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Yaşam Döngüsü SSS - .NET Core](/lifecycle/faq/dotnet-core)"
