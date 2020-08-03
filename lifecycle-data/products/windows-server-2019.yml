@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2019
+  description: Windows Server 2019, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872882"
+name: Windows Server 2019
+summary: >+
+  Windows Server 2019, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu aşağıdaki sürümler için geçerlidir: Datacenter, Essentials, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün bilgileri](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019 kullanılabilirliği güncelleştirme](https://aka.ms/WSRelaunchBlog)\n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 ve Windows Server, sürüm 1809 13 Kasım 2018 tarihinde yeniden yayımlandı. Destek tarihleri buna göre ayarlandı.\n\n## <a name=\"editions\"></a>Sürüm \n* Datacenter\n* Temel Öğeler\n* Standart"
