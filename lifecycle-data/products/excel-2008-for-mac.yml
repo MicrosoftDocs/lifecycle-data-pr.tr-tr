@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Mac için Excel 2008
+  description: Mac için Excel 2008, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aec33c5351d53108f34d6d36a6db1ba5d1a4b5c4
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844650"
+name: Mac için Excel 2008
+summary: >
+  Mac için Excel 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+
+  > [!IMPORTANT]
+
+  > Bu ürüne yönelik destek sona erdi.
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/12/2008
+  end: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2008
+  endDate: 04/09/2013
+content: ''
