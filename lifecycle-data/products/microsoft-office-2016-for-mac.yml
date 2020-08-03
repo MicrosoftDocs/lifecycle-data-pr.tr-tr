@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Mac için Microsoft Office 2016
+  description: Mac için Microsoft Office 2016, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8d2998bebb75602990459d9d60060f04cc516e03
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865303"
+name: Mac için Microsoft Office 2016
+summary: >+
+  Mac için Microsoft Office 2016, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu aşağıdaki sürümleri için geçerlidir: Ev ve İş, Ev ve Öğrenci, Standart
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/22/2015
+  end: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 10/13/2020
+content: "\n\n\n## <a name=\"editions\"></a>Sürüm \n* Ev ve İş\n* Ev ve Öğrenci\n* Standart"
