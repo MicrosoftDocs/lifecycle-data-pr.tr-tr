@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "844753"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu aşağıdaki sürümleri için geçerlidir: Datacenter, Hyper-V olmadan Datacenter, Enterprise, Hyper-V olmadan Enterprise, Itanium Tabanlı Sistemler için, Vakıf, Standart, Hyper-V olmadan Standart, Web
+
+
+  > [!IMPORTANT]
+
+  > Bu ürüne yönelik destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://aka.ms/AA1ovn4)\n* [Sunucu Yükseltme Bilgileri](/windows-server/upgrade/upgrade-overview)\n* [Genişletilmiş Güvenlik Güncelleme Programı (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Genişletilmiş Güvenlik Güncelleştirmeleri (ESU), veri merkezi, Standart, Kurumsal ve Bu ürün sürümlerinin gömülü sürümleri için, desteğin bitiminden üç yıl öncesine kadar belirli toplu lisanslama programları aracılığıyla kullanılabilir. Daha fazla bilgi edinmek için Microsoft iş ortağınıza veya hesap ekibinize başvurun. \n\nYayın-------------------------------Başlangıç Tarihi----Bitiş Tarihi\n\nGenişletilmiş Güvenlik Güncelleştirme Yılı 3---01/11/2022---01/10/2023\n\nGenişletilmiş Güvenlik Güncelleştirme Yılı 2---01/12/2021---01/11/2022\n\nGenişletilmiş Güvenlik Güncelleştirme Yılı 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Vakfı 21 Mayıs 2009 tarihinde yayınlandı\n\n## <a name=\"editions\"></a>Sürüm \n* Datacenter\n* Hyper-V olmadan Veri Merkezi\n* Kurumsal\n* Hyper-V'siz Kurumsal\n* Itanium Tabanlı Sistemler için\n* Foundation\n* Standart\n* Hyper-V olmadan standart\n* Web"
