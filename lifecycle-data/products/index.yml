@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Ürün ve Hizmetler Yaşam Döngüsü Bilgilerini Ara (Önizleme)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Bu sayfa geliştirilmektedir. Microsoft ürünlerinin tam listesi ve bunların destek zaman çizelgeleri ve ayrıntıları için lütfen [aka.ms/lifecycle/search.](https://aka.ms/lifecycle/search/)\n\n\nMicrosoft Yaşam Döngüsü, bir ürünün ömrü boyunca destek için tutarlı ve öngörülebilir yönergeler sağlayarak müşterilerin BT yatırımlarını ve ortamlarını stratejik olarak geleceğe yönelik planlamayaparken yönetmelerine yardımcı olur.\n\n\nMicrosoft ticari ürün ve hizmetlerinin bir listesini aşağıda arayın ve ardından destek ve servis zaman çizelgelerini, gerekli güncelleştirmeleri, geçiş bilgilerini ve sistem gereksinimlerini bulmak için sonucunuzu seçin."
+summary: "\n\n> [!IMPORTANT]\n> Bu sayfa geliştirilmektedir. Microsoft ürünlerinin tam listesi ve bunların destek zaman çizelgeleri ve ayrıntıları için lütfen [aka.ms/lifecycle/search.](https://aka.ms/lifecycle/search/)\n> [!NOTE]\n> Yaşam döngüsü bilgilerini [Yaşam Döngüsü Dışa Aktarma](/lifecycle/export/products) sayfasından dışa aktarın.\n\n\nMicrosoft Yaşam Döngüsü, bir ürünün ömrü boyunca destek için tutarlı ve öngörülebilir yönergeler sağlayarak müşterilerin BT yatırımlarını ve ortamlarını stratejik olarak geleceğe yönelik planlamayaparken yönetmelerine yardımcı olur.\n\n\nMicrosoft ticari ürün ve hizmetlerinin bir listesini aşağıda arayın ve ardından destek ve servis zaman çizelgelerini, gerekli güncelleştirmeleri, geçiş bilgilerini ve sistem gereksinimlerini bulmak için sonucunuzu seçin."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844625"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882457"
