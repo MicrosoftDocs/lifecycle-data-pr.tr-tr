@@ -1,27 +1,27 @@
 ---
 title: Ürünleri dışarı aktarma
 description: Ürün yaşam döngüsü bilgilerini dışarı aktarma
-ms.date: 08/06/2020
-ms.openlocfilehash: 9a08884d7ccf6ea1207ea9744764269647dd5459
-ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
+ms.date: 08/07/2020
+ms.openlocfilehash: cca8929e0dab2fb530d94edbcda7a037b05ff794
+ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "885205"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "885813"
 ---
-# <a name="export"></a><span data-ttu-id="560e4-103">Dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="560e4-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="4296a-103">Dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="4296a-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="560e4-104">Bu sayfa geliştirme aşamasındadır.</span><span class="sxs-lookup"><span data-stu-id="560e4-104">This page is under development.</span></span>
+> <span data-ttu-id="4296a-104">Bu sayfa geliştirme aşamasındadır.</span><span class="sxs-lookup"><span data-stu-id="4296a-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="560e4-105">Tüm ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="560e4-105">Export All Products</span></span>
-<span data-ttu-id="560e4-106">Hiçbir filtre olmadan tüm ürünleri dışarı aktarın.</span><span class="sxs-lookup"><span data-stu-id="560e4-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="4296a-105">Tüm ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="4296a-105">Export All Products</span></span>
+<span data-ttu-id="4296a-106">Hiçbir filtre olmadan tüm ürünleri dışarı aktarın.</span><span class="sxs-lookup"><span data-stu-id="4296a-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="560e4-107">Tüm ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="560e4-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="4296a-107">Tüm ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="4296a-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="560e4-108">Ürünleri kategoriye göre dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="560e4-108">Export Products by Category</span></span>
-<span data-ttu-id="560e4-109">Dışarı aktarılacak gruplandırmayı seçin:</span><span class="sxs-lookup"><span data-stu-id="560e4-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="4296a-108">Ürünleri kategoriye göre dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="4296a-108">Export Products by Category</span></span>
+<span data-ttu-id="4296a-109">Dışarı aktarılacak gruplandırmayı seçin:</span><span class="sxs-lookup"><span data-stu-id="4296a-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="M" title2="Grup"]
 > - [(.NET | Tüm](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "885205"
 > - [(Windows | Güvenliğine](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Sunucuyla](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="560e4-167">Destek yılının sonuna kadar ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="560e4-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="560e4-168">Bu yıldaki ürünleri sona erdirmek için bir yıl seçin:</span><span class="sxs-lookup"><span data-stu-id="560e4-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="4296a-167">Destek yılının sonuna kadar ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="4296a-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="4296a-168">Bu yıldaki ürünleri sona erdirmek için bir yıl seçin:</span><span class="sxs-lookup"><span data-stu-id="4296a-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
