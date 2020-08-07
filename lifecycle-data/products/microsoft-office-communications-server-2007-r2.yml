@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office İletişim Sunucusu 2007 R2
-  description: Microsoft Office Communications Server 2007 R2, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 33d9d5fff1c61fcf44480c75e2a2f7ff3bd72fc9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office Communications Server 2007 R2
+  description: Microsoft Office Communications Server 2007 R2, sabit yaşam döngüsü Ilkesini takip eder.
+  ms.date: 08/07/2020
+  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
+  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844883"
-name: Microsoft Office İletişim Sunucusu 2007 R2
-summary: >+
-  Microsoft Office Communications Server 2007 [R2, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
-
-  Bu, aşağıdaki sürümler için geçerlidir: XMPP Ağ Geçidi
-
+  ms.lasthandoff: 08/07/2020
+  ms.locfileid: "885850"
+name: Microsoft Office Communications Server 2007 R2
+summary: "Microsoft Office Communications Server 2007 R2, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.\n\nBu, aşağıdaki sürümler için geçerlidir: tüm ilgili, kurumsal, XMPP ağ geçidi\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. Geçiş kılavuzuna bakın. \n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Ağ Geçidi 28.09.2009 tarihinde yayınlandı.\n\n## <a name=\"editions\"></a>Sürüm \n* XMPP Ağ Geçidi"
+content: "\n## <a name=\"links\"></a>Balantı \n* [Geçiş Kılavuzu](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP ağ geçidi 9/28/2009 'da yayımlanmıştır.\n\n## <a name=\"editions\"></a>Sürümleri \n* İlgili tüm\n* Si\n* XMPP ağ geçidi"
