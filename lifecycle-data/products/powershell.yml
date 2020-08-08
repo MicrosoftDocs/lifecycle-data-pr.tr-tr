@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Tiğinin
+  description: PowerShell modern yaşam döngüsü Ilkesini takip eder.
+  ms.date: 08/07/2020
+  ms.openlocfilehash: 0f8cb9112144a4c13bb9bf329fbe8535e3623834
+  ms.sourcegitcommit: d4150c5bd247ae5ba671483e50bb9414edb04248
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 08/08/2020
+  ms.locfileid: "886005"
+name: Tiğinin
+summary: >+
+  PowerShell [modern](/lifecycle/policies/modern) yaşam döngüsü ilkesini takip eder.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 01/19/2018
+releases:
+- version: PowerShell 7.x
+  startDate: 03/04/2020
+  endDate: 12/03/2022
+- version: PowerShell Core 6.2
+  startDate: 03/28/2019
+  endDate: 09/04/2020
+- version: PowerShell Core 6.1
+  startDate: 09/13/2018
+  endDate: 09/28/2019
+- version: PowerShell 6.x
+  startDate: 01/19/2018
+  endDate: 09/04/2020
+content: "\n## <a name=\"links\"></a>Balantı \n* [Hizmet bilgileri](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Hizmet verme bilgileri bağlantısından ayrıntılı PowerShell yaşam döngüsü bilgilerine bakın."
