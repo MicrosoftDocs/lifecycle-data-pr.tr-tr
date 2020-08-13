@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ana Bilgisayar Sistemleri 2.0 için Microsoft BizTalk Bağdaştırıcıları
-  description: Ana Bilgisayar Sistemleri 2.0 için Microsoft BizTalk Bağdaştırıcıları, Sabit Yaşam Döngüsü İlkesini izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Ana bilgisayar sistemleri için Microsoft BizTalk bağdaştırıcıları 2,0
+  description: Ana bilgisayar 2,0 sistemleri için Microsoft BizTalk bağdaştırıcıları, sabit yaşam döngüsü Ilkesini takip eder.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844579"
-name: Ana Bilgisayar Sistemleri 2.0 için Microsoft BizTalk Bağdaştırıcıları
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893519"
+name: Ana bilgisayar sistemleri için Microsoft BizTalk bağdaştırıcıları 2,0
 summary: >+
-  Ana Bilgisayar Sistemleri 2.0 için Microsoft BizTalk Bağdaştırıcıları, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Ana bilgisayar 2,0 sistemleri için Microsoft BizTalk bağdaştırıcıları, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Geliştirici, Standart
+  Bu, aşağıdaki sürümlere uygulanır: geliştirici, standart
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Geliştirici\n* Standart"
+content: "\n## <a name=\"links\"></a>Balantı \n* [Geçiş Kılavuzu](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* İyle\n* Ardından"
