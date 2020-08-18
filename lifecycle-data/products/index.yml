@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Ürün ve Hizmetler Yaşam Döngüsü Bilgilerini Ara (Önizleme)
+title: Ürün ve hizmet yaşam döngüsü bilgilerini arama (Önizleme)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Bu sayfa geliştirilmektedir. Microsoft ürünlerinin tam listesi ve bunların destek zaman çizelgeleri ve ayrıntıları için lütfen [aka.ms/lifecycle/search.](https://aka.ms/lifecycle/search/)\n> [!NOTE]\n> Yaşam döngüsü bilgilerini [Yaşam Döngüsü Dışa Aktarma](/lifecycle/export/products) sayfasından dışa aktarın.\n\n\nMicrosoft Yaşam Döngüsü, bir ürünün ömrü boyunca destek için tutarlı ve öngörülebilir yönergeler sağlayarak müşterilerin BT yatırımlarını ve ortamlarını stratejik olarak geleceğe yönelik planlamayaparken yönetmelerine yardımcı olur.\n\n\nMicrosoft ticari ürün ve hizmetlerinin bir listesini aşağıda arayın ve ardından destek ve servis zaman çizelgelerini, gerekli güncelleştirmeleri, geçiş bilgilerini ve sistem gereksinimlerini bulmak için sonucunuzu seçin."
+summary: "\n\n> [!IMPORTANT]\n> Bu sayfa geliştirme aşamasındadır ve 2 Eylül tarihinde tamamen canlı olacak. Bu arada, Microsoft ürünlerinin destek zaman çizelgelerini ve ayrıntılarını içeren tam bir listesini [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/)adresinde görebilirsiniz.\n> [!NOTE]\n> Yaşam [çevrimi dışarı aktarma](/lifecycle/export/products) sayfasından yaşam döngüsü bilgilerini dışarı aktarın.\n\n\nMicrosoft yaşam döngüsü, bir ürünün ömrüyle ilgili olarak, müşterilerin BT yatırımlarını ve ortamlarını geleceğe göre planlamak amacıyla yönetmesine yardımcı olan tutarlı ve öngörülebilir yönergeler sağlar.\n\n\nMicrosoft Commercial Products and Services 'in bir listesini aşağıya ve ardından destek ve hizmet zaman çizelgelerini, gerekli güncelleştirmeleri, geçiş bilgilerini ve sistem gereksinimlerini bulmak için sonucu seçin."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882457"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899860"
