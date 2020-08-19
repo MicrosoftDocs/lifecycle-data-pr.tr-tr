@@ -3,12 +3,12 @@ metadata:
   title: Office XP
   description: Office XP, sabit yaşam döngüsü Ilkesini takip eder.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 377f640ffd5eb2dcfbf162acb4ba2a04d5bf9bad
-  ms.sourcegitcommit: cdc82d954cf43f559efedf304d3b044b29dda561
+  ms.openlocfilehash: 44b7cfd73af7cf60b8958ff6e21aaed982241a1f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
   ms.translationtype: MT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903405"
+  ms.locfileid: "903785"
 name: Office XP
 summary: >+
   Office XP, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
@@ -35,5 +35,5 @@ releases:
   endDate: 08/21/2003
 - version: Original Release
   startDate: 05/31/2001
-  endDate: 12/31/2002
+  endDate: 07/12/2011
 content: "\n\n\n## <a name=\"editions\"></a>Sürümleri \n* İyle\n* Onal\n* Yazım denetleme araçları\n* Ardından\n* Web bileşenleri"
