@@ -1,27 +1,27 @@
 ---
-title: Ürünleri dışarı aktarma
+title: Yaşam çevrimi verileri dışarı aktarma
 description: Ürün yaşam döngüsü bilgilerini dışarı aktarma
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899823"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902423"
 ---
-# <a name="export"></a>Dışarı aktarma
+# <a name="lifecycle-data-export"></a>Yaşam çevrimi verileri dışarı aktarma
 
 > [!IMPORTANT]
 > Bu sayfa geliştirme aşamasındadır.
 
 ## <a name="export-all-products"></a>Tüm ürünleri dışarı aktarma
-Hiçbir filtre olmadan tüm ürünleri dışarı aktarın.
+Aşağıdaki tıklatarak tüm ürünlerin yaşam döngüsünü dışarı aktarın:
 
 > [!div class="nextstepaction"]
 > [Tüm ürünleri dışarı aktarma](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Ürünleri kategoriye göre dışarı aktarma
-Dışarı aktarılacak gruplandırmayı seçin:
+## <a name="export-products-by-family-and-group"></a>Aile ve gruba göre ürünleri dışarı aktarma
+Bir aile ve sonra dışarı aktarılacak grubu seçin. Not: grup değeri seçildiğinde dışarı aktarma başlayacak. 
 
 > [!div class="op_multi_selector" title1="M" title2="Grup"]
 > - [(.NET | Tüm](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Dışarı aktarılacak gruplandırmayı seçin:
 > - [(Windows | Güvenliğine](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Sunucuyla](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Destek yılının sonuna kadar ürünleri dışarı aktarma
-Bu yıldaki ürünleri sona erdirmek için bir yıl seçin:
+## <a name="export-products-by-end-of-support-date"></a>Destek tarihine göre ürünleri dışarı aktarma
+Destek sonuna ulaşan ürünleri görmek için bir yıl seçin. Not: dışarı aktarma yıl değeri seçildiğinde başlar.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
