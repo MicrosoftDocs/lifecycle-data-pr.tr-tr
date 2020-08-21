@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Tahminci 7.0
+  title: Microsoft Forecaster 7.0
   description: Microsoft Forecaster 7.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844531"
-name: Microsoft Tahminci 7.0
+name: Microsoft Forecaster 7.0
 summary: >+
   Microsoft Forecaster 7.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tahminci desteği, Dinamikler ürününün bileşeni olarak dağıtılmadığı sürece belirtilen tarihte sona erer. Dynamics ürünüyle dağıtıldığında, Dynamics yaşam döngüsü tarihleri Tahminci tarihini geçersiz kılar."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Forecaster desteği, Dynamics ürününün bir bileşeni olarak dağıtılmadığı takdirde belirtilen tarihte sona erer. Bir Dynamics ürünüyle dağıtıldığında, Dynamics yaşam döngüsü tarihleri Forecaster tarihini geçersiz kılar."

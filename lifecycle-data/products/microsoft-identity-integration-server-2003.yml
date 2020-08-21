@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844201"
 name: Microsoft Identity Integration Server 2003
-summary: "Microsoft Identity Integration Server 2003, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, aşağıdaki sürümler için geçerlidir: Enterprise\n\n> [!IMPORTANT]\n> Bu ürüne yönelik destek sona erdi. \n"
+summary: "Microsoft Identity Integration Server 2003, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, aşağıdaki sürümler için geçerlidir: Enterprise\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. \n"
 products:
 - m365
 policyType: fixed
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/26/2003
   endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n* [Windows Server Bilgileri](/windows-server/)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n* [Windows Server Bilgileri](/windows-server/)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise"

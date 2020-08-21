@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: FAST Search Server 2010 (İnternet Siteleri için, Dahili Uygulamalar için)
-  description: FAST Search Server 2010 (Internet Siteleri için, Dahili Uygulamalar için) Sabit Yaşam Döngüsü Politikası'nı izler.
+  description: FAST Search Server 2010 (İnternet Siteleri için, Dahili Uygulamalar için), Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844642"
 name: FAST Search Server 2010 (İnternet Siteleri için, Dahili Uygulamalar için)
 summary: >+
-  FAST Search Server 2010 (Internet Siteleri için, Dahili Uygulamalar için) [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+  FAST Search Server 2010 (Internet Siteleri için, Dahili Uygulamalar için) [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü lkesi'ni izler.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: İç Uygulamalar, İnternet Siteleri
+  Bu, aşağıdaki sürümler için geçerlidir: Dahili Uygulamalar, İnternet Siteleri
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Yaşam Döngüsü SSS - Genel](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Daha önce desteklenen sürümleri hariç tutar. Bu ürün için destek, ürün satın alma koşullarına tabidir.\n\n## <a name=\"editions\"></a>Sürüm \n* Dahili Uygulamalar\n* İnternet Siteleri"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Yaşam Döngüsü SSS - Genel](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Daha önce desteklenmeyen sürümleri hariç tutar. Bu ürünün desteği, ürünün alım şartlarına tabidir.\n\n## <a name=\"editions\"></a>Sürümler \n* Dahili Uygulamalar\n* İnternet Siteleri"

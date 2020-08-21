@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844477"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
+  > Bu ürün için destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Ürün bilgileri](/mem/configmgr/core/understand/introduction)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Ürün bilgileri](/mem/configmgr/core/understand/introduction)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"

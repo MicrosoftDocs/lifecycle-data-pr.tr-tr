@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP Gömülü
+  title: Windows XP Embedded
   description: Windows XP Embedded, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844029"
-name: Windows XP Gömülü
+name: Windows XP Embedded
 summary: >
-  Windows XP [Embedded, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Windows XP Embedded, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Gömülü
+  Bu, aşağıdaki sürümler için geçerlidir: Embedded
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi.
+  > Bu ürün için destek sona erdi.
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Windows XP Embedded desteği](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Katıştırılmış"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Windows XP Embedded desteği](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Embedded"

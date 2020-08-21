@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft İçerik Yönetimi Sunucusu 2002
+  title: Microsoft Content Management Server 2002
   description: Microsoft Content Management Server 2002, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844545"
-name: Microsoft İçerik Yönetimi Sunucusu 2002
+name: Microsoft Content Management Server 2002
 summary: >+
   Microsoft Content Management Server 2002, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Kurumsal, Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -36,4 +36,4 @@ releases:
 - version: Service Pack 1
   startDate: 09/16/2003
   endDate: 07/11/2006
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Bu ürünün Enterprise sürümü 7 Kasım 2002 başlangıç tarihine sahiptir. \n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Standart"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Bu ürünün Enterprise sürümü, 7 Kasım 2002 başlangıç tarihine sahiptir. \n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise\n* Standard"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844891"
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Yaşam Döngüsü SSS - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Ürün bilgileri](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> 3,5 SP1'den önceki .NET Framework 3.x sürümleri için destek 12 Temmuz 2011 tarihinde sona erdi. \n> [!NOTE]\n> Yaşam döngüsü tarihleri Windows 10 sürüm 1809, Windows Server 2019 veya sonraki sürümlerde çalışırken .NET 3.5 SP1 için geçerlidir. Windows'un eski sürümlerinde,.NET 3.5 SP1, temel Windows işletim sistemi yaşam döngüsünü benimser."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Yaşam Döngüsü SSS - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Ürün bilgileri](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> 3.5 SP1 öncesi .NET Framework 3.x sürümlerinin desteği 12 Temmuz 2011’de sona erdi. \n> [!NOTE]\n> Yaşam döngüsü tarihleri Windows 10 sürüm 1809, Windows Server 2019 ya da sonrasında çalıştığında .NET 3.5 SP1 için geçerlidir. Windows’un daha eski sürümlerinde, .NET 3.5 SP1 alttaki Windows İS’nin yaşam döngüsünü benimser."

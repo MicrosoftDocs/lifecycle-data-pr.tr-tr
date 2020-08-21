@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843924"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft SharePoint Server 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Erişim Hizmetleri, Tüm uygulanabilir, Excel Hizmetleri, Performans Noktası Hizmetleri
+  Bu, aşağıdaki sürümler için geçerlidir: Access Services, Tümü uygulanabilir, Excel Services, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Destek uzantısı](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Geçiş kılavuzu](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Bu ürünün son destek tarihi 13 Ekim 2020 ile 13 Nisan 2021 tarihleri arasında uzatıldı.\n\n## <a name=\"editions\"></a>Sürüm \n* Erişim Hizmetleri\n* Tüm uygulanabilir\n* Excel Hizmetleri\n* Performans Noktası Hizmetleri"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Destek uzantısı](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Geçiş kılavuzu](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Bu ürünün hizmet sonu, 13 Ekim 2020’den 13 Nisan 2021’e uzatıldı.\n\n## <a name=\"editions\"></a>Sürümler \n* Access Services\n* Tümü uygulanabilir\n* Excel Services\n* Performance Point Services"

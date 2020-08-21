@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844192"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Lync Server 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümler için geçerlidir: Kurumsal, Kalıcı Sohbet Yazılımı Geliştirme Kiti, Telefon, SDK, Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Enterprise, Persistent Chat Yazılımı Geliştirme Kiti, Phone, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün bilgileri](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition, Lync Server 2010 ve Lync Server 2013 ile desteklenmiştir. Lync Phone Edition'ın destek tarihi, Lync Server 2013 yaşam döngüsüyle uyumlu hale getirmek için 2 yıl uzatıldı.\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Kalıcı Sohbet Yazılım Geliştirme Kiti\n* Telefon\n* Sdk\n* Standart"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition, Lync Server 2010 ve Lync Server 2013 ile desteklenmiştir. Lync Phone Edition'ın destek tarihi, Lync Server 2013 yaşam döngüsüyle uyumlu hale getirmek için 2 yıl uzatıldı.\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise\n* Persistent Chat Yazılım Geliştirme Kiti\n* Phone\n* SDK\n* Standard"

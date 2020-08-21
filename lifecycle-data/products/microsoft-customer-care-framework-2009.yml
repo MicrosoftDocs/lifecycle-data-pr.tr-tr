@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Müşteri Hizmetleri Çerçevesi 2009
-  description: Microsoft Müşteri Hizmetleri Çerçevesi 2009, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: Microsoft Customer Care Framework 2009, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844540"
 name: Microsoft Müşteri Hizmetleri Çerçevesi 2009
 summary: >
-  Microsoft Müşteri Hizmetleri Çerçevesi 2009, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Customer Care Framework 2009, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2008
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"

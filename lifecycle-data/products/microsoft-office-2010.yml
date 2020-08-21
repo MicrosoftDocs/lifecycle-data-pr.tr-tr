@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844187"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Office 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: eAcademy, Ev ve İş, Ev ve Öğrenci, Kişisel, Profesyonel, Profesyonel Akademik, Profesyonel Plus, Profesyonel Plus, Profesyonel Plus Ev Kullanımı Programı, Standart, Başlangıç
+  Bu, şu sürümleri için geçerlidir: eAcademy, Ev ve İş, Ev ve Öğrenci, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Evde Kullanım Programı, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Office 2010 destek yol haritası sonu](/DeployOffice/office-2010-end-support-roadmap)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* eAkademi\n* Ev ve İş\n* Ev ve Öğrenci\n* Kişisel\n* Profesyonel\n* Profesyonel Akademik\n* Profesyonel Plus\n* Profesyonel Plus Ev Kullanım Programı\n* Standart\n* Starter"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Office 2010 destek sonu yol haritası](/DeployOffice/office-2010-end-support-roadmap)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* eAcademy\n* Ev ve İş\n* Ev ve Öğrenci\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus Evde Kullanım Programı\n* Standard\n* Starter"
