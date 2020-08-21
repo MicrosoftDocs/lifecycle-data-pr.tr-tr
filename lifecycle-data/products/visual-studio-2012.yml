@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Görsel Stüdyo 2012
-  description: Visual Studio 2012, Sabit Yaşam Döngüsü Politikası'nı izler.
+  title: Visual Studio 2012
+  description: Visual Studio 2012, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865061"
-name: Görsel Stüdyo 2012
+name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+  Visual Studio 2012, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu sürümler için geçerlidir: Aracılar, Topluluk 2013, Web için Express, Windows için Express 8, Windows Masaüstü için Express, IntelliTrace Collector, Microsoft Azure Araçları, Premium, Profesyonel, Uzak Araçlar, Shell (Entegre), Shell (İzole), SQL Server Veri Araçları, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Yeniden Dağıtılabilir, Web Araçları Uzantıları
+  Bu, aşağıdaki sürümler için geçerlidir: Agents, Topluluk 2013, Web için Express, Windows 8 için Express, Windows Masaüstü için Express, IntelliTrace Collector, Microsoft Azure Araçları, Premium, Professional, Uzak Araçlar, Shell (Tümleşik), Shell (Yalıtılmış), SQL Server Veri Araçları, Takım Gezgini, Test Professional 2013, Ultimate, Visual C++ Yeniden Dağıtılabilir, Web Tools Uzantıları
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Visual Studio Ürün Yaşam Döngüsü ve Servis](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Ajan\n* Topluluk 2013\n* Web için Express\n* Windows 8 için Express\n* Windows Masaüstü için Express\n* IntelliTrace Kollektör\n* Microsoft Azure Araçları\n* Premium\n* Profesyonel\n* Uzak Araçlar\n* Kabuk (Entegre)\n* Kabuk (Yalıtılmış)\n* SQL Server Veri Araçları\n* Takım Gezgini\n* Test Profesyoneli 2013\n* Nihai\n* Visual C++ Yeniden Dağıtılabilir\n* Web Araçları Uzantıları"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Visual Studio Ürün Yaşam Döngüsü ve Hizmet](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Topluluk 2013\n* Web için Express\n* Windows 8 için Express\n* Windows Masaüstü için Express\n* IntelliTrace Collector\n* Microsoft Azure Araçları\n* Premium\n* Professional\n* Uzak Araçlar\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* SQL Server Veri Araçları\n* Takım Gezgini\n* Test Professional 2013\n* Ultimate\n* Visual C++ Yeniden Dağıtılabilir\n* Web Tools Uzantıları"

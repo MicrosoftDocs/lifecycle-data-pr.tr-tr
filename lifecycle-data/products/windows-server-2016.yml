@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865311"
@@ -14,7 +14,7 @@ summary: >+
   Windows Server 2016, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümler için geçerlidir: Datacenter, Essentials, MultiPoint Premium, Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Datacenter, Essentials, MultiPoint Premium, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün bilgileri](/windows-server/get-started/server-basics)\n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Datacenter\n* Temel Öğeler\n* MultiPoint Premium\n* Standart"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](/windows-server/get-started/server-basics)\n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"

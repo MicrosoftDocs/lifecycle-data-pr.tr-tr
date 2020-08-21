@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865289"
 name: Microsoft System Center Configuration Manager 2007 R3
 summary: >
-  Microsoft System Center Configuration Manager 2007 [R3, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft System Center Configuration Manager 2007 R3, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
+  > Bu ürün için destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/19/2010
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Ek geçiş kılavuzu](/mem/configmgr/core/migration/planning-for-migration)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Ek geçiş kılavuzu](/mem/configmgr/core/migration/planning-for-migration)"

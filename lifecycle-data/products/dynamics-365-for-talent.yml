@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Yetenek için Dynamics 365
-  description: Dynamics 365 for Talent, Modern Yaşam Döngüsü Politikası'nı takip eder.
+  title: Dynamics 365 for Talent
+  description: Dynamics 365 for Talent, Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872868"
-name: Yetenek için Dynamics 365
+name: Dynamics 365 for Talent
 summary: >+
-  Dynamics 365 for [Talent, Modern](/lifecycle/policies/modern) Yaşam Döngüsü Politikası'nı takip eder.
+  Dynamics 365 for Talent, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: Onboard
+  Bu, aşağıdaki sürümler için geçerlidir: Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Sistem gereksinimleri](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Geçiş kılavuzu](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Çekme ve Yerleşik uygulamalar 2 Şubat 2022'de kullanımdan kaldırılacaktır.  Core HR Dynamics 365 İnsan Kaynakları olarak 1 Şubat 2020 tarihinde yeniden başlatılan, daha fazla bilgi için göç rehberlik bakın.\n\n## <a name=\"editions\"></a>Sürüm \n* Onboard"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Sistem gereksinimleri](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Geçiş kılavuzu](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Attract and Onboard uygulamalar, 2 Şubat 2022'de kullanımdan kaldırılacaktır.  Core HR, Dynamics 365 İnsan Kaynakları olarak 1 Şubat 2020 tarihinde yeniden çıkarılacaktır, daha fazla bilgi için geçiş rehberine bakın.\n\n## <a name=\"editions\"></a>Sürümler \n* Onboard"

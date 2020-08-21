@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows 8, sabit yaşam döngüsü Ilkesini takip eder.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865106"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906714"
 name: Windows 8
 summary: >
-  Windows [8, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Windows 8, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: Enterprise, Enterprise N, N, Media Center, Professional, Professional N ile Pro
+  Bu, şu sürümlere uygulanır: Enterprise, Enterprise N, N, Pro, Media Center, profesyonel, profesyonel N, SL
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi. Müşterilerin desteklenmeleri için Windows 8.1'e güncelleştirmeleri gerekir.
+  > Bu ürün için destek sona erdi. Müşteriler desteklenen bir durumda kalmak için Windows 8,1 ' a güncelleştirilmelidir.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Yaşam Döngüsü SSS - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Kurumsal N\n* N\n* Medya Merkezi ile Pro\n* Profesyonel\n* Profesyonel N"
+content: "\n## <a name=\"links\"></a>Balantı \n* [Yaşam döngüsü SSS-Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* Si\n* Kurumsal N\n* Sayfalı\n* Media Center ile Pro\n* Onal\n* Profesyonel N\n* DSL"

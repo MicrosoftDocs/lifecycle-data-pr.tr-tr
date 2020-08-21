@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Gömülü POSReady 7
-  description: Windows Embedded POSReady 7, Sabit Yaşam Döngüsü İlkesini izler.
+  title: Windows Embedded POSReady 7
+  description: Windows Embedded POSReady 7, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865231"
-name: Windows Gömülü POSReady 7
+name: Windows Embedded POSReady 7
 summary: >+
-  Windows Embedded POSReady [7, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Windows Embedded POSReady 7, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [* Genişletilmiş Güvenlik Güncelleme Programı (ESU) - Belirli Gömülü ürünler için Genişletilmiş Güvenlik Güncelleştirmeleri OEM'ler aracılığıyla kullanılabilir.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT Gömülü Modu](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [* Genişletilmiş Güvenlik Güncelleştirmeleri (ESU) - Seçilmiş Gömülü ürünler için Genişletilmiş Güvenlik Güncelleştirmeleri, OEM'ler aracılığıyla kullanılabilir.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT Embedded Mode](/windows/iot-core/develop-your-app/embeddedmode)"

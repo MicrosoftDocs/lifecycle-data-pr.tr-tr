@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Depolama Sunucusu 2012 R2
+  title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865263"
-name: Windows Depolama Sunucusu 2012 R2
+name: Windows Storage Server 2012 R2
 summary: >+
-  Windows Storage Server 2012 [R2, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Windows Storage Server 2012 R2, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümler için geçerlidir: Essentials, Standard, Workgroup
+  Bu, aşağıdaki sürümler için geçerlidir: Essentials, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Bu ürün için genel ve genişletilmiş destek, müşterilere standart yaşam döngüsü geçiş zaman çizelgesi sağlamak için genişletilmiştir.\n> [!NOTE]\n> Essentials sürümünün başlangıç tarihi 25 Eylül 2014'tür. \n\n## <a name=\"editions\"></a>Sürüm \n* Temel Öğeler\n* Standart\n* Çalışma grubu"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Bu ürün için Genel ve Genişletilmiş destek, müşterilere standart yaşam döngüsü geçiş zaman çizelgesi sağlamak için genişletilmiştir.\n> [!NOTE]\n> Essentials sürümünün başlangıç tarihi 25 Eylül 2014'tür. \n\n## <a name=\"editions\"></a>Sürümler \n* Essentials\n* Standard\n* Workgroup"

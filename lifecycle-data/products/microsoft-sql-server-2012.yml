@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864955"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft SQL Server 2012, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: İş Zekası, Geliştirici, Kurumsal, Enterprise Core, Express, Gömülü Sistemler için, Standart, Web
+  Bu, aşağıdaki sürümler için geçerlidir: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Embedded Systems için, Standard, Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* İş Zekası\n* Geliştirici\n* Kurumsal\n* Kurumsal Çekirdek\n* Express\n* Gömülü Sistemler için\n* Standart\n* Web"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* for Embedded Systems\n* Standard\n* Web"

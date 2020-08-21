@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Masaüstü Bilgisayarlar için Microsoft Uygulama Sanallaştırma Hosting 5.0
-  description: Windows Masaüstü Bilgisayarlar için Microsoft Application Virtualization Hosting 5.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: Windows Masaüstü için Microsoft Application Virtualization Hosting 5.0
+  description: Windows Masaüstü için Microsoft Application Virtualization Hosting 5.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864999"
-name: Windows Masaüstü Bilgisayarlar için Microsoft Uygulama Sanallaştırma Hosting 5.0
+name: Windows Masaüstü için Microsoft Application Virtualization Hosting 5.0
 summary: >+
-  Windows Masaüstü Bilgisayarlar için Microsoft Application Virtualization Hosting 5.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Windows Masaüstü için Microsoft Application Virtualization Hosting 5.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Windows Masaüstü Bilgisayarlar için
+  Bu, şu sürümler için geçerlidir: Windows Masaüstü için
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün bilgileri](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Windows Masaüstü Bilgisayarlar için"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Windows Masaüstü Bilgisayarlar için"

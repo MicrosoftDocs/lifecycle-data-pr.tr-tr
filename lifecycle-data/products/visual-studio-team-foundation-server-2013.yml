@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2013
-  description: Visual Studio Team Foundation Server 2013, Sabit Yaşam Döngüsü Politikası'nı izler.
+  description: Visual Studio Team Foundation Server 2013, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865240"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  Visual Studio Team Foundation Server 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+  Visual Studio Team Foundation Server 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: Tüm, Sürüm Yönetimi
+  Bu, aşağıdaki sürümler için geçerlidir: Tümü, Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün Bilgileri](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Servis bilgileri](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Hizmet Paketi Politikası](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> TFS 2013 için Yayın Yönetimi Sunucusu için, Güncelleme 4 4/9/2024 tarihine kadar ilke yönergelerine göre desteklenecektir.\n\n## <a name=\"editions\"></a>Sürüm \n* Tüm\n* Yayın Yönetimi"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün Bilgileri](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Servis bilgileri](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Hizmet Paketi İlkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> TFS 2013 için Release Management Server için Güncelleme 4, 4/9/2024 tarihine kadar ilke yönergelerine göre desteklenecektir.\n\n## <a name=\"editions\"></a>Sürümler \n* Tüm\n* Release Management"
