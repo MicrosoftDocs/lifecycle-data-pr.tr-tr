@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844619"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
+  > Bu ürün için destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
 products:
 - microsoft-servers
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Microsoft Akıllı Uygulama Ağ Geçidi 2007 Yol Haritası](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Microsoft Intelligent Application Gateway 2007 Yol Haritası](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 7 için Windows Otomatik Kurulum Kiti
-  description: Windows 7 için Windows Otomatik Yükleme Kiti, Sabit Yaşam Döngüsü İlkesini izler.
+  title: Windows 7 için Windows Otomatik Yükleme Seti
+  description: Windows 7 için Windows Otomatik Yükleme Kiti, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843884"
-name: Windows 7 için Windows Otomatik Kurulum Kiti
+name: Windows 7 için Windows Otomatik Yükleme Seti
 summary: >
-  Windows 7 için Windows Otomatik Yükleme [Kiti, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Windows 7 için Windows Otomatik Yükleme Kiti, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi.
+  > Bu ürün için destek sona erdi.
 products:
 - windows
 policyType: fixed-mainstream-only

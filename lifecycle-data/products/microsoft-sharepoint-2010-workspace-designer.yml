@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (Çalışma Alanı, Tasarımcı)
-  description: Microsoft SharePoint 2010 (Çalışma Alanı, Tasarımcı) Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: Microsoft SharePoint 2010 (Workspace, Designer)
+  description: Microsoft SharePoint 2010 (Workspace, Designer), Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843925"
-name: Microsoft SharePoint 2010 (Çalışma Alanı, Tasarımcı)
+name: Microsoft SharePoint 2010 (Workspace, Designer)
 summary: >+
-  Microsoft SharePoint 2010 (Çalışma Alanı, Tasarımcı) [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft SharePoint 2010 (Workspace, Designer), [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: Tasarımcı, Çalışma Alanı
+  Bu, aşağıdaki sürümler için geçerlidir: Designer, Workspace
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Geliştirici belgeleri](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Ürün dokümantasyonu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Sürüm \n* Tasarımcısı\n* Çalışma alanı"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Geliştirici dokümantasyonu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Ürün dokümantasyonu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Sürümler \n* Designer\n* Workspace"

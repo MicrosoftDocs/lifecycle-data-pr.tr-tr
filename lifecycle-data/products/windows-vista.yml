@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844030"
 name: Windows Vista
 summary: >
-  Windows [Vista, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Windows Vista, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: İş, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Başlangıç, Ultimate, Ultimate 64-bit
+  Bu, aşağıdaki sürümler için geçerlidir: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows yükseltme ve geçiş konuları](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* İş\n* İş N\n* Kurumsal\n* Kurumsal X64\n* Ana Sayfa Temel\n* Ana Sayfa Temel 64-bit\n* Ana Sayfa Temel N\n* Ana Sayfa Temel N 64-bit\n* Ev Premium\n* Ev Premium 64-bit\n* Starter\n* Nihai\n* En iyi 64 bit"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows yükseltme ve geçiş değerlendirmeleri](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844489"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft SharePoint 2010 (Internet Siteleri için) [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümler için geçerlidir: Internet Sites Enterprise için, Internet Sites Standard için
+  Bu, şu sürümler için geçerlidir: Internet Sites Enterprise için, Internet Sites Standard için
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün dokümantasyonu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Geliştirici belgeleri](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Bu ürünün son destek tarihi 13 Ekim 2020 ile 13 Nisan 2021 tarihleri arasında uzatıldı.\n\n## <a name=\"editions\"></a>Sürüm \n* Internet Sites Enterprise için\n* İnternet Siteleri Standardı için"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün dokümantasyonu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Geliştirici dokümantasyonu](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Bu ürünün hizmet sonu, 13 Ekim 2020’den 13 Nisan 2021’e uzatıldı.\n\n## <a name=\"editions\"></a>Sürümler \n* Internet Sites Enterprise için\n* İnternet Siteleri Standard için"

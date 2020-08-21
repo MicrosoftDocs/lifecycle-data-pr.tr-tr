@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2005
-  description: Visual Studio Team Foundation Server 2005, Sabit Yaşam Döngüsü Politikası'nı izler.
+  description: Visual Studio Team Foundation Server 2005, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 881badd8c2a2954697d7a63f329250f4a07b9581
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843917"
 name: Visual Studio Team Foundation Server 2005
 summary: >+
-  Visual Studio Team Foundation Server 2005, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+  Visual Studio Team Foundation Server 2005, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/17/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n* [Geçiş kılavuzu](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Bu ürüne yönelik destek sona erdi. Geçiş kılavuzu için aşağıya bakın."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n* [Geçiş kılavuzu](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Bu ürün için destek sona erdi. Geçiş kılavuzu için aşağıya bakın."

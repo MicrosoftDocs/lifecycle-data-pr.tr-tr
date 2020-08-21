@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843929"
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Analitik Sunucu\n* Masaüstü Profesyonel\n* SharePoint Görüntüleyici"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Analytics Server\n* Desktop Professional\n* SharePoint Viewer"

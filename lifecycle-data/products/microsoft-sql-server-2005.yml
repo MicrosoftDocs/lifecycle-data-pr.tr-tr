@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844073"
@@ -14,12 +14,12 @@ summary: >
   Microsoft SQL Server 2005, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümler için geçerlidir: Kompakt, Geliştirici, Gömülü, Kurumsal, Itanium tabanlı sistemler için Kurumsal, Enterprise X64, Express, Advanced Services ile Express, Standard, Standard for Itanium tabanlı Sistemler, Standart X64, Çalışma Grubu
+  Bu, aşağıdaki sürümler için geçerlidir: Compact, Developer, Embedded, Enterprise, Itanium tabanlı sistemler için Enterprise, Enterprise X64, Express, Advanced Services ile Express, Standart, Itanium tabanlı sistemler için Standard, Standard X64, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
+  > Bu ürün için destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition 19 Şubat 2007'de yayımlandı.\n\n## <a name=\"editions\"></a>Sürüm \n* Kompakt\n* Geliştirici\n* Katıştırılmış\n* Kurumsal\n* Itanium Tabanlı Sistemler için Kurumsal\n* Kurumsal X64\n* Express\n* Gelişmiş Hizmetlerle Ekspres\n* Standart\n* Itanium Tabanlı Sistemler için Standart\n* Standart X64\n* Çalışma grubu"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition, 19 Şubat 2007 tarihinde yayımlandı.\n\n## <a name=\"editions\"></a>Sürümler \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Itanium Tabanlı Sistemler için Enterprise\n* Enterprise X64\n* Express\n* Advanced Services ile Express\n* Standard\n* Itanium Tabanlı Sistemler için Standard\n* Standard X64\n* Workgroup"

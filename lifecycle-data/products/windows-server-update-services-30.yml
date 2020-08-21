@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Güncelleme Hizmetleri 3.0
+  title: Windows Server Update Services 3.0
   description: Windows Server Update Services 3.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844751"
-name: Windows Server Güncelleme Hizmetleri 3.0
+name: Windows Server Update Services 3.0
 summary: >
   Windows Server Update Services 3.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Destek 7/11/2017 tarihinden 14/1/2020'ye uzatıldı."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Destek, 11/7/2017'den 14/1/2020 tarihine uzatıldı."

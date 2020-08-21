@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843913"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Visual Studio 2005, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümler için geçerlidir: Profesyonel, Standart, Standart Sürüm akademik lisans, Veritabanı Profesyonelleri için Team Edition, Yazılım Mimarları için Team Edition, Yazılım Geliştiriciler için Team Edition, Team Edition, Team Edition, Team Test Load Agent, Microsoft Office System iTools, VB Express, Visual C# Express, Visual J# Express, Visual Web Developer Express
+  Bu, aşağıdaki sürümler için geçerlidir: Professional, Standard, Standart Sürüm akademik lisans, Veritabanı Profesyonelleri için Team Edition, Yazılım Mimarları için Team Edition, Yazılım Geliştiriciler için Team Edition, Yazılım Test Edenler için Team Edition, Team Suite, Team Test Load Agent, Microsoft Office System için Araçlar, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Visual J# destek bilgileri](https://msdn.microsoft.com/vstudio/bb188593)\n* [Geçiş kılavuzu](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio Ürün Bilgileri](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Bu ürüne yönelik destek sona erdi. Geçiş kılavuzu için aşağıya bakın.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Veritabanı Uzmanları için Team Edition 2 Mart 2007 tarihinde yayınlandı.\n\n## <a name=\"editions\"></a>Sürüm \n* Profesyonel\n* Standart\n* Standard Edition akademik lisansı\n* Veritabanı Profesyonelleri için Ekip Sürümü\n* Yazılım Mimarları için Ekip Sürümü\n* Yazılım Geliştiriciler için Team Edition\n* Yazılım Test Çileri için Team Edition\n* Takım Takımı\n* Takım Test Yük Aracısı\n* Microsoft Office Sistemi için araçlar\n* VB Ekspres\n* Görsel C# Ekspresi\n* Görsel C++ Ekspres\n* Görsel J# Ekspresi\n* Görsel Web Geliştirici Express"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Visual J# destek bilgileri](https://msdn.microsoft.com/vstudio/bb188593)\n* [Geçiş kılavuzu](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio Ürün Bilgileri](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Bu ürün için destek sona erdi. Geçiş kılavuzu için aşağıya bakın.\n> [!NOTE]\n> Veritabanı Profesyonelleri için Microsoft Visual Studio 2005 Team Edition 2 Mart 2007 tarihinde yayımlandı.\n\n## <a name=\"editions\"></a>Sürümler \n* Professional\n* Standard\n* Standard Edition akademik lisansı\n* Veritabanı Profesyonelleri için Team Edition\n* Yazılım Mimarları için Team Edition\n* Yazılım Geliştiriciler için Team Edition\n* Yazılım Test Edenler için Team Edition\n* Team Suite\n* Takım Test Yük Aracısı\n* Microsoft Office System için Araçlar\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
