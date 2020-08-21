@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server için Servis Veri Servisi
-  description: Windows Server için Hizmet Veri Veri Mes'i Bileşen Yaşam Döngüsü İlkesi'ni izler.
+  title: Windows Server için Service Bus
+  description: Windows Server için Service Bus, Bileşen Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865067"
-name: Windows Server için Servis Veri Servisi
+name: Windows Server için Service Bus
 summary: >
-  Windows Server için Hizmet Veri Veri Mes'i [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
+  Windows Server için Service Bus, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > Service Bus 1.1, SharePoint Server 2016 veya SharePoint Server 2013'ün bir bileşeni olduğunda, ilgili SharePoint Server sürümünün destek tarihlerine göre desteklenir.
+  > Service Bus 1.1, SharePoint Server 2016 veya SharePoint Server 2013'ün bir bileşeni olduğunda, ilgili SharePoint Server sürümünün destek sonu tarihlerine göre desteklenir.
 products:
 - windows
 policyType: component

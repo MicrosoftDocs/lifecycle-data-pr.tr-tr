@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Bilgi Koruma istemcisi
-  description: Azure Bilgi Koruma istemcisi, Modern Yaşam Döngüsü İlkesi'ni izler.
+  title: Azure Information Protection istemcisi
+  description: Azure Information Protection istemcisi, Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864848"
-name: Azure Bilgi Koruma istemcisi
+name: Azure Information Protection istemcisi
 summary: >+
-  Azure Bilgi Koruma [istemcisi, Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
+  Azure Information Protection istemcisi, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Servis bilgileri](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Birleşik ve kolaylaştırılmış bir müşteri deneyimi sağlamak için Azure Portalı'ndaki Azure Bilgi Koruma istemcisi (klasik) ve Etiket Yönetimi 31 Mart 2021 itibarıyla amortismana sokulmaktadır. Bu zaman dilimi, tüm mevcut Azure Bilgi Koruması müşterilerinin Microsoft Bilgi Koruması Birleşik Etiketleme platformlarını kullanarak birleşik etiketleme çözümümüze geçiş yapmasına olanak tanır."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Birleşik ve kolaylaştırılmış bir müşteri deneyimi sağlamak için Azure Portalı'ndaki Azure Information Protection istemcisi (klasik) ve Label Management, 31 Mart 2021 itibarıyla kullanımdan kaldırılacaktır. Bu zaman dilimi, tüm mevcut Azure Information Protection müşterilerinin Microsoft Information Protection Unified Labeling platformunu kullanarak birleşik etiketleme çözümümüze geçiş yapmasına olanak tanır."

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865150"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi.
+  > Bu ürün için destek sona erdi.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Windows Phone 8.1 SSS](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft, yaşam döngüsü başlangıç tarihinden itibaren en az 36 ay süreyle güvenlik güncelleştirmeleri de dahil olmak üzere İşletim Sistemi güncelleştirmelerini kullanıma sunacaktır. Bu güncelleştirmeler, her güncelleştirme kendisinden önceki güncelleştirme üzerine inşa ile artımlı olacaktır. Müşterilerin desteklenen kalmak için her güncelleştirmeyi yüklemesi gerekir. Bu artımlı güncelleştirmelerin dağıtımı, telefonunuzu satın aldığınız cep telefonu operatörü veya telefon üreticisi tarafından denetlenebilir ve yükleme telefonunuzun önceden güncellenmesini gerektirir. Güncelleştirme kullanılabilirliği ülkeye, bölgeye ve donanım özelliklerine göre de değişir."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Windows Phone 8.1 SSS](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft, yaşam döngüsü başlangıç tarihinden itibaren en az 36 ay boyunca güvenlik güncelleştirmeleri de dahil olmak üzere, İşletim Sistemi için güncelleştirmeleri kullanılabilir hale getirecektir. Bu güncelleştirmeler artımlı olarak, her güncelleştirme önceki güncelleştirmenin üzerine sunulacak şekilde sunulacaktır. Müşteriler, destekten faydalanmaya devam etmek için tüm güncelleştirmeleri yüklemelidir. Bu artımlı güncelleştirmelerin dağıtımı, cep telefonu operatörü veya telefonunuzu satın aldığınız telefon üreticisi tarafından kontrol edilebilir ve yükleme için telefonunuzun önceki güncelleştirmelerinin yapılmış olmasını gerekir. Güncelleştirme kullanılabilirliği de ülke, bölge ve donanım özelliklerine göre farklılık gösterecektir."

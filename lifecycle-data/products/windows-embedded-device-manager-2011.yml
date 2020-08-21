@@ -1,23 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Gömülü Aygıt Yöneticisi 2011
-  description: Windows Embedded Device Manager 2011, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d201270f62cb33b4d7bd7f8ca6a7c43dfe01f06
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Windows Embedded Cihaz Yöneticisi 2011
+  description: Windows Embedded Cihaz Yöneticisi 2011, sabit yaşam döngüsü Ilkesini takip eder.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865268"
-name: Windows Gömülü Aygıt Yöneticisi 2011
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906808"
+name: Windows Embedded Cihaz Yöneticisi 2011
 summary: >
-  Windows Embedded Device Manager 2011, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Windows Embedded Cihaz Yöneticisi 2011, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
 
+
+  Bu, aşağıdaki sürümlere uygulanır: Istemci, SDK, sunucu
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi.
+  > Bu ürün için destek sona erdi.
 products:
 - windows
 policyType: fixed
@@ -32,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Balantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* İstemci\n* 'SıNıN\n* Sunucu"

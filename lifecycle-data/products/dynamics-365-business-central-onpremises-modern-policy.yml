@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Business Central şirket içi (Modern Politika)
-  description: Dynamics 365 Business Central şirket içi (Modern Politika) Modern Yaşam Döngüsü Politikası'nı izler.
+  title: Dynamics 365 Business Central şirket içi (Modern İlke)
+  description: Dynamics 365 Business Central şirket içi (Modern İlke), Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872858"
-name: Dynamics 365 Business Central şirket içi (Modern Politika)
+name: Dynamics 365 Business Central şirket içi (Modern İlke)
 summary: >+
-  Dynamics 365 Business Central şirket içi (Modern Politika) [Modern](/lifecycle/policies/modern) Yaşam Döngüsü Politikası'nı izler.
+  Dynamics 365 Business Central şirket içi (Modern İlke) [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: 2019 release wave 2, version 15.x
   startDate: 10/01/2019
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Servis Bilgileri](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Microsoft Dynamics 365 Yol Haritası](https://aka.ms/businessappsreleasenotes)\n* [Sistem gereksinimleri](/dynamics365/business-central/product-requirements)\n* [SSS](/dynamics365/business-central/dev-itpro/faq)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet Bilgileri](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Microsoft Dynamics 365 Yol Haritası](https://aka.ms/businessappsreleasenotes)\n* [Sistem gereksinimleri](/dynamics365/business-central/product-requirements)\n* [SSS](/dynamics365/business-central/dev-itpro/faq)"

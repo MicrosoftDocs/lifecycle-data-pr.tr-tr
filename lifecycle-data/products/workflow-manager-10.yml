@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: İş Akışı Yöneticisi 1.0
-  description: İş Akışı Yöneticisi 1.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: Workflow Manager 1.0
+  description: Workflow Manager 1.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36a97aaf2df469316f169e8cb1582ce8efbae7ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865148"
-name: İş Akışı Yöneticisi 1.0
+name: Workflow Manager 1.0
 summary: >+
   İş Akışı Yöneticisi 1.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [SharePoint 2016 Servis Bilgileri](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 Servis Bilgileri](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> İş Akışı Yöneticisi SharePoint Server 2016 veya SharePoint Server 2013'ün bir bileşeni olduğunda, ilgili SharePoint Server sürümünün destek tarihlerine göre desteklenir.\n\n## <a name=\"editions\"></a>Sürüm \n* İstemci"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [SharePoint 2016 Hizmet Bilgileri](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 Hizmet Bilgileri](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> İş Akışı Yöneticisi, SharePoint Server 2016 veya SharePoint Server 2013'ün bir bileşeni olduğunda, ilgili SharePoint Server sürümünün destek sonu tarihlerine göre desteklenir.\n\n## <a name=\"editions\"></a>Sürümler \n* İstemci"

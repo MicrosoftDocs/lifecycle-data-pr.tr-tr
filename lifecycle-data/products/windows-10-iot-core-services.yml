@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872889"
 name: Windows 10 IoT Core hizmetleri
 summary: >+
-  Windows 10 IoT Core [hizmetleri, Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
+  Windows 10 IoT Core hizmetleri, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Windows 10 IoT Çekirdek Hizmetleri](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services, Windows 10 IoT Core Software'in desteklenen bir sürümünü çalıştırdığınız sürece, Aygıt Güncelleştirme Merkezi ile güncelleştirme denetimi ve Aygıt Durumu Attestation ile geliştirilmiş güvenlik de dahil olmak üzere hizmet olarak yazılım desteği sunan bir aboneliktir."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Hizmetleri, Windows 10 IoT Core Software'in desteklenen bir sürümünü çalıştırdığınız sürece, Aygıt Güncelleştirme Merkezi ile güncelleştirme denetimi ve Device Health Attestation ile geliştirilmiş güvenlik de dahil olmak üzere, hizmet olarak yazılım desteği sunan bir aboneliktir."

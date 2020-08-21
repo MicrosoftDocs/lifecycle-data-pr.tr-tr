@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872879"
@@ -14,7 +14,7 @@ summary: >+
   Windows Server IoT 2019, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümler için geçerlidir: Datacenter, Essentials, Standard, Telekomünikasyon
+  Bu, aşağıdaki sürümler için geçerlidir: Datacenter, Essentials, Standard, Telecommunications
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server IoT 2019'un tüm sürümleri Windows Server 2019 yaşam döngüsünü izleyin.\n\n## <a name=\"editions\"></a>Sürüm \n* Datacenter\n* Temel Öğeler\n* Standart\n* Telekomünikasyon"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server IoT 2019'un tüm sürümleri, Windows Server 2019'un yaşam döngüsünü takip eder.\n\n## <a name=\"editions\"></a>Sürümler \n* Datacenter\n* Essentials\n* Standard\n* Telecommunications"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865305"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Office 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: Ev ve İş, Ev ve Öğrenci, Profesyonel, Profesyonel Plus, Profesyonel Plus Ev Kullanım Programı, Standart, Web Apps Sunucusu
+  Bu, aşağıdaki sürümler için geçerlidir: Ev ve İş, Ev ve Öğrenci, Professional, Professional Plus, Professional Plus Evde Kullanım Programı, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1, Web Apps Server sürümü için geçerli değildir. \n\n## <a name=\"editions\"></a>Sürüm \n* Ev ve İş\n* Ev ve Öğrenci\n* Profesyonel\n* Profesyonel Plus\n* Profesyonel Plus Ev Kullanım Programı\n* Standart\n* Web Apps Sunucusu"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1, Web Apps Server sürümü için geçerli değildir. \n\n## <a name=\"editions\"></a>Sürümler \n* Ev ve İş\n* Ev ve Öğrenci\n* Professional\n* Professional Plus\n* Professional Plus Evde Kullanım Programı\n* Standard\n* Web Apps Server"

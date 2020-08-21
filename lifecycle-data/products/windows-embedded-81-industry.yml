@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Gömülü 8.1 Sanayi
-  description: Windows Embedded 8.1 Industry, Sabit Yaşam Döngüsü İlkesini izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 06229993442080153b64e34bc290b48b6fc1e05d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Windows Embedded 8,1 endüstrisi
+  description: Windows Embedded 8,1 endüstrisi, sabit yaşam döngüsü Ilkesini takip eder.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865325"
-name: Windows Gömülü 8.1 Sanayi
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906936"
+name: Windows Embedded 8,1 endüstrisi
 summary: >+
-  Windows Embedded 8.1 [Industry, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Windows Embedded 8,1 endüstrisi, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: Enterprise, Pro
+  Bu, aşağıdaki sürümlere uygulanır: Kurumsal, Pro, dışarıdan yükleme
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Yaşam Döngüsü SSS - Windows ürünleri](https://support.microsoft.co/help/18581)\n* [Windows Gömülü 8.1 SSS](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Pro"
+content: "\n## <a name=\"links\"></a>Balantı \n* [Yaşam döngüsü SSS-Windows ürünleri](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8,1 SSS](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* Si\n* Uzmanları\n* Dışarıdan yüklenmesini"

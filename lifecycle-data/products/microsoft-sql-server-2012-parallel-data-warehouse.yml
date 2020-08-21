@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2012 Paralel Veri Ambarı (Analitik Platform Sistemi)
-  description: Microsoft SQL Server 2012 Paralel Veri Ambarı (Analitik Platform Sistemi) Sabit Yaşam Döngüsü İlkesini izler.
+  title: Microsoft SQL Server 2012 Paralel Veri Ambarı (Çözümleme Platform Sistemi)
+  description: Microsoft SQL Server 2012 Paralel Veri Ambarı (Çözümleme Platform Sistemi), Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872977"
-name: Microsoft SQL Server 2012 Paralel Veri Ambarı (Analitik Platform Sistemi)
+name: Microsoft SQL Server 2012 Paralel Veri Ambarı (Çözümleme Platform Sistemi)
 summary: >
-  Microsoft SQL Server 2012 Paralel Veri Ambarı (Analitik Platform Sistemi) [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Microsoft SQL Server 2012 Paralel Veri Ambarı (Çözümleme Platform Sistemi), [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > SQL Server 2012 Paralel Veri Ambarı (PDW) APS (Analitik Platform Sistemi) olarak yeniden markalandı
+  > Microsoft SQL Server 2012 Paralel Veri Ambarı (PDW), APS (Çözümleme Platform Sistemi) olarak yeniden markalanmıştır.
 products:
 - sql-server
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 07/12/2013
   endDate: 10/08/2024
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün bilgileri](https://www.microsoft.com/sql-server/analytics-platform-system)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](https://www.microsoft.com/sql-server/analytics-platform-system)"
