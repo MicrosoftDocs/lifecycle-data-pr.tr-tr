@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom, sabit yaşam çevrimi Ilkesine uyar.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907311"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom, [sabit](/lifecycle/policies/fixed) yaşam çevrimi ilkesine uyar.
+
+
+  Bu, aşağıdaki sürümlere uygulanır: uygulama hizmetleri 1,0, Istemci 2,0, Istemci 2,1, sunucu 2,0, sunucu 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson, 2013 'deki Microsoft Mediaroom ürünlerini aldı. Daha fazla bilgi için lütfen [basın sürümüne](http://www.ericsson.com/news/1691160)bakın. Desteklemesi gereken müşteriler için lütfen [buraya](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)bakın.\n> [!NOTE]\n> Microsoft Mediaroom Client 2,1, 27 Aralık 2011 tarihinde yayımlanmıştır. \n\n## <a name=\"editions\"></a>Sürümler \n* Uygulama hizmetleri 1,0\n* İstemci 2,0\n* İstemci 2,1\n* Sunucu 2,0\n* Sunucu 2,1"
