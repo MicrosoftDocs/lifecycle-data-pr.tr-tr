@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Office 2013
   description: Microsoft Office 2013, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 144877196e495c44a75cc95487426038c5321751
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865305"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905268"
 name: Microsoft Office 2013
 summary: >+
   Microsoft Office 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Ev ve İş, Ev ve Öğrenci, Professional, Professional Plus, Professional Plus Evde Kullanım Programı, Standard, Web Apps Server
+  Bu, aşağıdaki sürümler için geçerlidir: Ev ve İş, Ev ve Öğrenci, Çoklu Dil Paketi, Professional, Professional Plus, Professional Plus Evde Kullanım Programı, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1, Web Apps Server sürümü için geçerli değildir. \n\n## <a name=\"editions\"></a>Sürümler \n* Ev ve İş\n* Ev ve Öğrenci\n* Professional\n* Professional Plus\n* Professional Plus Evde Kullanım Programı\n* Standard\n* Web Apps Server"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1, Web Apps Server sürümü için geçerli değildir. \n\n## <a name=\"editions\"></a>Sürümler \n* Ev ve İş\n* Ev ve Öğrenci\n* Çoklu Dil Paketi\n* Professional\n* Professional Plus\n* Professional Plus Evde Kullanım Programı\n* Standard\n* Web Apps Server"
