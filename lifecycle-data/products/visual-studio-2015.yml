@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: f5ff344edadae9c856d0cfce3d88ac23e1fa6394
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865109"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906862"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Agents, Topluluk, Enterprise, Web için Express, Windows 10 için Express, Windows Masaüstü için Express, Modelleme SDK, Professional, Release Management, Uzak Araçlar, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Test Professional, Visual C++ Yeniden Dağıtılabilir
+  Bu, aşağıdaki sürümler için geçerlidir: Agents, Topluluk, Enterprise, ESM, Web için Express, Windows 10 için Express, Windows Masaüstü için Express, Modelleme SDK, Professional, PSM, Release Management, Uzak Araçlar, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Test Professional, Visual C++ Yeniden Dağıtılabilir
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Community\n* Enterprise\n* Web için Express\n* Windows 10 için Express\n* Windows Masaüstü için Express\n* Modelleme SDK\n* Professional\n* Release Management\n* Uzak Araçlar\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Test Professional\n* Visual C++ Yeniden Dağıtılabilir"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Community\n* Enterprise\n* ESM\n* Web için Express\n* Windows 10 için Express\n* Windows Masaüstü için Express\n* Modelleme SDK\n* Professional\n* PSM\n* Release Management\n* Uzak Araçlar\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Test Professional\n* TPS\n* Visual C++ Yeniden Dağıtılabilir"

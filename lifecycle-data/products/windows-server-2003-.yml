@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Windows Server 2003 '
+  description: Windows Server 2003, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894259"
+name: 'Windows Server 2003 '
+summary: >+
+  Windows Server 2003, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Datacenter (32-bit x86), Datacenter (x64), Itanium Tabanlı Sistemler için Datacenter, Enterprise (32-Bit x86), Itanium tabanlı sistemler için Enterprise, Enterprise X64, Standard (32-bit x86), Web
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/28/2003
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Service Pack 1
+  startDate: 03/30/2005
+  endDate: 04/14/2009
+- version: Original Release
+  startDate: 05/28/2003
+  endDate: 04/10/2007
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Windows Server 2003 makinelerini geçiş için hazırlama](/azure/migrate/prepare-windows-server-2003-migration)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n* [Windows Server 2003'ten Windows Server 2008'e yükseltme için desteklenen yollar](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> Itanium Tabanlı Sistemler'in başlangıç tarihi 19 Haziran 2003'tür.\n\n## <a name=\"editions\"></a>Sürümler \n* Datacenter (32 bit x86)\n* Datacenter (x64)\n* Itanium Tabanlı Sistemler için Datacenter\n* Enterprise (32-Bit x86)\n* Itanium Tabanlı Sistemler için Enterprise\n* Enterprise X64\n* Standard (32-bit x86)\n* Web"
