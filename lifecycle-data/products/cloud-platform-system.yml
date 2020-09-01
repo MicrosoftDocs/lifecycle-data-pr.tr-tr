@@ -2,19 +2,20 @@
 metadata:
   title: Bulut platformu sistemi
   description: Cloud Platform System, sabit yaşam döngüsü Ilkesini takip eder.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891900"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932066"
 name: Bulut platformu sistemi
 summary: >+
   Cloud Platform System, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
 
 
-  Bu, aşağıdaki sürümlere uygulanır: Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Tüm müşterilerin standart yaşam döngüsü geçiş zaman çizelgesine sağlanması için, bulut Platform System desteği gösterildiği şekilde genişletilir.\n> [!NOTE]\n> 18 Eylül 2017 tarihinde bulut platformu sistem standartı başlatıldı.\n\n## <a name=\"editions\"></a>Sürümleri \n* Ardından"
+content: "\n\n> [!NOTE]\n> Tüm müşterilerin standart yaşam döngüsü geçiş zaman çizelgesine sağlanması için, bulut Platform System desteği gösterildiği şekilde genişletilir.\n> [!NOTE]\n> 18 Eylül 2017 tarihinde bulut platformu sistem standartı başlatıldı.\n\n## <a name=\"editions\"></a>Sürümler \n* Standard"
