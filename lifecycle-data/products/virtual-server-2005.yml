@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sanal Sunucu 2005
-  description: Virtual Server 2005, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Sanal sunucu 2005
+  description: Virtual Server 2005, sabit yaşam çevrimi Ilkesini takip eder.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Management Pack,Standard
+  ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844053"
-name: Sanal Sunucu 2005
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937912"
+name: Sanal sunucu 2005
 summary: >+
-  Virtual Server 2005, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Virtual Server 2005, [sabit](/lifecycle/policies/fixed) yaşam çevrimi ilkesini takip eder.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Kurumsal, Yönetim Paketi, Standart
+  Bu, aşağıdaki sürümlere uygulanır: kuruluş, yönetim paketi, standart
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Yönetim Paketi\n* Standart"
+content: "\n\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise\n* Yönetim Paketi\n* Standard"
