@@ -2,13 +2,14 @@
 metadata:
   title: Windows Embedded Cihaz Yöneticisi 2011
   description: Windows Embedded Cihaz Yöneticisi 2011, sabit yaşam döngüsü Ilkesini takip eder.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Client,SDK,Server
+  ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906808"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939947"
 name: Windows Embedded Cihaz Yöneticisi 2011
 summary: >
   Windows Embedded Cihaz Yöneticisi 2011, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Balantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* İstemci\n* 'SıNıN\n* Sunucu"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* İstemci\n* SDK\n* Sunucu"
