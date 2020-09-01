@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft OneNote 2010
-  description: Microsoft OneNote 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 89eb67ddae569d8617993677a8dac204203042db
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft OneNote 2010, sabit yaşam döngüsü Ilkesini takip eder.
+  ms.date: 09/01/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 77b655ee28e25cc13cd7134c7730dffec4b2e899
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843933"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932732"
 name: Microsoft OneNote 2010
 summary: >+
-  Microsoft OneNote 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft OneNote 2010, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
 
 
-  Bu aşağıdaki sürümleri için geçerlidir: Ev ve Öğrenci, Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Ev ve Öğrenci, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Sürüm \n* Ev ve Öğrenci\n* Standart"
+content: "\n\n\n## <a name=\"editions\"></a>Sürümler \n* Ev ve Öğrenci\n* Standard"
