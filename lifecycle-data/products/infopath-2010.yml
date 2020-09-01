@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: InfoPath 2010
-  description: InfoPath 2010, Sabit Yaşam Döngüsü İlkesini izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 89a24a2dbfa198829abde7e854cfb1a775c8f6e2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: InfoPath 2010, sabit yaşam döngüsü Ilkesini izler.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: b70d3170dfa8f1a3c2c08ae73564470d3d956b90
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844622"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936099"
 name: InfoPath 2010
 summary: >+
-  InfoPath 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  InfoPath 2010, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Standart"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Standard"
