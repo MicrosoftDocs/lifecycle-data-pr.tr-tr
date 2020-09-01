@@ -2,13 +2,14 @@
 metadata:
   title: İfade
   description: İfade, sabit yaşam döngüsü Ilkesini takip eder.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893408"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936247"
 name: İfade
 summary: "İfade, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.\n\nBu, aşağıdaki sürümlere uygulanır: karışım, tasarım, kodlayıcı, stüdyo\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. \n"
 products:
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Expression Blend için başlangıç tarihi 13 Temmuz 2007 ' dır. \n\n## <a name=\"editions\"></a>Sürümleri \n* Renginden\n* Tasarımındaki\n* 'Yı\n* Stüdyo"
+content: "\n\n> [!NOTE]\n> Expression Blend için başlangıç tarihi 13 Temmuz 2007 ' dır. \n\n## <a name=\"editions\"></a>Sürümler \n* Renginden\n* Tasarımındaki\n* 'Yı\n* Stüdyo"
