@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'HL7 1.0 için Microsoft BizTalk Hızlandırıcı '
-  description: HL7 1.0 için Microsoft BizTalk Hızlandırıcı sı Sabit Yaşam Döngüsü İlkesi izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cef326653a2bc78d5b8b20c1dfb907827cd216d3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: '1,0 için Microsoft BizTalk Accelerator '
+  description: 1,0 için Microsoft BizTalk Accelerator, sabit yaşam çevrimi Ilkesini HL7.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844591"
-name: 'HL7 1.0 için Microsoft BizTalk Hızlandırıcı '
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935174"
+name: '1,0 için Microsoft BizTalk Accelerator '
 summary: >+
-  HL7 1.0 için Microsoft BizTalk Hızlandırıcı [sı Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi izler.
+  1,0 için Microsoft BizTalk Accelerator, [sabit](/lifecycle/policies/fixed) yaşam ÇEVRIMI ilkesini HL7.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Sürüm \n* Standart"
+content: "\n\n\n## <a name=\"editions\"></a>Sürümler \n* Standard"

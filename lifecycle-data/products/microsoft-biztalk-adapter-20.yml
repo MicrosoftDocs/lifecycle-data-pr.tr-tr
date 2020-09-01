@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft BizTalk Adapter 2,0
   description: Microsoft BizTalk Adapter 2,0, sabit yaşam döngüsü Ilkesini takip eder.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 807011d58eb9c568bd6d71b1ce3e616a4451e0bd
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: for MSMQ,for mySAP Business Suite,for SAP
+  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894267"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934767"
 name: Microsoft BizTalk Adapter 2,0
 summary: >+
   Microsoft BizTalk Adapter 2,0, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/20/2004
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> SAP için Microsoft BizTalk Adapter 2,0 başlangıç tarihi 2 Kasım 2004 ' dir. MSMQ 2,0 için Microsoft BizTalk Adapter başlangıç tarihi 10 Aralık 2004\n\n## <a name=\"editions\"></a>Sürümleri \n* MSMQ için\n* mySAP Iş paketi için\n* SAP için"
+content: "\n\n> [!NOTE]\n> SAP için Microsoft BizTalk Adapter 2,0 başlangıç tarihi 2 Kasım 2004 ' dir. MSMQ 2,0 için Microsoft BizTalk Adapter başlangıç tarihi 10 Aralık 2004\n\n## <a name=\"editions\"></a>Sürümler \n* MSMQ için\n* mySAP Iş paketi için\n* SAP için"

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HIPAA 3.0 için Microsoft BizTalk Hızlandırıcı
-  description: HIPAA 3.0 için Microsoft BizTalk Hızlandırıcısı, Sabit Yaşam Döngüsü İlkesini izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c509b97024379ae56ee4a808ea7366ddead58404
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: HIPAA için Microsoft BizTalk Accelerator 3,0
+  description: HIPAA için Microsoft BizTalk Accelerator 3,0, sabit yaşam çevrimi Ilkesini takip eder.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 402414833e6f07af15c0b2d94d5cf40a9ebd80a1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844593"
-name: HIPAA 3.0 için Microsoft BizTalk Hızlandırıcı
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935285"
+name: HIPAA için Microsoft BizTalk Accelerator 3,0
 summary: >+
-  HIPAA 3.0 için Microsoft BizTalk [Hızlandırıcısı, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  HIPAA için Microsoft BizTalk Accelerator 3,0, [sabit](/lifecycle/policies/fixed) yaşam çevrimi ilkesini takip eder.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Kurumsal, Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/28/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Standart"
+content: "\n\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise\n* Standard"
