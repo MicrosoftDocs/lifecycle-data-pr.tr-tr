@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844384"
@@ -14,7 +14,7 @@ summary: >+
   Windows MultiPoint Server 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Akademik, Standart
+  Bu, şu sürümler için geçerlidir: Academic, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://aka.ms/AA1ovn4)\n* [Ek geçiş kılavuzu](/windows-server/get-started/installation-and-upgrade)\n* [Ürün bilgileri](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Akademik\n* Standart"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://aka.ms/AA1ovn4)\n* [Ek geçiş kılavuzu](/windows-server/get-started/installation-and-upgrade)\n* [Ürün bilgileri](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Akademik\n* Standard"

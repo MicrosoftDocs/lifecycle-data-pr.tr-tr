@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamikler 9.0 GreatPlains
-  description: Dynamics 9.0 GreatPlains, Sabit Yaşam Döngüsü Politikası'nı izler.
+  title: Dynamics 9.0 GreatPlains
+  description: Dynamics 9.0 GreatPlains, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843977"
-name: Dinamikler 9.0 GreatPlains
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+  Dynamics 9.0 GreatPlains, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi.
+  > Bu ürün için destek sona erdi.
 products:
 - dynamics
 policyType: fixed

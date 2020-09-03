@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SoftGrid Uygulama Sanallaştırma
-  description: SoftGrid Uygulama Sanallaştırması Sabit Yaşam Döngüsü İlkesini izler.
+  description: SoftGrid Uygulama Sanallaştırma, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843898"
 name: SoftGrid Uygulama Sanallaştırma
 summary: >
-  SoftGrid Uygulama [Sanallaştırması Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  SoftGrid Uygulama Sanallaştırma, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Masaüstü bilgisayarlar için 4.1, Masaüstü bilgisayarlar için 4.2, Terminal Hizmetleri 4.1 için
+  Bu, aşağıdaki sürümler için geçerlidir: Masaüstü Bilgisayarlar için 4.1, Masaüstü Bilgisayarlar için 4.2, Terminal Hizmetleri için 4.1
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Masaüstü Bilgisayarlar için 4.1\n* Masaüstü Bilgisayarlar için 4.2\n* Terminal Hizmetleri 4.1 için"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Masaüstü Bilgisayarlar için 4.1\n* Masaüstü Bilgisayarlar için 4.2\n* Terminal Hizmetleri için 4.1"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Threat Management Ağ Geçidi, Orta İş Sürümü
-  description: Microsoft Forefront Threat Management Gateway, Medium Business Edition Sabit Yaşam Döngüsü İlkesi izler.
+  title: Microsoft Forefront Threat Management Gateway, Medium Business Edition
+  description: Microsoft Forefront Threat Management Gateway, Medium Business Edition, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844524"
-name: Microsoft Forefront Threat Management Ağ Geçidi, Orta İş Sürümü
+name: Microsoft Forefront Threat Management Gateway, Medium Business Edition
 summary: >+
-  Microsoft Forefront Threat Management Gateway, Medium Business Edition [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi izler.
+  Microsoft Forefront Threat Management Gateway, Medium Business Edition, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: İşletme
+  Bu, şu sürümler için geçerlidir: Business
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Sürüm \n* İş"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Business"

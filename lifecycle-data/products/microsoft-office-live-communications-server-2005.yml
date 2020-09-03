@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Canlı İletişim Sunucusu 2005
+  title: Microsoft Office Live Communications Server 2005
   description: Microsoft Office Live Communications Server 2005, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 709969b9c25ec55bfe3538a49076f6d640003cba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844164"
-name: Microsoft Office Canlı İletişim Sunucusu 2005
-summary: "Microsoft Office Live Communications Server 2005, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, aşağıdaki sürümler için geçerlidir: Kurumsal, Standart\n\n> [!IMPORTANT]\n> Bu ürüne yönelik destek sona erdi. \n"
+name: Microsoft Office Live Communications Server 2005
+summary: "Microsoft Office Live Communications Server 2005, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. \n"
 products:
 - office
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/22/2005
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Kurumsal\n* Standart"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise\n* Standard"
