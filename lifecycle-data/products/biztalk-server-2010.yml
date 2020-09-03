@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk Server 2010
-  description: BizTalk Server 2010, sabit yaşam döngüsü Ilkesini takip eder.
+  description: BizTalk Server 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/19/2020
   ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903711"
 name: BizTalk Server 2010
 summary: >+
-  BizTalk Server 2010, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  BizTalk Server 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, şu sürümlere uygulanır: dal, geliştirici, kurumsal, kurumsal RFıD, standart
+  Bu, şu sürümler için geçerlidir: Branch, Developer, Enterprise, Enterprise RFID, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Balantı \n* [Geçiş Kılavuzu](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Sürüm bilgileri](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* Şubedeki\n* İyle\n* Si\n* Kurumsal RFıD\n* Ardından"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Sürüm bilgileri](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Branch\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"

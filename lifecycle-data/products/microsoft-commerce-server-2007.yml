@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Commerce Server 2007
-  description: Microsoft Commerce Server 2007, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Microsoft Commerce Server 2007, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/12/2020
   ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893482"
 name: Microsoft Commerce Server 2007
 summary: >
-  Microsoft Commerce Server 2007, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Microsoft Commerce Server 2007, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümlere uygulanır: geliştirici, kurumsal, standart
+  Bu, şu sürümler için geçerlidir: Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Balantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* İyle\n* Si\n* Ardından"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Developer\n* Enterprise\n* Standard"

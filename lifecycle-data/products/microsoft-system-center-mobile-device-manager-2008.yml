@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Mobil Cihaz Yöneticisi 2008
-  description: Microsoft System Center Mobil Cihaz Yöneticisi 2008 sabit yaşam döngüsü Ilkesini takip eder.
+  title: Microsoft Sistem Merkezi Mobil Cihaz Yöneticisi 2008
+  description: Microsoft System Center Mobile Device Manager 2008, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906305"
-name: Microsoft System Center Mobil Cihaz Yöneticisi 2008
+name: Microsoft Sistem Merkezi Mobil Cihaz Yöneticisi 2008
 summary: >+
-  Microsoft System Center Mobil Cihaz Yöneticisi 2008 [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Microsoft System Center Mobile Device Manager 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümlere uygulanır: tüm uygulanabilen, wSQL
+  Bu, şu sürümler için geçerlidir: Tüm uygulanabilir olanlar, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Balantı \n* [Geçiş Kılavuzu](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* İlgili tüm\n* wSQL"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Tümü uygulanabilir\n* wSQL"

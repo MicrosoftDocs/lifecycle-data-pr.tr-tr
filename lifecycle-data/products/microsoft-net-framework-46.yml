@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 1505b81ae5333b02ddda8778583baea94b516a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864970"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/29/2015
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [.NET Framework Yaşam Döngüsü SSS](/lifecycle/faq/dotnet-framework)\n* [Ürün bilgileri](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> .NET Framework, Windows Os'un bir bileşenidir. Bileşenler, ana ürünleri veya platformlarıyla aynı desteği alır."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [.NET Framework Yaşam Döngüsü SSS](/lifecycle/faq/dotnet-framework)\n* [Ürün bilgileri](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> .NET Framework, Windows İşletim Sistemi'nin bir bileşenidir. Bileşenler ana ürün ya da platformları ile aynı desteği alır."

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864868"
 name: Azure StorSimple 8000 Serisi
 summary: >+
-  Azure StorSimple 8000 [Serisi, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Azure StorSimple 8000 Serisi, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [StorSimple çözüm desteği](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Geçiş kılavuzu](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Azure StorSimple 8000 Serisi desteği, müşterilere standart yaşam döngüsü zaman çizelgesi sağlamak için gösterildiği gibi genişletilir. Genişletilmiş destek yalnızca donanım değiştirme ve güvenlik güncelleştirmelerini içerir."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [StorSimple çözüm desteği](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Geçiş kılavuzu](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Azure StorSimple 8000 Serisi için destek gösterildiği üzere müşterilere standart yaşam döngüsü zaman çizelgesi sunmak için uzatıldı. Uzatılan destek, yalnızca donanım değişimlerini ve güvenlik güncelleştirmelerini içermektedir."

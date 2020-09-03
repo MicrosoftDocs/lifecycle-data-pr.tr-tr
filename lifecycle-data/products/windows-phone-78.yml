@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865322"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi.
+  > Bu ürün için destek sona erdi.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft, yaşam döngüsünün başlangıç tarihinden sonraki 18 aylık bir süre için telefonunuzda güvenlik güncelleştirmeleri de dahil olmak üzere İşletim Sistemi güncelleştirmelerini kullanıma sunacaktır. Güncellemelerin dağıtımı, telefonunuzu satın aldığınız cep telefonu operatörü veya telefon üreticisi tarafından denetlenebilir. Güncelleştirme kullanılabilirliği ülkeye, bölgeye ve donanım özelliklerine göre de değişir."
+content: "\n\n> [!NOTE]\n> Microsoft, yaşam döngüsü başlangıç tarihinden itibaren 18 ay boyunca, güvenlik güncelleştirmeleri de dahil olmak üzere, telefonunuzdaki İşletim Sistemi için güncelleştirmeleri kullanılabilir hale getirecektir. Güncelleştirmelerin dağıtımı, cep telefonu operatörü veya telefonunuzu satın aldığınız telefon üreticisi tarafından denetlenebilir. Güncelleştirme kullanılabilirliği de ülke, bölge ve donanım özelliklerine göre farklılık gösterecektir."
