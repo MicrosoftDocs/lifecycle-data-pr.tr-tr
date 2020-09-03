@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Operations Manager 2007 için Engyro Ürün Konektörleri
-  description: Microsoft System Center Operations Manager 2007 için Engyro Ürün Bağlayıcıları Sabit Yaşam Döngüsü İlkesini izler.
+  title: Microsoft Sistem Merkezi Planlama Yöneticisi 2007 için Engryo Ürün Bağlayıcıları
+  description: Microsoft System Center Operations Manager 2007 için Engyro Ürün Konektörleri, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844900"
-name: Microsoft System Center Operations Manager 2007 için Engyro Ürün Konektörleri
+name: Microsoft Sistem Merkezi Planlama Yöneticisi 2007 için Engryo Ürün Bağlayıcıları
 summary: >
-  Microsoft System Center Operations Manager 2007 için Engyro Ürün Bağlayıcıları [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Microsoft System Center Operations Manager 2007 için Engyro Ürün Konektörleri, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi.
+  > Bu ürün için destek sona erdi.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"

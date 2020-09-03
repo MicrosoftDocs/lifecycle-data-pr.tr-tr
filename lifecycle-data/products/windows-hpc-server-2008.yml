@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844391"
@@ -14,7 +14,7 @@ summary: >
   Windows HPC Server 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Standart, Hyper-V olmadan
+  Bu, şu sürümler için geçerlidir: Standard, Hyper-V'siz
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Standart\n* Hyper-V olmadan"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Standard\n* Hyper-V olmadan"

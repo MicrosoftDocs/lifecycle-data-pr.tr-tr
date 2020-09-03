@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844206"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft Host Integration Server 2004, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, aşağıdaki sürümler için geçerlidir: Geliştirici, Kurumsal, Standart\n\n> [!IMPORTANT]\n> Bu ürüne yönelik destek sona erdi. \n"
+summary: "Microsoft Host Integration Server 2004, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, şu sürümler için geçerlidir: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürüm \n* Geliştirici\n* Kurumsal\n* Standart"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Developer\n* Enterprise\n* Standard"

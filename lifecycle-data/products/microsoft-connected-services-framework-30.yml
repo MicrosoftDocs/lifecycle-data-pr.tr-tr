@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Bağlantılı Hizmetler Çerçevesi 3.0
+  title: Microsoft Connected Services Framework 3.0
   description: Microsoft Connected Services Framework 3.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844546"
-name: Microsoft Bağlantılı Hizmetler Çerçevesi 3.0
+name: Microsoft Connected Services Framework 3.0
 summary: >+
   Microsoft Connected Services Framework 3.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Faturalama Standart İş Etkinliği, Sipariş Taşıma Standart İş Etkinliği, Sunucu, Standart, Standart İş Etkinlikleri ile Standart Sunucu
+  Bu, aşağıdaki sürümler için geçerlidir: Standart İş Olayı Faturalandırma, Sipariş İşleme Standart İş Olayı, Sunucu, Standart, Standart İş Olayları ile Standart Sunucu
 
 products:
 - connected-services-framework
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Sürüm \n* Faturalama Standart İş Etkinliği\n* Sipariş Taşıma Standart İş Etkinliği\n* Sunucu\n* Standart\n* Standart İş Etkinlikleri ile Standart Sunucu"
+content: "\n\n\n## <a name=\"editions\"></a>Sürümler \n* Standart İş Olayı Faturalama\n* Sipariş İşleme Standart İş Olayı\n* Server\n* Standard\n* Standart İş Olayları ile Standart Sunucu"
