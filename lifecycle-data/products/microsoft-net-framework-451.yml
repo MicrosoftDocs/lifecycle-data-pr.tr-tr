@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9141a70347bbcd248703cfb15bfe1414abda7caa
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864971"
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 01/15/2014
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün bilgileri](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> .NET Framework 4, 4.5 ve 4.5.1 desteği 12 Ocak 2016 tarihinde sona erdi."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> .NET Framework 4, 4.5 ve 4.5.1 desteği 12 Ocak 2016 tarihinde sona erdi."

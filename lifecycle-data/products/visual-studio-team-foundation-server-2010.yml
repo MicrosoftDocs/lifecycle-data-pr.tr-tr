@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Visual Studio Team Foundation Server 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906824"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Visual Studio Team Foundation Server 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümlere uygulanır: tüm geçerli, dış bağlayıcı
+  Bu, şu sürümler için geçerlidir: Tüm uygulanabilir olanlar, External Connector
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Balantı \n* [Geçiş Kılavuzu](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure dev işlemleri](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* İlgili tüm\n* Dış bağlayıcı"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Tümü uygulanabilir\n* External Connector"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Telefon Sürümü
-  description: Microsoft Lync Phone Edition, Sabit Yaşam Döngüsü İlkesini izler.
+  description: Microsoft Lync Telefon Sürümü, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879543"
 name: Microsoft Lync Telefon Sürümü
 summary: >+
-  Microsoft Lync Phone [Edition, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Microsoft Lync Telefon Sürümü, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ek Bilgiler](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition, Lync Server 2010 ve Lync Server 2013 ile desteklenmiştir. Lync Phone Edition'ın destek tarihi, Lync Server 2013 yaşam döngüsüyle uyumlu hale getirmek için 2 yıl uzatıldı."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ek Bilgiler](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition, Lync Server 2010 ve Lync Server 2013 ile desteklenmiştir. Lync Phone Edition'ın destek tarihi, Lync Server 2013 yaşam döngüsüyle uyumlu hale getirmek için 2 yıl uzatıldı."

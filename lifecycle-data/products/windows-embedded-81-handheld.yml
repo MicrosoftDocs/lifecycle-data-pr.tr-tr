@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Gömülü 8.1 El
-  description: Windows Embedded 8.1 El Yapımı Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: Windows Embedded 8.1 Handheld
+  description: Windows Embedded 8.1 Handheld, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865328"
-name: Windows Gömülü 8.1 El
+name: Windows Embedded 8.1 Handheld
 summary: >
-  Windows Embedded 8.1 El Yapımı [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Windows Embedded 8.1 Handheld, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi. Kuruluşunuz hala bu platformları koruyorsa ve başka soruları varsa, lütfen hesap ekibinizle iletişime geçin.
+  > Bu ürün için destek sona erdi. Kuruluşunuz hala bu platformların bakımını yapıyorsa ve başka soruları varsa, lütfen hesap ekibinizle iletişime geçin.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"

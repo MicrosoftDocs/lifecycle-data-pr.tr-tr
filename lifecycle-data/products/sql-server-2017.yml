@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872975"
@@ -14,7 +14,7 @@ summary: >+
   SQL Server 2017, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu aşağıdaki sürümler için geçerlidir: Linux'ta (tüm sürümler), Windows'da (tüm sürümler)
+  Bu, aşağıdaki sürümler için geçerlidir: Linux'ta (tüm sürümler), Windows'ta (tüm sürümler)
 
 products:
 - sql-server
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2017
   endDate: 10/12/2027
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Servis bilgileri](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> SQL Server 2017 ile başlayarak hiçbir Hizmet Paketi yayımlanmayacak.\n\n## <a name=\"editions\"></a>Sürüm \n* Linux üzerinde (tüm sürümleri)\n* Windows'da (tüm sürümler)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> SQL Server 2017'den başlayarak hiçbir Hizmet Paketi yayımlanmayacak.\n\n## <a name=\"editions\"></a>Sürümler \n* Linux'ta (tüm sürümler)\n* Windows'ta (tüm sürümler)"

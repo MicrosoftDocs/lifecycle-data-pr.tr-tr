@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 69bc8811a52c75cb58357ad4e0213f28a1001cae
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865087"
@@ -14,7 +14,7 @@ summary: >+
   Infopath 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Standart
+  Bu, aşağıdaki sürümler için geçerlidir: Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Destek ayrıntıları](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Microsoft InfoPath 2013 desteği, SharePoint Server 2016 ile uyumluluğu sağlamak için gösterildiği gibi genişletilir.\n\n## <a name=\"editions\"></a>Sürüm \n* Standart"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Destek ayrıntıları](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Microsoft InfoPath 2013 desteği, SharePoint Server 2016 ile uyumluluğu sağlamak için gösterilen şekilde genişletilmiştir.\n\n## <a name=\"editions\"></a>Sürümler \n* Standard"

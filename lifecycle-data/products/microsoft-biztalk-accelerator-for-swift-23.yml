@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SWIFT 2,3 için Microsoft BizTalk Accelerator
-  description: SWIFT 2,3 için Microsoft BizTalk Accelerator, sabit yaşam döngüsü Ilkesini takip eder.
+  title: SWIFT 2.3 için Microsoft BizTalk Accelerator
+  description: SWIFT 2.3 için Microsoft BizTalk Accelerator, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/12/2020
   ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893556"
-name: SWIFT 2,3 için Microsoft BizTalk Accelerator
+name: SWIFT 2.3 için Microsoft BizTalk Accelerator
 summary: >+
-  SWIFT 2,3 için Microsoft BizTalk Accelerator, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  SWIFT 2.3 için Microsoft BizTalk Accelerator, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümlere uygulanır: Kurumsal, standart
+  Bu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Balantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümleri \n* Si\n* Ardından"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise\n* Standard"

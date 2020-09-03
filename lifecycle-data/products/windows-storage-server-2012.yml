@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Depolama Sunucusu 2012
+  title: Windows Storage Server 2012
   description: Windows Storage Server 2012, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864881"
-name: Windows Depolama Sunucusu 2012
+name: Windows Storage Server 2012
 summary: >+
   Windows Storage Server 2012, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Standart, Çalışma Grubu
+  Bu, şu sürümler için geçerlidir: Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Bu ürün için genel ve genişletilmiş destek, müşterilere standart yaşam döngüsü geçiş zaman çizelgesi sağlamak için genişletilmiştir.\n\n## <a name=\"editions\"></a>Sürüm \n* Standart\n* Çalışma grubu"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Bu ürün için Genel ve Genişletilmiş destek, müşterilere standart yaşam döngüsü geçiş zaman çizelgesi sağlamak için genişletilmiştir.\n\n## <a name=\"editions\"></a>Sürümler \n* Standard\n* Workgroup"
