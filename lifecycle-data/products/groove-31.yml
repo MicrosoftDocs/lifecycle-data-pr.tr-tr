@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Groove 3,1
+  description: Groove 3,1 sabit yaşam döngüsü Ilkesini takip eder.
+  ms.date: 09/03/2020
+  keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
+  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
+  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "950879"
+name: Groove 3,1
+summary: >+
+  Groove 3,1 [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+
+
+  Bu, aşağıdaki sürümlere uygulanır: Kurumsal yedekleme hizmeti, kurumsal veri Köprüsü, kurumsal geçiş sunucusu, barındırılan yönetim hizmetleri, barındırılan aktarma hizmetleri, Office Project, sanal Office dosya paylaşımı, sanal Office Professional, Web Hizmetleri Geliştirme Seti
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2004
+  end: 04/16/2010
+releases:
+- version: Original Release
+  startDate: 07/01/2004
+  endDate: 04/16/2010
+content: "\n\n\n## <a name=\"editions\"></a>Sürümler \n* Kurumsal yedekleme hizmeti\n* Kurumsal veri Köprüsü\n* Kurumsal geçiş sunucusu\n* Barındırılan yönetim hizmetleri\n* Barındırılan geçiş Hizmetleri\n* Office Project\n* Sanal Office dosya paylaşımı\n* Sanal Office profesyonel\n* Web Hizmetleri Geliştirme Seti"
