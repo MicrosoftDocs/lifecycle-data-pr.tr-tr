@@ -2,13 +2,14 @@
 metadata:
   title: SWIFT 2.3 için Microsoft BizTalk Accelerator
   description: SWIFT 2.3 için Microsoft BizTalk Accelerator, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: abd734fcb35204a49aaca4ed037ca4b8663c493a
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893556"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000633"
 name: SWIFT 2.3 için Microsoft BizTalk Accelerator
 summary: >+
   SWIFT 2.3 için Microsoft BizTalk Accelerator, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
