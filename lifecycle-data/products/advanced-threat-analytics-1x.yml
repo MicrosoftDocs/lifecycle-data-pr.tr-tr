@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Gelişmiş tehdit analizi 1. X
+  description: Gelişmiş tehdit analizi 1. X sabit yaşam döngüsü Ilkesine uyar.
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002837"
+name: Gelişmiş tehdit analizi 1. X
+summary: >+
+  Gelişmiş tehdit analizi 1. X [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesine uyar.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 11/25/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release
+  startDate: 11/25/2015
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Gelişmiş tehdit analizi hizmet kuralları](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Güncelleştirmeler, her bir güncelleştirme öncesinde bulunan tüm güncelleştirmelerde yerleşik olarak oluşturulur. Cihazın desteklenen en son güncelleştirmeyi yüklemesi gerekmektedir."
