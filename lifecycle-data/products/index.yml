@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Ürün ve Hizmetler Yaşam Döngüsü Bilgilerini Ara (Önizleme)
+title: Ürün ve Hizmetler Yaşam Döngüsü Bilgilerini Ara
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Bu sayfa geliştirilmekte olup, 2 Eylül'de tam olarak yayımlanacaktır. Bu arada, Microsoft ürünlerinin, destek zaman çizelgeleri ve ayrıntılarıyla birlikte tam listesini, [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)'ten görebilirsiniz.\n> [!NOTE]\n> Yaşam döngüsü bilgilerini, [Yaşam Döngüsü Dışa Aktarma](/lifecycle/export/products) sayfasından dışa aktarın.\n\n\nMicrosoft Yaşam Döngüsü, bir ürünün ömrü boyunca destek için tutarlı ve öngörülebilir yönergeler sağlayarak müşterilerin geleceğe yönelik stratejik planlama yaparken, BT yatırımlarını ve ortamlarını yönetmelerine yardımcı olur.\n\n\nMicrosoft ticari ürün ve hizmetlerinin bir listesini aşağıda arayın ve ardından destek ve servis zaman çizelgelerini, gerekli güncelleştirmeleri, geçiş bilgilerini ve sistem gereksinimlerini bulmak için sonucunuzu seçin."
+summary: "\n> [!NOTE]\n> Yaşam döngüsü bilgilerini, [Yaşam Döngüsü Dışa Aktarma](/lifecycle/products/export) sayfasından dışa aktarın.\n\n\nMicrosoft Yaşam Döngüsü, bir ürünün ömrü boyunca destek için tutarlı ve öngörülebilir yönergeler sağlayarak müşterilerin geleceğe yönelik stratejik planlama yaparken, BT yatırımlarını ve ortamlarını yönetmelerine yardımcı olur.\n\n\nMicrosoft ticari ürün ve hizmetlerinin bir listesini aşağıda arayın ve ardından destek ve servis zaman çizelgelerini, gerekli güncelleştirmeleri, geçiş bilgilerini ve sistem gereksinimlerini bulmak için sonucunuzu seçin."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899860"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943054"
