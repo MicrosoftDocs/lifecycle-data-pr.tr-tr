@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Finansal hizmetler için Microsoft BizTalk Accelerator 1,0
-  description: Finansal hizmetler için Microsoft BizTalk Accelerator 1,0, sabit yaşam döngüsü Ilkesini takip eder.
+  title: Financial Services 1.0 için Microsoft BizTalk Accelerator
+  description: Financial Services 1.0 için Microsoft BizTalk Accelerator, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935359"
-name: Finansal hizmetler için Microsoft BizTalk Accelerator 1,0
+name: Financial Services 1.0 için Microsoft BizTalk Accelerator
 summary: >+
-  Finansal hizmetler için Microsoft BizTalk Accelerator 1,0, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Financial Services 1.0 için Microsoft BizTalk Accelerator, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard
