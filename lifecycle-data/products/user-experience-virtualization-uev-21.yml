@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Kullanıcı Deneyimi Sanallaştırma (UE-V) 2.1
-  description: Kullanıcı Deneyimi Sanallaştırma (UE-V) 2.1 Sabit Yaşam Döngüsü İlkesi izler.
+  description: Kullanıcı Deneyimi Sanallaştırma (UE-V) 2.1, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 728fb01eddd4b9436e2b907665d75a7cf1256887
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864948"
 name: Kullanıcı Deneyimi Sanallaştırma (UE-V) 2.1
 summary: >+
-  Kullanıcı Deneyimi Sanallaştırma (UE-V) 2.1 [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi izler.
+  Kullanıcı Deneyimi Sanallaştırma (UE-V) 2.1, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2015
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"

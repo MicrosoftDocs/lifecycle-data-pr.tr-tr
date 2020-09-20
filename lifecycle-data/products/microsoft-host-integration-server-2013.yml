@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d95fbc816dadeaac7c7ccb3d1780e299f8a124e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864991"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/20/2013
   endDate: 01/09/2024
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün bilgileri](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)"

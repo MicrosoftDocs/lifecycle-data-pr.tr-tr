@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: StorSimple 5000/7000 Serisi
-  description: StorSimple 5000/7000 Serisi Sabit Yaşam Döngüsü Politikası'nı izler.
+  description: StorSimple 5000/7000 Serisi, Sabit Yaşam Döngüsü İlkesini izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865342"
 name: StorSimple 5000/7000 Serisi
-summary: "StorSimple 5000/7000 Serisi [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.\n\n\n> [!IMPORTANT]\n> Bu ürüne yönelik destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın. \n"
+summary: "StorSimple 5000/7000 Serisi, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın. \n"
 products:
 - azure
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2012
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"

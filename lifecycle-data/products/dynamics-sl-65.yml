@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics SL 6,5
-  description: Dynamics SL 6,5, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Dynamics SL 6.5, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/13/2020
   ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
   ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "894854"
 name: Dynamics SL 6,5
 summary: >+
-  Dynamics SL 6,5, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Dynamics SL 6.5, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -33,4 +33,4 @@ releases:
 - version: Original Relase
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Balantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"
