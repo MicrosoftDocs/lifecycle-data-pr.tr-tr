@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Müşteri Hizmetleri Çerçevesi 2008
-  description: Microsoft Müşteri Hizmetleri Çerçevesi 2008, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: Microsoft Customer Care Framework 2008, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 20ffab8fa02950c2890b8b1f62a15142eb2ddd85
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844538"
 name: Microsoft Müşteri Hizmetleri Çerçevesi 2008
 summary: >
-  Microsoft Müşteri Hizmetleri Çerçevesi 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Customer Care Framework 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 09/01/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement/)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement/)"

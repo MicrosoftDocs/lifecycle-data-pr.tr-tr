@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamikler NAV 4.0
+  title: Dynamics NAV 4,0
   description: Dynamics NAV 4.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 766b8f2b69ca45d1ff1620ce6787df299bb68955
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844653"
-name: Dinamikler NAV 4.0
+name: Dynamics NAV 4,0
 summary: "Dynamics NAV 4.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\n\n> [!IMPORTANT]\n> Destek sona erdi. \n"
 products:
 - dynamics
