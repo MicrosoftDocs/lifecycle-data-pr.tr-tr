@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: '1,0 için Microsoft BizTalk Accelerator '
-  description: 1,0 için Microsoft BizTalk Accelerator, sabit yaşam çevrimi Ilkesini HL7.
+  title: 'HL7 1.0 için Microsoft BizTalk Accelerator '
+  description: HL7 1.0 için Microsoft BizTalk Accelerator, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935174"
-name: '1,0 için Microsoft BizTalk Accelerator '
+name: 'HL7 1.0 için Microsoft BizTalk Accelerator '
 summary: >+
-  1,0 için Microsoft BizTalk Accelerator, [sabit](/lifecycle/policies/fixed) yaşam ÇEVRIMI ilkesini HL7.
+  HL7 1.0 için Microsoft BizTalk Accelerator, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Standard

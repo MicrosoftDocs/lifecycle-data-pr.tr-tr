@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SWIFT 2,0 için Microsoft BizTalk Accelerator
-  description: SWIFT 2,0 için Microsoft BizTalk Accelerator, sabit yaşam döngüsü Ilkesini takip eder.
+  title: SWIFT 2.0 için Microsoft BizTalk Accelerator
+  description: SWIFT 2.0 için Microsoft BizTalk Accelerator, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934878"
-name: SWIFT 2,0 için Microsoft BizTalk Accelerator
+name: SWIFT 2.0 için Microsoft BizTalk Accelerator
 summary: >+
-  SWIFT 2,0 için Microsoft BizTalk Accelerator, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  SWIFT 2.0 için Microsoft BizTalk Accelerator, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Enterprise

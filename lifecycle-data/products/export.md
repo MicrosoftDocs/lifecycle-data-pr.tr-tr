@@ -1,27 +1,27 @@
 ---
 title: Yaşam çevrimi verileri dışarı aktarma
 description: Ürün yaşam döngüsü bilgilerini dışarı aktarma
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008485"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025050"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="41926-103">Yaşam çevrimi verileri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="41926-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="8aea1-103">Yaşam çevrimi verileri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="8aea1-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="41926-104">Bu sayfa geliştirme aşamasındadır.</span><span class="sxs-lookup"><span data-stu-id="41926-104">This page is under development.</span></span>
+> <span data-ttu-id="8aea1-104">Bu sayfa geliştirme aşamasındadır.</span><span class="sxs-lookup"><span data-stu-id="8aea1-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="41926-105">Tüm ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="41926-105">Export all products</span></span>
-<span data-ttu-id="41926-106">Aşağıdaki tıklatarak tüm ürünlerin yaşam döngüsünü dışarı aktarın:</span><span class="sxs-lookup"><span data-stu-id="41926-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="8aea1-105">Tüm ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="8aea1-105">Export all products</span></span>
+<span data-ttu-id="8aea1-106">Aşağıdaki tıklatarak tüm ürünlerin yaşam döngüsünü dışarı aktarın:</span><span class="sxs-lookup"><span data-stu-id="8aea1-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="41926-107">Tüm ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="41926-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="8aea1-107">Tüm ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="8aea1-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="41926-108">Aile ve gruba göre ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="41926-108">Export products by Family and Group</span></span>
-<span data-ttu-id="41926-109">Bir aile ve sonra dışarı aktarılacak grubu seçin.</span><span class="sxs-lookup"><span data-stu-id="41926-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="41926-110">Not: grup değeri seçildiğinde dışarı aktarma başlayacak.</span><span class="sxs-lookup"><span data-stu-id="41926-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="8aea1-108">Aile ve gruba göre ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="8aea1-108">Export products by Family and Group</span></span>
+<span data-ttu-id="8aea1-109">Bir aile ve sonra dışarı aktarılacak grubu seçin.</span><span class="sxs-lookup"><span data-stu-id="8aea1-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="8aea1-110">Not: grup değeri seçildiğinde dışarı aktarma başlayacak.</span><span class="sxs-lookup"><span data-stu-id="8aea1-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="M" title2="Grup"]
 > - [(.NET | Tüm](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -83,8 +83,8 @@ ms.locfileid: "1008485"
 > - [(Windows | Güvenliğine](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Sunucuyla](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="41926-171">Destek tarihine göre ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="41926-171">Export products by end of support date</span></span>
-<span data-ttu-id="41926-172">Destek sonuna ulaşan ürünleri görmek için bir yıl seçin.</span><span class="sxs-lookup"><span data-stu-id="41926-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="41926-173">Not: dışarı aktarma yıl değeri seçildiğinde başlar.</span><span class="sxs-lookup"><span data-stu-id="41926-173">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="8aea1-171">Destek tarihine göre ürünleri dışarı aktarma</span><span class="sxs-lookup"><span data-stu-id="8aea1-171">Export products by end of support date</span></span>
+<span data-ttu-id="8aea1-172">Destek sonuna ulaşan ürünleri görmek için bir yıl seçin.</span><span class="sxs-lookup"><span data-stu-id="8aea1-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="8aea1-173">Not: dışarı aktarma yıl değeri seçildiğinde başlar.</span><span class="sxs-lookup"><span data-stu-id="8aea1-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Lync 2013
-  description: Lync 2013, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Lync 2013, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: SDK,Standard
   ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933361"
 name: Lync 2013
 summary: >+
-  Lync 2013, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Lync 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümlere uygulanır: SDK, standart
+  Bu, şu sürümler için geçerlidir: SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Skype Kurumsal 2015 Istemci sürümü, Lync 2013 Istemcisi için bir güncelleştirmedir ve aynı ürün yaşamı izleyecek.\nLync 2013 SDK başlangıç tarihi 23 Şubat 2013 ' dir. \n\n## <a name=\"editions\"></a>Sürümler \n* SDK\n* Standard"
+content: "\n\n> [!NOTE]\n> Skype Kurumsal 2015 İstemci sürümü, Lync 2013 İstemci için bir güncelleştirmedir ve aynı ürün yaşam döngüsünü takip edecektir.\nLync 2013 SDK'nın başlangıç tarihi 23 Şubat 2013'tür. \n\n## <a name=\"editions\"></a>Sürümler \n* SDK\n* Standard"
