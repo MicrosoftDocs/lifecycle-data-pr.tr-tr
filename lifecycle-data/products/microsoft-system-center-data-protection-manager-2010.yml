@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Veri Koruma Yöneticisi 2010
+  title: Microsoft System Center Data Protection Manager 2010
   description: Microsoft System Center Data Protection Manager 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7534f6aceaf0d1bb13a70109e9df6b5dd07c1153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844473"
-name: Microsoft System Center Veri Koruma Yöneticisi 2010
+name: Microsoft System Center Data Protection Manager 2010
 summary: >+
   Microsoft System Center Data Protection Manager 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu ](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"

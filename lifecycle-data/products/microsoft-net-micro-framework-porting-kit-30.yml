@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Mikro Çerçeve Taşıma Kiti 3.0
+  title: Microsoft .NET Micro Framework Porting Kit 3.0
   description: Microsoft .NET Micro Framework Porting Kit 3.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: bceaa4d262839239519b3ea3244f762d88982921
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844888"
-name: Microsoft .NET Mikro Çerçeve Taşıma Kiti 3.0
+name: Microsoft .NET Micro Framework Porting Kit 3.0
 summary: >
   Microsoft .NET Micro Framework Porting Kit 3.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Bu ürüne yönelik destek sona erdi.
+  > Bu ürün için destek sona erdi.
 products:
 - dotnet
 policyType: fixed
