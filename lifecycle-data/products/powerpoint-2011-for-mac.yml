@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865286"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Mac 2011 için Microsoft Office için genel destek, tüm müşterilere standart yaşam döngüsü geçiş zaman çizelgesi sağlamak için gösterildiği gibi genişletildi"
+content: "\n\n> [!NOTE]\n> Mac için Microsoft Office 2011'in genel desteği, tüm müşterilere standart yaşam döngüsü geçiş zaman çizelgesi sağlamak için gösterildiği gibi genişletilmiştir."

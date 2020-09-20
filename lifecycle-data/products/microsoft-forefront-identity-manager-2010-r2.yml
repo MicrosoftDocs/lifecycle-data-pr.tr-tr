@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Ön Kimlik Yöneticisi 2010 R2
-  description: Microsoft Forefront Identity Manager 2010 R2, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: Microsoft Ön Planda Kimlik Yöneticisi 2010 R2
+  description: Microsoft Ön Planda Kimlik Yöneticisi 2010 R2, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 73bd6dedc5fd3618801bd75b09eda9c7bbfaf460
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865170"
-name: Microsoft Ön Kimlik Yöneticisi 2010 R2
+name: Microsoft Ön Planda Kimlik Yöneticisi 2010 R2
 summary: >+
-  Microsoft Forefront Identity Manager 2010 [R2, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Ön Planda Kimlik Yöneticisi 2010 R2, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2012
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)"

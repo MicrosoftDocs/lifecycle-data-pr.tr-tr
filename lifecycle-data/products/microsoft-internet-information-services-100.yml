@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Bilgi Hizmetleri 10.0
-  description: Microsoft Internet Bilgi Hizmetleri 10.0, Bileşen Yaşam Döngüsü İlkesi'ni izler.
+  title: Microsoft Internet Information Services 10.0
+  description: Microsoft Internet Information Services 10.0, Bileşen Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864986"
-name: Microsoft Internet Bilgi Hizmetleri 10.0
+name: Microsoft Internet Information Services 10.0
 summary: >+
-  Microsoft Internet Bilgi Hizmetleri 10.0, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Internet Information Services 10.0, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/11/2027
-content: "\n\n> [!NOTE]\n> Bu sürüm, ana Ana Ürün olan Windows Server 2016'nın Destek Yaşam Döngüsü'nü izleyen bir Bileşen olarak bilinir."
+content: "\n\n> [!NOTE]\n> Bu sürüm, ana Büyük Ürün Windows Server 2016'nın, Destek Yaşam Döngüsünü izleyen bir Bileşen olarak bilinir."

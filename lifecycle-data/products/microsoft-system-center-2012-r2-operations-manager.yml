@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 R2 Operasyon Yöneticisi
+  title: Microsoft System Center 2012 R2 Operations Manager
   description: Microsoft System Center 2012 R2 Operations Manager, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57db6fbda015c2bbd55d4ec9621ed6cda6948a56
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864930"
-name: Microsoft System Center 2012 R2 Operasyon Yöneticisi
+name: Microsoft System Center 2012 R2 Operations Manager
 summary: >+
-  Microsoft System Center 2012 R2 Operations [Manager, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft System Center 2012 R2 Operations Manager, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Sistem Merkezi Dokümantasyonu](/system-center/#pivot=components&panel=components-all)\n* [Sistem Merkezi Kaynakları](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [System Center Dokümantasyonu](/system-center/#pivot=components&panel=components-all)\n* [System Center Resources](https://www.microsoft.com/system-center/resources)"

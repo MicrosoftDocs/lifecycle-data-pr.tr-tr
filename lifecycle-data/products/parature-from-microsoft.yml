@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Parature, Microsoft'tan
-  description: Parature, Microsoft'tan Modern Yaşam Döngüsü Politikası izler.
+  title: Microsoft Parature
+  description: Microsoft'un sunduğu Parature, Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: ec9af75ad6501403aa83c803d54630069c7b3f0a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864915"
-name: Parature, Microsoft'tan
+name: Microsoft Parature
 summary: >+
-  Parature, Microsoft'tan [Modern](/lifecycle/policies/modern) Yaşam Döngüsü Politikası izler.
+  Microsoft'un sunduğu Parature, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2015
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Destek sonu duyurusu](https://support.microsoft.com/help/4035128)\n* [Paratür geçiş destek portalı](https://aka.ms/paraturecustomers)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Destek sonu duyurusu](https://support.microsoft.com/help/4035128)\n* [Parature geçiş destek portalı](https://aka.ms/paraturecustomers)"
