@@ -4,11 +4,11 @@ metadata:
   description: Windows Server için AppFabric 1.1, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 64fa9cde8a1c3dffe62eac74d0c43c0cf7911fa7
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865034"
+  ms.lasthandoff: 09/21/2020
+  ms.locfileid: "1025245"
 name: Windows Server için AppFabric 1.1
 summary: >+
   Windows Server için AppFabric 1.1, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
