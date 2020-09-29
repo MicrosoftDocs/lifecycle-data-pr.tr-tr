@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistem Merkezi 2016 Veri Koruma
-  description: System Center 2016 Veri Koruması Sabit Yaşam Döngüsü Politikası'nı izler.
+  title: System Center 2016 Data Protection
+  description: System Center 2016 Data Protection, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865280"
-name: Sistem Merkezi 2016 Veri Koruma
+name: System Center 2016 Data Protection
 summary: >+
-  System Center 2016 Veri Koruması [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+  System Center 2016 Data Protection, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün Bilgileri](/system-center/)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün Bilgileri](/system-center/)"

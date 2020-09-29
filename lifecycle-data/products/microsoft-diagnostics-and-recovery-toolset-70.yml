@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Tanılama ve Kurtarma Araç Seti 7.0
-  description: Microsoft Tanılama ve Kurtarma Araç Kümesi 7.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: Microsoft Tanı ve Kurtarma Araç Seti 7.0
+  description: Microsoft Tanı ve Kurtarma Araç Seti 7.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1ae88ae75ff9aa63d4c88e100393608f958300e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864994"
-name: Microsoft Tanılama ve Kurtarma Araç Seti 7.0
+name: Microsoft Tanı ve Kurtarma Araç Seti 7.0
 summary: >+
-  Microsoft Tanılama ve Kurtarma Araç Kümesi 7.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Tanı ve Kurtarma Araç Seti 7.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

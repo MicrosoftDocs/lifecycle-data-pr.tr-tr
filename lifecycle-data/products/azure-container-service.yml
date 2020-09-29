@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Konteyner Hizmeti
-  description: Azure Kapsayıcı Hizmeti, Modern Yaşam Döngüsü İlkesi'ni izler.
+  title: Azure Kapsayıcı Hizmeti
+  description: Azure Container Service, Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864859"
-name: Azure Konteyner Hizmeti
+name: Azure Kapsayıcı Hizmeti
 summary: >+
-  Azure Kapsayıcı [Hizmeti, Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
+  Azure Container Service, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/18/2016
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/azure/aks/acs-aks-migration)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/azure/aks/acs-aks-migration)"

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864861"
 name: Azure StorSimple 1200 Serisi
 summary: >+
-  Azure StorSimple 1200 [Serisi, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesini izler.
+  Azure StorSimple 1200 Serisi, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/28/2016
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/azure/storage/files/storage-files-migration-storsimple-1200)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/azure/storage/files/storage-files-migration-storsimple-1200)"
