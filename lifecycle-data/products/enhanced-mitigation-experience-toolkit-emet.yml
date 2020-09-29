@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Geliştirilmiş risk azaltma deneyimi araç seti (EMET)
-  description: Geliştirilmiş risk azaltma deneyimi araç seti (EMET), sabit yaşam çevrimi Ilkesini takip eder.
+  title: Gelişmiş Risk Azaltma Deneyimi Araç Seti (EMET)
+  description: Gelişmiş Risk Azaltma Deneyimi Araç Seti (EMET), Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905339"
-name: Geliştirilmiş risk azaltma deneyimi araç seti (EMET)
+name: Gelişmiş Risk Azaltma Deneyimi Araç Seti (EMET)
 summary: >+
-  Geliştirilmiş risk azaltma deneyimi araç seti (EMET), [sabit](/lifecycle/policies/fixed) yaşam çevrimi ilkesini takip eder.
+  Gelişmiş Risk Azaltma Deneyimi Araç Seti (EMET), [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

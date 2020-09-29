@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 ürün öngörüleri
-  description: Dynamics 365 ürün öngörüleri modern yaşam döngüsü Ilkesini takip eder.
+  title: Dynamics 365 Product Insights
+  description: Dynamics 365 Product Insights, Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/25/2020
   ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
   ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/26/2020
   ms.locfileid: "911454"
-name: Dynamics 365 ürün öngörüleri
+name: Dynamics 365 Product Insights
 summary: >+
-  Dynamics 365 ürün öngörüleri [modern](/lifecycle/policies/modern) yaşam döngüsü ilkesini takip eder.
+  Dynamics 365 Product Insights, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

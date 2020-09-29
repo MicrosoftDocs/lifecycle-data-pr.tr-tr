@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Whale Communications Akıllı uygulama ağ geçidi
-  description: Whale Communications Akıllı uygulama ağ geçidi sabit yaşam döngüsü Ilkesini takip eder.
+  title: Whale Communications Intelligent Application Gateway
+  description: Whale Communications Intelligent Application Gateway, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907161"
-name: Whale Communications Akıllı uygulama ağ geçidi
+name: Whale Communications Intelligent Application Gateway
 summary: >+
-  Whale Communications Akıllı uygulama ağ geçidi [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Whale Communications Intelligent Application Gateway, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

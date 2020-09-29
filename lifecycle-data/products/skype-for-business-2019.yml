@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype kurumsal 2019
-  description: Skype for Business 2019, Sabit Yaşam Döngüsü Politikası'nı izler.
+  title: Skype Kurumsal 2019
+  description: Skype Kurumsal 2019, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0df52b63618e4bc7b7313685c975b8a89fd9ad11
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872926"
-name: Skype kurumsal 2019
+name: Skype Kurumsal 2019
 summary: >+
-  Skype for Business 2019, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+  Skype Kurumsal 2019, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

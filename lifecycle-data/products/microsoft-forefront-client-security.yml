@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Client Security
-  description: Microsoft Forefront Client Security, sabit yaşam döngüsü Ilkesine uyar.
+  description: Microsoft Forefront Client Security, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924276"
 name: Microsoft Forefront Client Security
 summary: >+
-  Microsoft Forefront Client Security, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesine uyar.
+  Microsoft Forefront Client Security, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront on TH, 2015 itibariyle Forefront Client Security sona erdirilmiş. Ürün sürümü desteğinin bitmeden önce kötü amaçlı yazılımdan koruma ve casus yazılım önleme tanım güncelleştirmeleri kullanılamayacak. Lütfen sistem merkezi uç nokta korumasını değiştirme olarak değerlendirin."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Sistem Merkezi Uç Nokta Koruması](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security, 14 Temmuz 2015 itibariyle durduruldu. Kötü amaçlı yazılımlardan koruma ve Casus yazılımlardan koruma tanım güncelleştirmeleri, ürün sürümüne göre destek sonuna ulaşınca kullanılabilirlikten çıkacaktır. Lütfen Sistem Merkezi Uç Nokta Koruması'nı bunun yerine koyma olarak değerlendirin."
