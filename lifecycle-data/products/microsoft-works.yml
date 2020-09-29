@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Works
-  description: Microsoft Works, sabit yaşam çevrimi Ilkesini takip eder.
+  description: Microsoft Works, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904618"
 name: Microsoft Works
 summary: >+
-  Microsoft Works, [sabit](/lifecycle/policies/fixed) yaşam çevrimi ilkesini takip eder.
+  Microsoft Works, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> Bu liste 2003 ile 2007 arasında yayınlanan tüm Microsoft Works ürünlerini içerir."
+content: "\n\n> [!NOTE]\n> Bu liste, 2003 ve 2007 yılları arasında yayımlanan TÜM Microsoft Works ürünlerini içerir."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Security for Office Communications Server
-  description: Forefront Security for Office Communications Server, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Forefront Security for Office Communications Server, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/21/2020
   ms.openlocfilehash: 5f0144e2e7f36644a959dccab8e1da4696e8c230
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908947"
 name: Forefront Security for Office Communications Server
 summary: >+
-  Forefront Security for Office Communications Server, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Forefront Security for Office Communications Server, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 06/09/2009
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront markasının altındaki güvenlik ürünleri için yol haritası değiştirilmiştir. 31 Aralık 2015 itibariyle bu ürün sona erdirilmiş."
+content: "\n\n> [!NOTE]\n> Forefront markası altındaki güvenlik ürünleri için yol haritası değişti.  Bu ürün 31 Aralık 2015 itibarı ile durdurulmuştur.\n\n\n"

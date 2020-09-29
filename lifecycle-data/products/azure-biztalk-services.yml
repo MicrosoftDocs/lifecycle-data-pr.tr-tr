@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure BizTalk Hizmetleri
-  description: Azure BizTalk Hizmetleri modern yaşam döngüsü Ilkesine uyar.
+  title: Azure BizTalk Services
+  description: Azure BizTalk Services, Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904611"
-name: Azure BizTalk Hizmetleri
+name: Azure BizTalk Services
 summary: >+
-  Azure BizTalk Hizmetleri [modern](/lifecycle/policies/modern) yaşam döngüsü ilkesine uyar.
+  Azure BizTalk Services, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Balantı \n* [Geçiş Kılavuzu](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://azure.microsoft.com/services/biztalk-services)"

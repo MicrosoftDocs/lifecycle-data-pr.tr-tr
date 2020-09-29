@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions Iş portalı
-  description: Microsoft Business Solutions Business Portal, sabit yaşam döngüsü Ilkesini takip eder.
+  title: Microsoft İş Çözümleri İş Portalı
+  description: Microsoft Business Solutions Business Portal, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904620"
-name: Microsoft Business Solutions Iş portalı
+name: Microsoft İş Çözümleri İş Portalı
 summary: >+
-  Microsoft Business Solutions Business Portal, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Microsoft Business Solutions Business Portal, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2,5, yalnızca harika Plains 8,0 veya Solomon 6,0 ile kullanıldığında desteklenmektedir."
+content: "\n\n> [!NOTE]\n> Microsoft İş Çözümleri İş Portalı 2.5 yalnızca Great Plains 8.0 veya Solomon 6.0 ile birlikte kullanıldığında desteklenir."

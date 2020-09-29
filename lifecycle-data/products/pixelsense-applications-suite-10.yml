@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense uygulamalar paketi 1,0
-  description: PixelSense uygulama paketi 1,0, sabit yaşam döngüsü Ilkesini takip eder.
+  title: PixelSense Applications Suite 1.0
+  description: PixelSense Applications Suite 1.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/12/2020
   ms.openlocfilehash: c74536304840d0d75306a3d6d2609d8a39c524dc
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "892115"
-name: PixelSense uygulamalar paketi 1,0
+name: PixelSense Applications Suite 1.0
 summary: >+
-  PixelSense uygulama paketi 1,0, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  PixelSense Applications Suite 1.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

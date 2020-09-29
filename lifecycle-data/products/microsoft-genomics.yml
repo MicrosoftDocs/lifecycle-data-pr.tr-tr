@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Genomik
-  description: Microsoft Genomics, Modern Yaşam Döngüsü İlkesi'ni izler.
+  title: Microsoft Genomics
+  description: Microsoft Genomics, Modern Yaşam Döngüsü İlkesi'ni takip eder.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f52d7baf49b2bad411cda9bc96706cfc39bd5c0
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872835"
-name: Microsoft Genomik
+name: Microsoft Genomics
 summary: >+
   Microsoft Genomics, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2017
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Servis bilgileri](/azure/genomics/version-release-history-genomics)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](/azure/genomics/version-release-history-genomics)"

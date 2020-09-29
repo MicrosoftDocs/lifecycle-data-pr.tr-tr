@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio portalları V6. x veya önceki
-  description: Adxstudio portalları V6. x
+  title: Adxstudio Portals v6.x veya öncesi
+  description: Adxstudio Portals v6.x veya öncesi, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924452"
-name: Adxstudio portalları V6. x veya önceki
+name: Adxstudio Portals v6.x veya öncesi
 summary: >+
-  Adxstudio portalları V6. x [Fixed](/lifecycle/policies/fixed)
+  Adxstudio Portals v6.x veya öncesi, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Yaşam döngüsü SSS-alımlar](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Bu ürün için destek, alma şartlarına tabidir ve sona ermiştir."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Yaşam Döngüsü SSS - Edinimler](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Bu ürünün desteği, ürünün alım şartlarına tabidir ve sona ermiştir."

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Edge eski
-  description: Microsoft Edge, bileşen yaşam döngüsü Ilkesini takip eder.
+  title: Microsoft Edge Legacy
+  description: Microsoft Edge Legacy, Bileşen Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/24/2020
   ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908949"
-name: Microsoft Edge eski
+name: Microsoft Edge Legacy
 summary: >
-  Microsoft Edge, [bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) yaşam döngüsü ilkesini takip eder.
+  Microsoft Edge Legacy, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > Bu ürün için desteğin 9 Mart 2021 tarihinde sona erdiğine dikkat edin. Daha fazla bilgi edinmek için [buraya](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) gidin.
+  > Bu ürün için verilen desteğin, 9 Mart 2021 tarihinde sona ereceğini lütfen unutmayın. Daha fazla bilgi edinmek için [buraya](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) gidin.
 products:
 - microsoft-edge
 policyType: component
