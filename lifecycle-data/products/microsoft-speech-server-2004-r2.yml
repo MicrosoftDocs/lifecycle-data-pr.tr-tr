@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Speech Server 2004 R2
-  description: Microsoft Speech Server 2004 R2, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Microsoft Speech Server 2004 R2, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937061"
 name: Microsoft Speech Server 2004 R2
 summary: >+
-  Microsoft Speech Server 2004 R2, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Microsoft Speech Server 2004 R2, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard

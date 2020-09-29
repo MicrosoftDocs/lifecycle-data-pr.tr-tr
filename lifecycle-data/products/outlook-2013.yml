@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2013
-  description: Outlook 2013, sabit yaşam döngüsü Ilkesini izler.
+  description: Outlook 2013, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 2678d0bb53f3c29f23028aa934729776d1c73d7c
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926812"
 name: Outlook 2013
 summary: >+
-  Outlook 2013, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini izler.
+  Outlook 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Standard

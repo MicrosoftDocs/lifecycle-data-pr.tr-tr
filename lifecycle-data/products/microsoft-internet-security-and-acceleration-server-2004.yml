@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Internet Security and Acceleration Server 2004
-  description: Microsoft Internet Security and Acceleration Server 2004, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Microsoft Internet Security and Acceleration Server 2004, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933509"
 name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.\n\nBu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. \n"
+summary: "Microsoft Internet Security and Acceleration Server 2004, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. \n"
 products:
 - microsoft-servers
 policyType: fixed

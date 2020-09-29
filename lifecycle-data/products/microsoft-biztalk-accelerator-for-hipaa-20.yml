@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HIPAA için Microsoft BizTalk Accelerator 2,0
-  description: HIPAA için Microsoft BizTalk Accelerator 2,0, sabit yaşam çevrimi Ilkesini takip eder.
+  title: HIPAA 2.0 için Microsoft BizTalk Hızlandırıcı
+  description: HIPAA 2.0 için Microsoft BizTalk Hızlandırıcı, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: aab9e80e120618a791c1636446425b56d9d36995
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935322"
-name: HIPAA için Microsoft BizTalk Accelerator 2,0
+name: HIPAA 2.0 için Microsoft BizTalk Hızlandırıcı
 summary: >+
-  HIPAA için Microsoft BizTalk Accelerator 2,0, [sabit](/lifecycle/policies/fixed) yaşam çevrimi ilkesini takip eder.
+  HIPAA 2.0 için Microsoft BizTalk Hızlandırıcı, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Enterprise, Standard
