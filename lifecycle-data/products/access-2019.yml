@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Access 2019
-  description: Access 2019, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Access 2019, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 9cb6474fa4cc37df413fc8db00203768b06973a0
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940169"
 name: Access 2019
 summary: >+
-  Access 2019, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Access 2019, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Standard

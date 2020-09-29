@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2016
-  description: SharePoint Server 2016, sabit yaşam döngüsü Ilkesini takip eder.
+  description: SharePoint Server 2016, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941754"
 name: SharePoint Server 2016
 summary: >+
-  SharePoint Server 2016, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  SharePoint Server 2016, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet Bilgileri](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> [Ürün](https://docs.microsoft.com/sharepoint/sharepoint-server) ve [Geliştirici](https://developer.microsoft.com/sharepoint/docs) belgelerine bakın"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet Bilgileri](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> [Ürün](https://docs.microsoft.com/sharepoint/sharepoint-server) ve [geliştirici](https://developer.microsoft.com/sharepoint/docs) belgelerine bakın."
