@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Tümleştirme Tasarımcısı 2.5
-  description: Microsoft Tümleştirme Tasarımcısı 2.5, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: Microsoft Integration Designer 2.5, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844194"
 name: Microsoft Tümleştirme Tasarımcısı 2.5
 summary: >+
-  Microsoft Tümleştirme Tasarımcısı 2.5, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Integration Designer 2.5, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Eşitleme Çerçevesi 2.1
-  description: Microsoft Eşitleme Framework 2.1, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: Microsoft Sync Framework 2.1
+  description: Microsoft Sync Framework 2.1, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: bc3dad267d8e7e0795160fa896915b06a7532b1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844484"
-name: Microsoft Eşitleme Çerçevesi 2.1
+name: Microsoft Sync Framework 2.1
 summary: >+
-  Microsoft Eşitleme Framework 2.1, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Sync Framework 2.1, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Ürün Bilgileri](/previous-versions/sql/synchronization/mt490616(v=msdn.10)?redirectedfrom=MSDN)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün Bilgileri](/previous-versions/sql/synchronization/mt490616(v=msdn.10)?redirectedfrom=MSDN)"
