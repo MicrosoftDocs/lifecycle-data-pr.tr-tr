@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Server Güvenlik Yönetim Konsolu
-  description: Microsoft Forefront Server Security Management Console, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: Microsoft Forefront Server Güvenlik Yönetimi Konsolü
+  description: Microsoft Forefront Server Güvenlik Yönetimi Konsolü, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844526"
-name: Microsoft Forefront Server Güvenlik Yönetim Konsolu
+name: Microsoft Forefront Server Güvenlik Yönetimi Konsolü
 summary: >+
-  Microsoft Forefront Server Security Management [Console, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Forefront Server Güvenlik Yönetimi Konsolü, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

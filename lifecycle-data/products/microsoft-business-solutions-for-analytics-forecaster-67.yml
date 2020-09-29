@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Analytics Forecaster 6.7 için Microsoft İş Çözümleri
-  description: Analytics Forecaster 6.7 için Microsoft Business Solutions, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  title: AnalyticsForecaster 6.7 için Microsoft Business Solutions
+  description: AnalyticsForecaster 6.7 için Microsoft Business Solutions, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "844571"
-name: Analytics Forecaster 6.7 için Microsoft İş Çözümleri
+name: AnalyticsForecaster 6.7 için Microsoft Business Solutions
 summary: >+
-  Analytics Forecaster 6.7 için Microsoft Business [Solutions, Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  AnalyticsForecaster 6.7 için Microsoft Business Solutions, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
