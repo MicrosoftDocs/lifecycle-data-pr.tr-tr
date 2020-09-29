@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2016
-  description: Project Server 2016, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Project Server 2016, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941469"
 name: Project Server 2016
 summary: >+
-  Project Server 2016, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Project Server 2016, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> [Ürün](https://docs.microsoft.com/project/project-server-2013-and-2016) ve [Geliştirici](https://developer.microsoft.com/project/docs) belgelerine bakın."
+content: "\n\n> [!NOTE]\n> [Ürün](https://docs.microsoft.com/project/project-server-2013-and-2016) ve [geliştirici](https://developer.microsoft.com/project/docs) belgelerine bakın."

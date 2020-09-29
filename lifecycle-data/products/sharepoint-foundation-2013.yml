@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2013
-  description: SharePoint Foundation 2013, sabit yaşam döngüsü Ilkesini takip eder.
+  description: SharePoint Foundation 2013, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: f3241162e2d2a4953850015a7b1625b07adfbcbf
   ms.sourcegitcommit: 81b08c37762fa90d8258fe5a26c257089bcc981b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "941097"
 name: SharePoint Foundation 2013
 summary: >+
-  SharePoint Foundation 2013, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  SharePoint Foundation 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 8
-  description: Windows Phone 8, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Windows Phone 8, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/19/2020
   ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
   ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940971"
 name: Windows Phone 8
 summary: >+
-  Windows Phone 8, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Windows Phone 8, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
