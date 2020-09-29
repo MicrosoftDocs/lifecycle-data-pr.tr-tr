@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2010
-  description: Visio 2010, sabit yaşam döngüsü Ilkesini takip eder.
+  description: Visio 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Premium,Professional,Standard
   ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937875"
 name: Visio 2010
 summary: >+
-  Visio 2010, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  Visio 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümlere uygulanır: Premium, profesyonel, standart
+  Bu, şu sürümler için geçerlidir: Premium, Professional, Standard
 
 products:
 - office

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PowerPoint 2019
-  description: PowerPoint 2019, sabit yaşam döngüsü Ilkesini takip eder.
+  description: PowerPoint 2019, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f28e4fd798e20b6f170da86bfa12a50e59865c29
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926886"
 name: PowerPoint 2019
 summary: >+
-  PowerPoint 2019, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini takip eder.
+  PowerPoint 2019, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Standard

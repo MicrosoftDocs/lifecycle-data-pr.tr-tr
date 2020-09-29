@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2016
-  description: Outlook 2016, sabit yaşam döngüsü Ilkesini izler.
+  description: Outlook 2016, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1994b8231e5d8c0b6134a3872d532ca176c27e6b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938134"
 name: Outlook 2016
 summary: >+
-  Outlook 2016, [sabit](/lifecycle/policies/fixed) yaşam döngüsü ilkesini izler.
+  Outlook 2016, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Standard

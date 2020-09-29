@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft uç nokta Yapılandırma Yöneticisi
-  description: Microsoft uç nokta Yapılandırma Yöneticisi modern yaşam döngüsü Ilkesini takip eder.
+  title: Microsoft Uç Noktası Yapılandırma Yöneticisi
+  description: Microsoft Uç Noktası Yapılandırma Yöneticisi, Modern Yaşam Döngüsü İlkesi'ni takip eder.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934064"
-name: Microsoft uç nokta Yapılandırma Yöneticisi
+name: Microsoft Uç Noktası Yapılandırma Yöneticisi
 summary: >
-  Microsoft uç nokta Yapılandırma Yöneticisi [modern](/lifecycle/policies/modern) yaşam döngüsü ilkesini takip eder.
+  Microsoft Uç Nokta Yapılandırma Yöneticisi, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 
   > [!IMPORTANT]
 
-  > 1910 sürümünden başlayarak, Configuration Manager artık Microsoft Endpoint Manager 'ın bir parçasıdır.
+  > 1910 sürümünden itibaren Yapılandırma Yöneticisi artık Microsoft Uç Nokta Yöneticisi'nin bir parçasıdır.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Sürüm ayrıntıları](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager şimdi Microsoft uç nokta Yapılandırma Yöneticisi](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Geçmiş sürümleri](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Yapılandırma Yöneticisi nedir?](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Sürüm Detayları](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Sistem Merkezi Yapılandırma Yöneticisi artık Microsoft Uç Nokta Yapılandırma Yöneticisi'dir.](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Geçmiş Sürümler](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Yapılandırma Yöneticisi nedir](/mem/configmgr/core/understand/introduction)"
