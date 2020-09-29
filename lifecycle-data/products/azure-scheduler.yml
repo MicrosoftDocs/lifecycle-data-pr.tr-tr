@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Zamanlayıcısı
-  description: Azure Zamanlayıcısı, Modern Yaşam Döngüsü İlkesi'ni izler.
+  title: Azure Scheduler
+  description: Azure Scheduler, Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864852"
-name: Azure Zamanlayıcısı
+name: Azure Scheduler
 summary: >+
-  Azure [Zamanlayıcısı, Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
+  Azure Scheduler, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2014
   endDate: 09/30/2019
-content: "\n## <a name=\"links\"></a>Bağlantı \n* [Geçiş kılavuzu](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamikler NAV 2016
-  description: Dynamics NAV 2016, Sabit Yaşam Döngüsü Politikası'nı izler.
+  title: Dynamics NAV 2016
+  description: Dynamics NAV 2016, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 042bc3506bd9e3d5166567a509ae9cac61fe6fa9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: tr-TR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865203"
-name: Dinamikler NAV 2016
+name: Dynamics NAV 2016
 summary: >+
-  Dynamics NAV 2016, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü Politikası'nı izler.
+  Dynamics NAV 2016, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
