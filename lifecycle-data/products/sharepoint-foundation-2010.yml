@@ -2,13 +2,14 @@
 metadata:
   title: SharePoint Foundation 2010
   description: SharePoint Foundation 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: ''
+  ms.openlocfilehash: 280f3157ee4cf5b5e9d0a3b2f3a597c3b4c6afbc
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843901"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162761"
 name: SharePoint Foundation 2010
 summary: >+
   SharePoint Foundation 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Destek uzantısı](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Bu ürünün hizmet sonu, 13 Ekim 2020’den 13 Nisan 2021’e uzatıldı."
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Destek uzantısı](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Microsoft SharePoint Foundation 2010 geliştirici belgeleri](/previous-versions/office/ee535067(v=office.14))\n* [Microsoft SharePoint Foundation 2010 ürün belgeleri](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Bu ürünün hizmet sonu, 13 Ekim 2020’den 13 Nisan 2021’e uzatıldı."
