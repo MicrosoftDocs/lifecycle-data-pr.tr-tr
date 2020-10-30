@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Azure Paketi (Windows Server 2012 R2 üzerinde)
+  description: Windows Azure Paketi (Windows Server 2012 R2'de), Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 10/19/2020
+  keywords: 
+  ms.openlocfilehash: 38fe3e0f5e46d996504b594c78e8717330b720c0
+  ms.sourcegitcommit: 2898ade954d468d09e16a723f0685bbac5214be0
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "1160962"
+name: Windows Azure Paketi (Windows Server 2012 R2 üzerinde)
+summary: >+
+  Windows Azure Paketi (Windows Server 2012 R2'de), [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+  Bu, şu sürümler için geçerlidir: Windows Server 2012 R2 üzerinde
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/14/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: on Windows Server 2012 R2
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+- version: V2 Web Sites
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Windows Azure Paketi Web Siteleri V2 Desteği Yaşam Döngüsü Tarihleri](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Server Ürün Bilgisi için Windows Azure Paketi](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Sürümler \n* Windows Server 2012 R2 üzerinde"
