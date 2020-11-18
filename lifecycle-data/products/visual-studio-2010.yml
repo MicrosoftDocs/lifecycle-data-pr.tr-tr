@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Agents, Tümü, ASP .NET MVC 4, Express, F# 2.0 Runtime, Laboratuvar Yönetimi, Performans Araçları, Premium, Professional, MSDN'li Professional, PSM, Uzaktan Hata Ayıklayıcı, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Team Agents, Takım Gezgini, Test Professional, Office Sistemi 4.0 Runtime için Araçlar, MSDN'li Ultimate, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Sanallaştırma ve Modelleme SDK
+  Bu, aşağıdaki sürümler için geçerlidir: Agents, Tümü, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performans Araçları, Premium, Professional, Professional w/MSDN, PSM, Uzaktan Hata Ayıklayıcı, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Team Agents, Takım Gezgini, Test Professional, Office Sistemi 4.0 Runtime için Araçlar, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Sanallaştırma ve Modelleme SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Tüm\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Laboratuvar Yönetimi\n* Performans Araçları\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Uzaktan Hata Ayıklayıcı\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Team Agents\n* Takım Gezgini\n* Test Professional\n* Office Sistemi 4.0 Runtime için Araçlar\n* Ultimate\n* MSDN'li Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Sanallaştırma ve Modelleme SDK"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Tüm\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performans Araçları\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Uzaktan Hata Ayıklayıcı\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Team Agents\n* Takım Gezgini\n* Test Professional\n* Office Sistemi 4.0 Runtime için Araçlar\n* Ultimate\n* Ultimate with MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Sanallaştırma ve Modelleme SDK"

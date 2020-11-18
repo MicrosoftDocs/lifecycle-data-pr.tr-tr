@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Agents, Topluluk 2013, Web için Express, Windows 8 için Express, Windows Masaüstü için Express, IntelliTrace Collector, Microsoft Azure Araçları, Premium, Professional, Uzak Araçlar, Shell (Tümleşik), Shell (Yalıtılmış), SQL Server Veri Araçları, Takım Gezgini, Test Professional 2013, Ultimate, Visual C++ Yeniden Dağıtılabilir, Web Tools Uzantıları
+  Bu, aşağıdaki sürümler için geçerlidir: Agents, Community 2013, Web için Express, Windows 8 için Express, Windows Masaüstü için Express, IntelliTrace Collector, Microsoft Azure Araçları, Premium, Professional, Uzak Araçlar, Shell (Tümleşik), Shell (Yalıtılmış), SQL Server Veri Araçları, Takım Gezgini, Test Professional 2013, Ultimate, Visual C++ Yeniden Dağıtılabilir, Web Tools Uzantıları
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Visual Studio Ürün Yaşam Döngüsü ve Hizmet](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Topluluk 2013\n* Web için Express\n* Windows 8 için Express\n* Windows Masaüstü için Express\n* IntelliTrace Collector\n* Microsoft Azure Araçları\n* Premium\n* Professional\n* Uzak Araçlar\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* SQL Server Veri Araçları\n* Takım Gezgini\n* Test Professional 2013\n* Ultimate\n* Visual C++ Yeniden Dağıtılabilir\n* Web Tools Uzantıları"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Visual Studio Ürün Yaşam Döngüsü ve Hizmet](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Community 2013\n* Web için Express\n* Windows 8 için Express\n* Windows Masaüstü için Express\n* IntelliTrace Collector\n* Microsoft Azure Araçları\n* Premium\n* Professional\n* Uzak Araçlar\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* SQL Server Veri Araçları\n* Takım Gezgini\n* Test Professional 2013\n* Ultimate\n* Visual C++ Yeniden Dağıtılabilir\n* Web Tools Uzantıları"

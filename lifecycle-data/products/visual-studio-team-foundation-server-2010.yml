@@ -15,7 +15,7 @@ summary: >+
   Visual Studio Team Foundation Server 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, şu sürümler için geçerlidir: Tüm uygulanabilir olanlar, External Connector
+  Bu, şu sürümler için geçerlidir: Tüm geçerli sürümler, External Connector
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Tümü uygulanabilir\n* External Connector"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Tümü uygulanabilir olanlar\n* External Connector"
