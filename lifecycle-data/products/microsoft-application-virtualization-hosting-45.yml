@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün ve geçiş bilgileri](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Windows Masaüstü Bilgisayarlar için"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün ve geçiş bilgileri](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Windows Masaüstü için"

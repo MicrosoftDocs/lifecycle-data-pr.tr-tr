@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Gelişmiş Grup İlkesi Yönetimi 4.0
-  description: Microsoft Advanced Group Policy Management 4.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: Microsoft Gelişmiş Grup İlkesi Yönetimi 4.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
@@ -11,7 +11,7 @@ metadata:
   ms.locfileid: "844609"
 name: Microsoft Gelişmiş Grup İlkesi Yönetimi 4.0
 summary: >+
-  Microsoft Advanced Group Policy Management 4.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+  Microsoft Gelişmiş Grup İlkesi Yönetimi 4.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:

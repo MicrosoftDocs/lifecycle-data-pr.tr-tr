@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2015, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Agents, Topluluk, Enterprise, ESM, Web için Express, Windows 10 için Express, Windows Masaüstü için Express, Modelleme SDK, Professional, PSM, Release Management, Uzak Araçlar, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Test Professional, Visual C++ Yeniden Dağıtılabilir
+  Bu, aşağıdaki sürümler için geçerlidir: Agents, Community, Enterprise, ESM, Web için Express, Windows 10 için Express, Windows Masaüstü için Express, Modelleme SDK, Professional, PSM, Release Management, Uzak Araçlar, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Test Professional, Visual C++ Yeniden Dağıtılabilir
 
 products:
 - vs

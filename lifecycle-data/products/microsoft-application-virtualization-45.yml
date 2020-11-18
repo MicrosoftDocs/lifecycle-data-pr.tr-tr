@@ -15,7 +15,7 @@ summary: >
   Microsoft Application Virtualization 4.5, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, şu sürümler için geçerlidir: Terminal Hizmetleri için, Windows Masaüstü bilgisayarlar için
+  Bu, şu sürümler için geçerlidir: Terminal Services için, Windows Masaüstü için
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 istemcisi, App-V 4.5 Sunucusu'nu kullandığından, App-V 4.5 Sunucusu, desteklenen App-V 4.6 istemcisi ile birlikte kullanılırken App-V 4.6'nın yaşam döngüsü tarihlerine göre desteklenmeye devam edecektir.\n\n## <a name=\"editions\"></a>Sürümler \n* Terminal Hizmetleri için\n* Windows Masaüstü Bilgisayarlar için"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 istemcisi, App-V 4.5 Sunucusu'nu kullandığından, App-V 4.5 Sunucusu, desteklenen App-V 4.6 istemcisi ile birlikte kullanılırken App-V 4.6'nın yaşam döngüsü tarihlerine göre desteklenmeye devam edecektir.\n\n## <a name=\"editions\"></a>Sürümler \n* Terminal Services için\n* Windows Masaüstü için"

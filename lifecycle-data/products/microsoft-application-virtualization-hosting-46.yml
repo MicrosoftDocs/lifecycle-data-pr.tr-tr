@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün ve geçiş bilgileri](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 istemcisi, App-V 4.5 Sunucusu'nu kullandığından, App-V 4.5 Sunucusu, desteklenen App-V 4.6 istemcisi ile birlikte kullanılırken App-V 4.6'nın yaşam döngüsü tarihlerine göre desteklenmeye devam edecektir.\n\n## <a name=\"editions\"></a>Sürümler \n* Windows Masaüstü Bilgisayarlar için"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün ve geçiş bilgileri](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 istemcisi, App-V 4.5 Sunucusu'nu kullandığından, App-V 4.5 Sunucusu, desteklenen App-V 4.6 istemcisi ile birlikte kullanılırken App-V 4.6'nın yaşam döngüsü tarihlerine göre desteklenmeye devam edecektir.\n\n## <a name=\"editions\"></a>Sürümler \n* Windows Masaüstü için"

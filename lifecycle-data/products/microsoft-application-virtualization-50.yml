@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization 5.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, şu sürümler için geçerlidir: Uzak Masaüstü Hizmetleri için, Terminal Hizmetleri için, Windows Masaüstü için
+  Bu, şu sürümler için geçerlidir: Uzak Masaüstü Hizmetleri için, Terminal Services için, Windows Masaüstü için
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Uzak Masaüstü Hizmetleri için\n* Terminal Hizmetleri için\n* Windows Masaüstü Bilgisayarlar için"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Uzak Masaüstü Hizmetleri için\n* Terminal Services için\n* Windows Masaüstü için"

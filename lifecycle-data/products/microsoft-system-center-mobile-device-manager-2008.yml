@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Sistem Merkezi Mobil Cihaz Yöneticisi 2008
+  title: Microsoft System Center Mobile Device Manager 2008
   description: Microsoft System Center Mobile Device Manager 2008, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/10/2020
   keywords: All applicable,wSQL
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: tr-TR
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001447"
-name: Microsoft Sistem Merkezi Mobil Cihaz Yöneticisi 2008
+name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
   Microsoft System Center Mobile Device Manager 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, şu sürümler için geçerlidir: Tüm uygulanabilir olanlar, wSQL
+  Bu, şu sürümler için geçerlidir: Tüm geçerli sürümler, wSQL
 
 products:
 - msc
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Tümü uygulanabilir\n* wSQL"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Tümü uygulanabilir olanlar\n* wSQL"
