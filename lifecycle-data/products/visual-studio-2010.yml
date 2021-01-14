@@ -2,20 +2,20 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 09/01/2020
-  keywords: Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: b48b0cf13c8467530d6c24c5eb54371008e4dbdd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 01/08/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
+  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937542"
+  ms.lasthandoff: 01/08/2021
+  ms.locfileid: "1375270"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Agents, Tümü, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performans Araçları, Premium, Professional, Professional w/MSDN, PSM, Uzaktan Hata Ayıklayıcı, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Team Agents, Takım Gezgini, Test Professional, Office Sistemi 4.0 Runtime için Araçlar, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Sanallaştırma ve Modelleme SDK
+  Bu, şu sürümler için geçerlidir: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime (VSTO), Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Tüm\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performans Araçları\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Uzaktan Hata Ayıklayıcı\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Team Agents\n* Takım Gezgini\n* Test Professional\n* Office Sistemi 4.0 Runtime için Araçlar\n* Ultimate\n* Ultimate with MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Sanallaştırma ve Modelleme SDK"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Tüm\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Laboratuvar Yönetimi\n* Performans Araçları\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Uzaktan Hata Ayıklayıcı\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Team Agents\n* Takım Gezgini\n* Test Professional\n* Office System 4.0 Runtime (VSTO) için Araçlar\n* Ultimate\n* MSDN'li Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Sanallaştırma ve Modelleme SDK"

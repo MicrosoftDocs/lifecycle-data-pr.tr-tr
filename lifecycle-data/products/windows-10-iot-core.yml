@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core, Modern Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 10/16/2020
+  ms.date: 01/07/2021
   keywords: 
-  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
-  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
+  ms.openlocfilehash: 0eb6508d3bae724e55598450d6aeb156ad727048
+  ms.sourcegitcommit: 699a750c1174c44e9aca20f79e837d8cd401de71
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 10/17/2020
-  ms.locfileid: "1158130"
+  ms.lasthandoff: 01/07/2021
+  ms.locfileid: "1369512"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Bu ürün, 10 Kasım 2020 tarihinde kullanımdan kalkacaktır. Destekte kalmak için lütfen IoT Core Services'a geçin.
+  > Bu ürün, 10 Kasım 2020 tarihinde kullanımdan kalkacaktır. Destekte kalmak için lütfen [IoT Core Services](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal)'a geçin.
 products:
 - windows
 policyType: modern-on-prem
