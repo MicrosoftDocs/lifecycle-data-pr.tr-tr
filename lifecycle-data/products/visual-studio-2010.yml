@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 01/08/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
-  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
+  ms.date: 05/28/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 01/08/2021
-  ms.locfileid: "1375270"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029970"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, şu sürümler için geçerlidir: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime (VSTO), Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+
+  Bu, şu sürümler için geçerlidir: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Laboratuvar Yönetimi, Performans Araçları, Premium, Professional, MSDN ile Professional, PSM, Uzaktan Hata Ayıklayıcı, SDK, Kabuk (Tümleşik), Kabuk (Yalıtılmış), Takım Aracıları, Takım Gezgini, Test Uzmanı, Ultimate, MSDN ile Ultimate, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Görselleştirme ve Modelleme SDK'sı
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Tüm\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Laboratuvar Yönetimi\n* Performans Araçları\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Uzaktan Hata Ayıklayıcı\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Team Agents\n* Takım Gezgini\n* Test Professional\n* Office System 4.0 Runtime (VSTO) için Araçlar\n* Ultimate\n* MSDN'li Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Sanallaştırma ve Modelleme SDK"
+content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Visual Studio 2010 Tools for Office (VSTO) Runtime, Visual Studio ve Microsoft Office'in çeşitli sürümleriyle birlikte gelir ve ana ürünün yaşam döngüsünü takip eder. Ayrı olarak da indirilebilir, [burada](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Tüm\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Laboratuvar Yönetimi\n* Performans Araçları\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Uzaktan Hata Ayıklayıcı\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Team Agents\n* Takım Gezgini\n* Test Professional\n* Ultimate\n* MSDN'li Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Sanallaştırma ve Modelleme SDK"
