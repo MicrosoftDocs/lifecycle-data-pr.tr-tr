@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2012 Paralel Veri Ambarı (Çözümleme Platform Sistemi)
+  description: Microsoft SQL Server 2012 Paralel Veri Ambarı (Çözümleme Platform Sistemi), Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 07/12/2021
+  keywords: 
+  ms.openlocfilehash: b8b7ba18a9194156b247cc21091283d7b6e3af28
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2172307"
+name: Microsoft SQL Server 2012 Paralel Veri Ambarı (Çözümleme Platform Sistemi)
+summary: >+
+  Microsoft SQL Server 2012 Paralel Veri Ambarı (Çözümleme Platform Sistemi), [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Çözümleme Platform Sistemi desteğinin sonu, 8 Ekim 2024'den 31 Mart 2026'ya kadar uzatıldı.
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/12/2013
+  end: 10/08/2019
+  extendedEnd: 03/31/2026
+releases:
+- version: Original Release
+  startDate: 07/12/2013
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](https://www.microsoft.com/sql-server/analytics-platform-system)\n\n\n> [!NOTE]\n> Microsoft SQL Server 2012 Paralel Veri Ambarı (PDW), APS (Çözümleme Platform Sistemi) olarak yeniden markalanmıştır."
