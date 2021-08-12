@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure Kinect SDK
-  description: Azure Kinect SDK, modern yaşam döngüsü Ilkesini takip eder.
+  description: Azure Kinect SDK, Modern Yaşam Döngüsü İlkesi'ne sahiptir.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cdaabc601933637a3d23f3738a98995a2966a5b5
-  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.openlocfilehash: 087760544040bfc30d01d66794593f1182e50162cdfd999ec68c971abb80b27e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/21/2020
-  ms.locfileid: "1025282"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496424"
 name: Azure Kinect SDK
 summary: >+
-  Azure Kinect SDK, [modern](/lifecycle/policies/modern) yaşam döngüsü ilkesini takip eder.
+  Azure Kinect SDK, Modern Yaşam Döngüsü [İlkesi'ne](/lifecycle/policies/modern) sahiptir.
 
 
 products:
