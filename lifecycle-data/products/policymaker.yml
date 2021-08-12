@@ -1,30 +1,38 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PolicyMaker
-  description: PolicyMaker, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'PolicyMaker, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
-  keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
-  ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938060"
+  keywords: 'Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0'
 name: PolicyMaker
-summary: >+
+summary: |+
   PolicyMaker, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
   Bu, aşağıdaki sürümler için geçerlidir: Uygulama Güvenliği, Outlook Sürümü, Profesyonel 9.0, Kayıt Defteri Uzantısı 2.0, Paylaşma Yöneticisi 1.0, Yazılım Güncelleştirmesi 1.0, Yazılım Güncelleştirmesi 2.0, Standart 1.0, Standart 2.0
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Bu ürünün desteği, ürünün alım şartlarına tabidir.\n\n## <a name=\"editions\"></a>Sürümler \n* Uygulama Güvenliği\n* Outlook Sürümü\n* Profesyonel 9.0\n* Kayıt Defteri Uzantısı 2.0\n* Paylaşma Yöneticisi 1.0\n* Yazılım Güncelleştirmesi 1.0\n* Yazılım Güncelleştirmesi 2.0\n* Standart 1.0\n* Standart 2.0"
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |
+
+
+  > [!NOTE]
+  > Bu ürünün desteği, ürünün alım şartlarına tabidir.
+
+  ## <a name="editions"></a>Sürümler 
+  * Uygulama Güvenliği
+  * Outlook Sürümü
+  * Profesyonel 9.0
+  * Kayıt Defteri Uzantısı 2.0
+  * Paylaşma Yöneticisi 1.0
+  * Yazılım Güncelleştirmesi 1.0
+  * Yazılım Güncelleştirmesi 2.0
+  * Standart 1.0
+  * Standart 2.0

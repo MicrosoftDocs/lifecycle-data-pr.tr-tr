@@ -1,27 +1,32 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 7
-  description: Internet Explorer 7, Bileşen Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Internet Explorer 7, Bileşen Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 10/05/2020
-  keywords: 
-  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162687"
+  keywords: null
 name: Internet Explorer 7
-summary: >+
+summary: |+
   Internet Explorer 7, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/18/2006
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Internet Explorer Yaşam Döngüsü İlkesi SSS](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7, Windows Embedded Compact 7 ve Windows Embedded Compact 2013'ün bir bileşenidir ve aynı yaşam döngüsünü izler. \n> [!NOTE]\n> 12 Ocak 2016 tarihinden itibaren, sadece desteklenen bir işletim sistemi için mevcut en son Internet Explorer sürümüne teknik destek verilecek ve güvenlik güncelleştirmeleri sağlanacaktır."
+  - version: Original Release
+    startDate: 10/18/2006
+content: |+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Geçiş kılavuzu](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)
+  * [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)
+  * [Internet Explorer Yaşam Döngüsü İlkesi SSS](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Internet Explorer 7, Windows Embedded Compact 7 ve Windows Embedded Compact 2013'ün bir bileşenidir ve aynı yaşam döngüsünü izler. 
+  > [!NOTE]
+  > 12 Ocak 2016 tarihinden itibaren, sadece desteklenen bir işletim sistemi için mevcut en son Internet Explorer sürümüne teknik destek verilecek ve güvenlik güncelleştirmeleri sağlanacaktır.

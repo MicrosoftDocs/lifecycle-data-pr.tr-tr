@@ -1,27 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office için Learning Essentials 2.0
-  description: Microsoft Office için Learning Essentials 2.0, Bileşen Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Microsoft Office için Learning Essentials 2.0, Bileşen Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844611"
 name: Microsoft Office için Learning Essentials 2.0
-summary: >+
+summary: |+
   Microsoft Office için Learning Essentials 2.0, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-- office
+  - office
 policyType: component
 supportDates:
   start: 04/30/2007
   end: 07/10/2012
 releases:
-- version: Original Release
-  startDate: 04/30/2007
-  endDate: 07/10/2012
-content: ''
+  - version: Original Release
+    startDate: 04/30/2007
+    endDate: 07/10/2012
+content: |+
