@@ -1,33 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Essential Business Server 2008
-  description: Windows Essential Business Server 2008, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Windows Essential Business Server 2008, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: 3fdedf81f3a27848e4225c7b36b64c751c15f758
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162095"
 name: Windows Essential Business Server 2008
-summary: >
+summary: |
   Windows Essential Business Server 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-
   > [!IMPORTANT]
-
   > Bu ürün paketinin destek tarihi, her bir bileşeninin ilgili yaşam döngüleri tarafından belirlenir. Destek uzunluğunu belirlemek için lütfen her bir bileşenin yaşam döngüsünü gözden geçirin.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/12/2008
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 12/12/2008
-  endDate: 02/13/2020
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://aka.ms/AA1ovn4)\n* [Ürün bilgileri](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"
+  - version: Original Release
+    startDate: 12/12/2008
+    endDate: 02/13/2020
+content: |+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Geçiş kılavuzu](https://aka.ms/AA1ovn4)
+  * [Ürün bilgileri](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)
