@@ -1,31 +1,33 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2015 LTSB
-  description: Windows 10 2015 LTSB, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Windows 10 2015 LTSB, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: 201717bb796cb84e455c4f4e81f0a1b32516e1c7
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938467"
 name: Windows 10 2015 LTSB
-summary: >+
+summary: |+
   Windows 10 2015 LTSB, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
   Bu, aşağıdaki sürümler için geçerlidir: Enterprise
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/29/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet Olarak Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC SSS](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 Ekim Güncelleştirmesi (Sürüm 1809) yeniden yayımlama](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise"
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 10/14/2025
+content: |
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Hizmet Olarak Windows (WaaS)](/windows/deployment/update/waas-quick-start)
+  * [Windows 10 LTSC SSS](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
+  * [Windows 10 Ekim Güncelleştirmesi (Sürüm 1809) yeniden yayımlama](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
+
+
+  ## <a name="editions"></a>Sürümler 
+  * Enterprise

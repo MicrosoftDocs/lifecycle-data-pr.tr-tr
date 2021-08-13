@@ -1,28 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual J# Sürüm 2.0 Yeniden Dağıtılabilir Paket İkinci Sürüm
-  description: Microsoft Visual J# Version 2.0 Redistributable Package Second Edition, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Microsoft Visual J# Version 2.0 Redistributable Package Second Edition, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "844063"
 name: Microsoft Visual J# Sürüm 2.0 Yeniden Dağıtılabilir Paket İkinci Sürüm
-summary: >+
+summary: |+
   Microsoft Visual J# Version 2.0 Redistributable Package Second Edition, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 08/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 08/27/2007
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Visual J# destek bilgileri](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Bu ürün için destek sona erdi. Geçiş kılavuzu için aşağıya bakın."
+  - version: Original Release
+    startDate: 08/27/2007
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Visual J# destek bilgileri](https://msdn.microsoft.com/vstudio/bb188593)
+
+  > [!NOTE]
+  > Bu ürün için destek sona erdi. Geçiş kılavuzu için aşağıya bakın.
