@@ -1,31 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Ağustos 2016'da yayımlanan Windows 10 Mobile Enterprise
-  description: Ağustos 2016'da yayımlanan Windows 10 Mobile Enterprise, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Ağustos 2016''da yayımlanan Windows 10 Mobile Enterprise, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865147"
 name: Ağustos 2016'da yayımlanan Windows 10 Mobile Enterprise
-summary: >
+summary: |
   Ağustos 2016'da yayımlanan Windows 10 Mobile Enterprise, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-
   > [!IMPORTANT]
-
   > Bu ürün için destek sona erdi.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 08/16/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 08/16/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Aygıt İşletim Sistemi Yaşam Döngüsü SSS](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile, 10 Aralık 2019 tarihinde desteği sonlandırmıştır](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 08/16/2016
+    endDate: 10/09/2018
+content: |+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Aygıt İşletim Sistemi Yaşam Döngüsü SSS](/lifecycle/faq/device-operating-systems)
+  * [Windows 10 Mobile, 10 Aralık 2019 tarihinde desteği sonlandırmıştır](/lifecycle/announcements/windows-10-mobile-end-of-support)

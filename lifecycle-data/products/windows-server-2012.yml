@@ -1,19 +1,12 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Windows Server 2012, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 07/12/2021
-  keywords: 
-  ms.openlocfilehash: b92bdbb5164be3a4dd3e4f398fc1b9062ab98ee0
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2171950"
+  keywords: null
 name: Windows Server 2012
-summary: >+
+summary: |+
   Windows Server 2012, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Datacenter, Essentials, Harici Bağlayıcı, for Embedded Systems, Foundation, Standard
@@ -21,23 +14,42 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Extended Security Update Year 3
-  startDate: 10/14/2025
-  endDate: 10/13/2026
-- version: Extended Security Update Year 2
-  startDate: 10/08/2024
-  endDate: 10/14/2025
-- version: Extended Security Update Year 1
-  startDate: 10/10/2023
-  endDate: 10/08/2024
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/windows-server/upgrade/upgrade-overview)\n* [Ürün bilgileri](/windows/release-information/status-windows-server-2012)\n* [Yaşam Döngüsü SSS - Genişletilmiş Güvenlik Güncelleştirmeleri](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Bu ürün için Genel ve Genişletilmiş destek, müşterilere standart yaşam döngüsü geçiş zaman çizelgesi sağlamak için genişletilmiştir. Windows Server Essentials, 2 Ocak 2013 tarihinde yayınlandı.\n\n\n## <a name=\"editions\"></a>Sürümler \n* Datacenter\n* Essentials\n* Harici Bağlayıcı\n* for Embedded Systems\n* Foundation\n* Standard"
+  - version: Extended Security Update Year 3
+    startDate: 10/14/2025
+    endDate: 10/13/2026
+  - version: Extended Security Update Year 2
+    startDate: 10/08/2024
+    endDate: 10/14/2025
+  - version: Extended Security Update Year 1
+    startDate: 10/10/2023
+    endDate: 10/08/2024
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |+
+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Geçiş kılavuzu](/windows-server/upgrade/upgrade-overview)
+  * [Ürün bilgileri](/windows/release-information/status-windows-server-2012)
+  * [Yaşam Döngüsü SSS - Genişletilmiş Güvenlik Güncelleştirmeleri](/lifecycle/faq/extended-security-updates)
+
+
+  > [!NOTE]
+  > Bu ürün için Genel ve Genişletilmiş destek, müşterilere standart yaşam döngüsü geçiş zaman çizelgesi sağlamak için genişletilmiştir. Windows Server Essentials, 2 Ocak 2013 tarihinde yayınlandı.
+
+
+  ## <a name="editions"></a>Sürümler 
+  * Datacenter
+  * Essentials
+  * Harici Bağlayıcı
+  * for Embedded Systems
+  * Foundation
+  * Standard

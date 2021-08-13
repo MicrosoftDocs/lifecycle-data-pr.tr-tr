@@ -1,27 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 'Microsoft PlayReady Server Yazılım Geliştirme Seti '
-  description: Microsoft PlayReady Server Yazılım Geliştirme Seti, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Microsoft PlayReady Server Yazılım Geliştirme Seti, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 08/21/2020
-  ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "908042"
 name: 'Microsoft PlayReady Server Yazılım Geliştirme Seti '
-summary: >+
+summary: |+
   Microsoft PlayReady Server Yazılım Geliştirme Seti, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 07/15/2009
   end: 10/14/2014
 releases:
-- version: Original Release
-  startDate: 07/15/2009
-  endDate: 10/14/2014
-content: ''
+  - version: Original Release
+    startDate: 07/15/2009
+    endDate: 10/14/2014
+content: |+

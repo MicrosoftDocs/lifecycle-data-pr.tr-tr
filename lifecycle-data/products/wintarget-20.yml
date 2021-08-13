@@ -1,30 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
   title: WinTarget 2.0
-  description: WinTarget 2.0, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'WinTarget 2.0, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
-  keywords: Advanced,Standard
-  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938763"
+  keywords: 'Advanced,Standard'
 name: WinTarget 2.0
-summary: >+
+summary: |+
   WinTarget 2.0, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
   Bu, şu sürümler için geçerlidir: Advanced, Standard
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/07/2006
   end: 01/08/2008
 releases:
-- version: Original Release
-  startDate: 03/07/2006
-  endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Bu ürünün desteği, ürünün alım şartlarına tabidir.\n\n## <a name=\"editions\"></a>Sürümler \n* Gelişmiş\n* Standard"
+  - version: Original Release
+    startDate: 03/07/2006
+    endDate: 01/08/2008
+content: |
+
+
+  > [!NOTE]
+  > Bu ürünün desteği, ürünün alım şartlarına tabidir.
+
+  ## <a name="editions"></a>Sürümler 
+  * Gelişmiş
+  * Standard
