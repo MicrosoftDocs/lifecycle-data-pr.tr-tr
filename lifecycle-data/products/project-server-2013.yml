@@ -1,32 +1,32 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Project Server 2013
-  description: Project Server 2013, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Project Server 2013, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: b7ac954af370c4e147b0cb471f9233685f438a25
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941765"
 name: Project Server 2013
-summary: >+
+summary: |+
   Project Server 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Service Pack 1
-  startDate: 04/17/2014
-  endDate: 04/11/2023
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> [Ürün](https://docs.microsoft.com/project/project-server-2013-and-2016) ve [geliştirici](https://developer.microsoft.com/project/docs) belgelerine bakın."
+  - version: Service Pack 1
+    startDate: 04/17/2014
+    endDate: 04/11/2023
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > [Ürün](https://docs.microsoft.com/project/project-server-2013-and-2016) ve [geliştirici](https://developer.microsoft.com/project/docs) belgelerine bakın.

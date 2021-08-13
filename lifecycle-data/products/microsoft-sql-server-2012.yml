@@ -1,19 +1,12 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2012
-  description: Microsoft SQL Server 2012, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Microsoft SQL Server 2012, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 07/12/2021
-  keywords: 
-  ms.openlocfilehash: 24aca405fe1aca09c5c089fce8bece8112855fb9
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2171987"
+  keywords: null
 name: Microsoft SQL Server 2012
-summary: >+
+summary: |+
   Microsoft SQL Server 2012, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Embedded Systems için, Standard, Web
@@ -21,35 +14,54 @@ summary: >+
 
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 05/20/2012
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: Extended Security Update Year 3
-  startDate: 07/09/2024
-  endDate: 07/08/2025
-- version: Extended Security Update Year 2
-  startDate: 07/11/2023
-  endDate: 07/09/2024
-- version: Extended Security Update Year 1
-  startDate: 07/12/2022
-  endDate: 07/11/2023
-- version: Service Pack 4
-  startDate: 10/05/2017
-  endDate: 07/12/2022
-- version: Service Pack 3
-  startDate: 12/01/2015
-  endDate: 10/09/2018
-- version: Service Pack 2
-  startDate: 06/10/2014
-  endDate: 01/10/2017
-- version: Service Pack 1
-  startDate: 11/07/2012
-  endDate: 07/14/2015
-- version: Original Release
-  startDate: 05/20/2012
-  endDate: 01/14/2014
-content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n* [Geçiş kılavuzu](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Yaşam Döngüsü SSS - Genişletilmiş Güvenlik Güncelleştirmeleri](/lifecycle/faq/extended-security-updates)\n\n\n\n\n## <a name=\"editions\"></a>Sürümler \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* for Embedded Systems\n* Standard\n* Web"
+  - version: Extended Security Update Year 3
+    startDate: 07/09/2024
+    endDate: 07/08/2025
+  - version: Extended Security Update Year 2
+    startDate: 07/11/2023
+    endDate: 07/09/2024
+  - version: Extended Security Update Year 1
+    startDate: 07/12/2022
+    endDate: 07/11/2023
+  - version: Service Pack 4
+    startDate: 10/05/2017
+    endDate: 07/12/2022
+  - version: Service Pack 3
+    startDate: 12/01/2015
+    endDate: 10/09/2018
+  - version: Service Pack 2
+    startDate: 06/10/2014
+    endDate: 01/10/2017
+  - version: Service Pack 1
+    startDate: 11/07/2012
+    endDate: 07/14/2015
+  - version: Original Release
+    startDate: 05/20/2012
+    endDate: 01/14/2014
+content: |+
+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)
+  * [Geçiş kılavuzu](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)
+  * [Yaşam Döngüsü SSS - Genişletilmiş Güvenlik Güncelleştirmeleri](/lifecycle/faq/extended-security-updates)
+
+
+
+
+  ## <a name="editions"></a>Sürümler 
+  * Business Intelligence
+  * Developer
+  * Enterprise
+  * Enterprise Core
+  * Express
+  * for Embedded Systems
+  * Standard
+  * Web
