@@ -1,47 +1,59 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2005
-  description: Microsoft SQL Server 2005, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Microsoft SQL Server 2005, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
-  keywords: Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup
-  ms.openlocfilehash: ca451e6716bf5aed78c86dd83737d59a46a8203d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929772"
+  keywords: 'Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup'
 name: Microsoft SQL Server 2005
-summary: >
+summary: |
   Microsoft SQL Server 2005, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
   Bu, aşağıdaki sürümler için geçerlidir: Compact, Developer, Embedded, Enterprise, Itanium tabanlı sistemler için Enterprise, Enterprise X64, Express, Advanced Services ile Express, Standart, Itanium tabanlı sistemler için Standard, Standard X64, Workgroup
 
-
   > [!IMPORTANT]
-
   > Bu ürün için destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 01/14/2006
   end: 04/12/2011
   extendedEnd: 04/12/2016
 releases:
-- version: Service Pack 4
-  startDate: 12/13/2010
-  endDate: 04/12/2016
-- version: Service Pack 3
-  startDate: 12/15/2008
-  endDate: 01/10/2012
-- version: Service Pack 2
-  startDate: 02/19/2007
-  endDate: 01/12/2010
-- version: Service Pack 1
-  startDate: 04/18/2006
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 01/14/2006
-  endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition, 19 Şubat 2007 tarihinde yayımlandı.\n\n## <a name=\"editions\"></a>Sürümler \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Itanium Tabanlı Sistemler için Enterprise\n* Enterprise X64\n* Express\n* Advanced Services ile Express\n* Standard\n* Itanium Tabanlı Sistemler için Standard\n* Standard X64\n* Workgroup"
+  - version: Service Pack 4
+    startDate: 12/13/2010
+    endDate: 04/12/2016
+  - version: Service Pack 3
+    startDate: 12/15/2008
+    endDate: 01/10/2012
+  - version: Service Pack 2
+    startDate: 02/19/2007
+    endDate: 01/12/2010
+  - version: Service Pack 1
+    startDate: 04/18/2006
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 01/14/2006
+    endDate: 07/10/2007
+content: |
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Geçiş kılavuzu](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Microsoft SQL Server 2005 Compact Edition, 19 Şubat 2007 tarihinde yayımlandı.
+
+  ## <a name="editions"></a>Sürümler 
+  * Compact
+  * Developer
+  * Embedded
+  * Enterprise
+  * Itanium Tabanlı Sistemler için Enterprise
+  * Enterprise X64
+  * Express
+  * Advanced Services ile Express
+  * Standard
+  * Itanium Tabanlı Sistemler için Standard
+  * Standard X64
+  * Workgroup
