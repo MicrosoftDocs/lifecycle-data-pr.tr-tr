@@ -1,28 +1,34 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Mediaroom
-  description: Microsoft Mediaroom, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Microsoft Mediaroom, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
-  keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
-  ms.openlocfilehash: 5842b1725e7c5cbc964de743111a400d2b7de2b9
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930623"
+  keywords: 'Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1'
 name: Microsoft Mediaroom
-summary: >+
+summary: |+
   Microsoft Mediaroom, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
   Bu, aşağıdaki sürümler için geçerlidir: Application Services 1.0, Client 2.0, Client 2.1, Server 2.0, Server 2.1
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 08/03/2010
 releases:
-- version: Original Release
-  startDate: 08/03/2010
-content: "\n\n> [!NOTE]\n> Ericsson, Microsoft Mediaroom ürünlerini 2013 yılında satın aldı. Daha fazla bilgi için lütfen [basın bildirisine](http://www.ericsson.com/news/1691160) bakın. Desteğe ihtiyacı olan müşteriler için lütfen [buraya](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx) gidin.\n> [!NOTE]\n> Microsoft Mediaroom Client 2.1, 27 Aralık 2011 tarihinde yayımlandı. \n\n## <a name=\"editions\"></a>Sürümler \n* Application Services 1.0\n* Client 2.0\n* Client 2.1\n* Server 2.0\n* Server 2.1"
+  - version: Original Release
+    startDate: 08/03/2010
+content: |
+
+
+  > [!NOTE]
+  > Ericsson, Microsoft Mediaroom ürünlerini 2013 yılında satın aldı. Daha fazla bilgi için lütfen [basın bildirisine](http://www.ericsson.com/news/1691160) bakın. Desteğe ihtiyacı olan müşteriler için lütfen [buraya](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx) gidin.
+  > [!NOTE]
+  > Microsoft Mediaroom Client 2.1, 27 Aralık 2011 tarihinde yayımlandı. 
+
+  ## <a name="editions"></a>Sürümler 
+  * Application Services 1.0
+  * Client 2.0
+  * Client 2.1
+  * Server 2.0
+  * Server 2.1
