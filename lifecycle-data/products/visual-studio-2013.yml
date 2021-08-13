@@ -4,18 +4,18 @@ metadata:
   description: Visual Studio 2013, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/01/2020
   keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 9ca8bc78f1d498f79dcc1f3ed3f3c30403310ff2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937468"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487211"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
-  Bu, aşağıdaki sürümler için geçerlidir: Agents, All, Community, Web için Express, Windows için Express, Windows Masaüstü için Express, IntelliTrace Collector, Modelleme SDK, Multibyte MFC Kitaplığı, Premium, Professional, Release Management, Uzak Araçlar, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Takım Gezgini, Test Professional, Ultimate, Visual C++ Yeniden Dağıtılabilir, Web Tools Uzantıları
+  Bu, aşağıdaki sürümler için geçerlidir: Agents, Tümü, Topluluk, Web için Express, Windows için Express, Windows Masaüstü için Express, IntelliTrace Collector, Modelleme SDK, Multibyte MFC Kitaplığı, Premium, Professional, Release Management, Uzak Araçlar, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Takım Gezgini, Test Professional, Ultimate, Visual C++ Yeniden Dağıtılabilir, Web Tools Uzantıları
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* All\n* Community\n* Web için Express\n* Windows için Express\n* Windows Masaüstü için Express\n* IntelliTrace Collector\n* Modelleme SDK\n* Multibayt MFC Kitaplığı\n* Premium\n* Professional\n* Release Management\n* Uzak Araçlar\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Takım Gezgini\n* Test Professional\n* Ultimate\n* Visual C++ Yeniden Dağıtılabilir\n* Web Tools Uzantıları"
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Agents\n* Tüm\n* Community\n* Web için Express\n* Windows için Express\n* Windows Masaüstü için Express\n* IntelliTrace Collector\n* Modelleme SDK\n* Multibayt MFC Kitaplığı\n* Premium\n* Professional\n* Release Management\n* Uzak Araçlar\n* SDK\n* Shell (Tümleşik)\n* Shell (Yalıtılmış)\n* Takım Gezgini\n* Test Professional\n* Ultimate\n* Visual C++ Yeniden Dağıtılabilir\n* Web Tools Uzantıları"
