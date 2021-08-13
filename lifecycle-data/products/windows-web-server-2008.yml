@@ -1,37 +1,37 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Web Server 2008
-  description: Windows Web Server 2008, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Windows Web Server 2008, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938911"
 name: Windows Web Server 2008
-summary: >+
+summary: |+
   Windows Web Server 2008, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
   Bu, aşağıdaki sürümler için geçerlidir: Standard
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/06/2008
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 1
-  startDate: 04/29/2009
-  endDate: 07/12/2011
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 05/06/2008
-  endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Windows Server 2008 Service Pack 2 için, bu ürün 14 Ocak 2020 tarihinde destek sonuna ulaştı.\n\n## <a name=\"editions\"></a>Sürümler \n* Standard"
+  - version: Service Pack 1
+    startDate: 04/29/2009
+    endDate: 07/12/2011
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 05/06/2008
+    endDate: 07/10/2018
+content: |
+
+
+  > [!NOTE]
+  > Windows Server 2008 Service Pack 2 için, bu ürün 14 Ocak 2020 tarihinde destek sonuna ulaştı.
+
+  ## <a name="editions"></a>Sürümler 
+  * Standard

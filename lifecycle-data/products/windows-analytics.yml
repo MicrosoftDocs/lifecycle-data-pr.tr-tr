@@ -1,31 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Analitikleri
-  description: Windows Analytics, Modern Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Windows Analytics, Modern Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 08/11/2020
-  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
-  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/11/2020
-  ms.locfileid: "887876"
 name: Windows Analitikleri
-summary: >
+summary: |
   Windows Analytics, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
-
   > [!IMPORTANT]
-
   > Destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın.
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 03/02/2017
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+  - version: Original Release
+    startDate: 03/02/2017
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)

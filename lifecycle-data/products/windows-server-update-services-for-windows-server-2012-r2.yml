@@ -1,28 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012 R2 için Windows Server Update Services
-  description: Windows Server 2012 R2 için Windows Server Güncelleştirme Hizmetleri, Bileşen Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Windows Server 2012 R2 için Windows Server Güncelleştirme Hizmetleri, Bileşen Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 01/22/2021
-  keywords: 
-  ms.openlocfilehash: efa11337dbeba8601a1ef70ef003f709f286e6b6
-  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 01/23/2021
-  ms.locfileid: "1416770"
+  keywords: null
 name: Windows Server 2012 R2 için Windows Server Update Services
-summary: >+
+summary: |+
   Windows Server 2012 R2 için Windows Server Güncelleştirme Hizmetleri, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 11/25/2013
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "> [!TIP]\n> Bu bileşen, kendi üst ürünü olan Windows Server 2012 R2'nin yaşam döngüsünü izler.\n\n## <a name=\"links\"></a>Bağlantılar \n* [Windows Server 2012 R2](/lifecycle/)"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |+
+  > [!TIP]
+  > Bu bileşen, kendi üst ürünü olan Windows Server 2012 R2'nin yaşam döngüsünü izler.
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Windows Server 2012 R2](/lifecycle/)
