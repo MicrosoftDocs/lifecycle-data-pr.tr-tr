@@ -1,28 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Sistem Merkezi 2016 Planlayıcısı
-  description: System Center 2016 Orchestrator, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'System Center 2016 Orchestrator, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865339"
 name: Sistem Merkezi 2016 Planlayıcısı
-summary: >+
+summary: |+
   System Center 2016 Orchestrator, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 10/28/2016
   end: 01/11/2022
   extendedEnd: 01/11/2027
 releases:
-- version: Original Release
-  startDate: 10/28/2016
-  endDate: 01/11/2027
-content: ''
+  - version: Original Release
+    startDate: 10/28/2016
+    endDate: 01/11/2027
+content: |+
