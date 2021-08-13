@@ -1,38 +1,62 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 7
-  description: Windows 7, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Windows 7, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
-  keywords: Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N
-  ms.openlocfilehash: 22a494a93015d2e8af3ba5e5893dd2c85daedb3b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939984"
+  keywords: 'Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N'
 name: Windows 7
-summary: "Windows 7, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, aşağıdaki sürümler için geçerlidir: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın. \n"
+summary: |
+  Windows 7, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+  Bu, aşağıdaki sürümler için geçerlidir: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N
+
+  > [!IMPORTANT]
+  > Bu ürün için destek sona erdi. Aşağıdaki geçiş kılavuzuna bakın. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Extended Security Update Year 3*
-  startDate: 01/11/2022
-  endDate: 01/10/2023
-- version: Extended Security Update Year 2*
-  startDate: 01/12/2021
-  endDate: 01/11/2022
-- version: Extended Security Update Year 1*
-  startDate: 01/14/2020
-  endDate: 01/12/2021
-- version: Service Pack 1
-  startDate: 02/22/2011
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 04/09/2013
-content: "> [!TIP]\n> '* Bu ürünün Windows 7 Professional, Enterprise ve Professional for Embedded Systems sürümlerinde, desteğin sonlanmasının ardından ek üç yıla kadar Genişletilmiş Güvenlik Güncelleştirmeleri (ESU) belirli toplu lisans programları aracılığıyla kullanılabilir. Daha fazla bilgi edinmek için Microsoft iş ortağınıza veya hesap ekibinize başvurun. \n\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://support.microsoft.com/help/4057281)\n* [Windows 7'den Windows 10'a yükseltme](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Genişletilmiş Güvenlik Güncelleştirmesi (ESU) Programı](/lifecycle/faq/extended-security-updates)\n* [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N"
+  - version: Extended Security Update Year 3*
+    startDate: 01/11/2022
+    endDate: 01/10/2023
+  - version: Extended Security Update Year 2*
+    startDate: 01/12/2021
+    endDate: 01/11/2022
+  - version: Extended Security Update Year 1*
+    startDate: 01/14/2020
+    endDate: 01/12/2021
+  - version: Service Pack 1
+    startDate: 02/22/2011
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 04/09/2013
+content: |
+  > [!TIP]
+  > '* Bu ürünün Windows 7 Professional, Enterprise ve Professional for Embedded Systems sürümlerinde, desteğin sonlanmasının ardından ek üç yıla kadar Genişletilmiş Güvenlik Güncelleştirmeleri (ESU) belirli toplu lisans programları aracılığıyla kullanılabilir. Daha fazla bilgi edinmek için Microsoft iş ortağınıza veya hesap ekibinize başvurun. 
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Geçiş kılavuzu](https://support.microsoft.com/help/4057281)
+  * [Windows 7'den Windows 10'a yükseltme](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)
+  * [Genişletilmiş Güvenlik Güncelleştirmesi (ESU) Programı](/lifecycle/faq/extended-security-updates)
+  * [Hizmet paketi ilkesi](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Sürümler 
+  * Enterprise
+  * Enterprise N
+  * Home Basic
+  * Home Premium
+  * Home Premium N
+  * Professional
+  * Professional for Embedded Systems
+  * Professional N
+  * Starter
+  * Starter N
+  * Ultimate
+  * Ultimate for Embedded Systems
+  * Ultimate N

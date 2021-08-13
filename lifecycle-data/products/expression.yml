@@ -1,26 +1,36 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Expression
-  description: Expression, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Expression, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936247"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Expression, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, aşağıdaki sürümler için geçerlidir: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. \n"
+summary: |
+  Expression, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+  Bu, aşağıdaki sürümler için geçerlidir: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > Bu ürün için destek sona erdi. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Expression Blend'in başlangıç tarihi 13 Temmuz 2007'dir. \n\n## <a name=\"editions\"></a>Sürümler \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > Expression Blend'in başlangıç tarihi 13 Temmuz 2007'dir. 
+
+  ## <a name="editions"></a>Sürümler 
+  * Blend
+  * Design
+  * Encoder
+  * Studio
