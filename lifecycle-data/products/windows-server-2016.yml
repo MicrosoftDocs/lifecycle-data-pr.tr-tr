@@ -1,19 +1,12 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2016
-  description: Windows Server 2016, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Windows Server 2016, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 07/09/2021
-  keywords: 
-  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
-  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/28/2021
-  ms.locfileid: "2255264"
+  keywords: null
 name: Windows Server 2016
-summary: >+
+summary: |+
   Windows Server 2016, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
 
   Bu, aşağıdaki sürümler için geçerlidir: Datacenter, Essentials, MultiPoint Premium, Standard
@@ -21,14 +14,31 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](/windows-server/get-started/server-basics)\n* [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)\n* [Windows kapsayıcı temel görüntü hizmeti yaşam döngüleri](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Windows Server 2016 ile yayınlanan kapsayıcılar, aynı yaşam döngüsü tarihlerini takip eder.\n\n\n## <a name=\"editions\"></a>Sürümler \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Ürün bilgileri](/windows-server/get-started/server-basics)
+  * [Yaşam Döngüsü SSS - Windows ürünleri](/lifecycle/faq/windows)
+  * [Windows kapsayıcı temel görüntü hizmeti yaşam döngüleri](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
+
+
+  > [!NOTE]
+  > Windows Server 2016 ile yayınlanan kapsayıcılar, aynı yaşam döngüsü tarihlerini takip eder.
+
+
+  ## <a name="editions"></a>Sürümler 
+  * Datacenter
+  * Essentials
+  * MultiPoint Premium
+  * Standard
