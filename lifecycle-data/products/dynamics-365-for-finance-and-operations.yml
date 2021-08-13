@@ -1,28 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Finans ve Operasyonlar için Dynamics 365
-  description: Finans ve Operasyonlar için Dynamics 365, Modern Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Finans ve Operasyonlar için Dynamics 365, Modern Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/29/2020
-  keywords: 
-  ms.openlocfilehash: 22bc725cf7f990b27f83a506f26a4108f3b9fea9
-  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048290"
+  keywords: null
 name: Finans ve Operasyonlar için Dynamics 365
-summary: >+
+summary: |+
   Finans ve Operasyonlar için Dynamics 365, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
-
 
   Bu, aşağıdaki sürümler için geçerlidir: Enterprise
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 02/19/2016
 releases:
-- version: Original Release
-  startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Microsoft Dynamics 365 Yol Haritası](https://roadmap.dynamics.com/)\n* [Kaldırılmış veya kullanım dışı özellikler](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Servis bilgileri](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Sistem gereksinimleri](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Enterprise"
+  - version: Original Release
+    startDate: 02/19/2016
+content: |
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Microsoft Dynamics 365 Yol Haritası](https://roadmap.dynamics.com/)
+  * [Kaldırılmış veya kullanım dışı özellikler](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
+  * [Servis bilgileri](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
+  * [Sistem gereksinimleri](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
+
+
+  ## <a name="editions"></a>Sürümler 
+  * Enterprise

@@ -1,30 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Mac için Microsoft Office 2019
-  description: Mac için Microsoft Office 2019, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Mac için Microsoft Office 2019, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/01/2020
-  keywords: Academic,Home and Business,Home and Student,Standard
-  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930438"
+  keywords: 'Academic,Home and Business,Home and Student,Standard'
 name: Mac için Microsoft Office 2019
-summary: >+
+summary: |+
   Mac için Microsoft Office 2019, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
-
 
   Bu, aşağıdaki sürümler için geçerlidir: Academic, Ev ve İş, Ev ve Öğrenci, Standard
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Sürümler \n* Akademik\n* Ev ve İş\n* Ev ve Öğrenci\n* Standard"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/10/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Sürümler 
+  * Akademik
+  * Ev ve İş
+  * Ev ve Öğrenci
+  * Standard

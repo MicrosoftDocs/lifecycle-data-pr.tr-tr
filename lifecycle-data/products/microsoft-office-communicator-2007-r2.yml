@@ -1,26 +1,34 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2007 R2
-  description: Microsoft Office Communicator 2007 R2, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  description: 'Microsoft Office Communicator 2007 R2, Sabit Yaşam Döngüsü İlkesi''ni izler.'
   ms.date: 09/10/2020
-  keywords: All applicable,Phone
-  ms.openlocfilehash: 1c08a0c9475ec3d3e6cfb381385a78a71b514d66
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001743"
+  keywords: 'All applicable,Phone'
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.\n\nBu, şu sürümler için geçerlidir: Tüm geçerli sürümler, Phone\n\n> [!IMPORTANT]\n> Bu ürün için destek sona erdi. Geçiş kılavuzuna bakın. \n"
+summary: |
+  Microsoft Office Communicator 2007 R2, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
+  Bu, şu sürümler için geçerlidir: Tüm uygulanabilir olanlar, Telefon
+
+  > [!IMPORTANT]
+  > Bu ürün için destek sona erdi. Geçiş kılavuzuna bakın. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/19/2009
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 03/19/2009
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Geçiş kılavuzu](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Tümü uygulanabilir olanlar\n* Phone"
+  - version: Original Release
+    startDate: 03/19/2009
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Bağlantılar 
+  * [Geçiş kılavuzu](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Sürümler 
+  * Tümü uygulanabilir
+  * Phone
