@@ -1,14 +1,14 @@
 ---
 title: Yaşam döngüsü verilerini dışa aktarma
 description: Ürün yaşam döngüsü verilerini dışarı aktarma
-ms.date: 01/06/2021
+ms.date: 08/18/2021
 layout: ContentPage
-ms.openlocfilehash: bb0772b4fd406f9567737896de01daedeb25333b5d6846137f164c4ef86ed314
-ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+ms.openlocfilehash: 52ec8ddb6dc80160f33fc5f865708bf0791c4033
+ms.sourcegitcommit: e36d9992f5d1546c5f6d4cf073e73abfca182815
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "2498977"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "3101962"
 ---
 # <a name="lifecycle-data-export"></a>Yaşam döngüsü verilerini dışa aktarma
 
@@ -31,7 +31,7 @@ Dışarı aktarmak için bir Aile ve daha sonra Grup seçin. Not: Dışarı akta
 > - [(Azure | Diğer)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Azure',group='Other'))
 > - [(Dynamics | Tümü)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics'))
 > - [(Dynamics | Dynamics)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics'))
-> - [(Dynamics | Dynamics  365)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20365'))
+> - [(Dynamics   Dynamics 365)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20365'))
 > - [(Dynamics | Dynamics AX)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20AX'))
 > - [(Dynamics | Dynamics C5)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20C5'))
 > - [(Dynamics | Dynamics CRM)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20CRM'))
@@ -102,3 +102,4 @@ Aldığı desteğin sonuna ulaşan ürünleri görmek için bir yıl seçin. Not
 > - [2028](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2028))
 > - [2029](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2029))
 > - [2030](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2030))
+> - [2031](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2031))
