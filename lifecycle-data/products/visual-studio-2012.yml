@@ -1,54 +1,40 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: 'Visual Studio 2012, Sabit Yaşam Döngüsü İlkesi''ni izler.'
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  description: Visual Studio 2012, Sabit Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509197"
 name: Visual Studio 2012
-summary: |+
+summary: >+
   Visual Studio 2012, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
-  Bu, aşağıdaki sürümler için geçerlidir: Agents, Topluluk 2013, Web için Express, Windows 8 için Express, Windows Masaüstü için Express, IntelliTrace Collector, Microsoft Azure Araçları, Premium, Professional, Uzak Araçlar, Shell (Tümleşik), Shell (Yalıtılmış), SQL Server Veri Araçları, Takım Gezgini, Test Professional 2013, Ultimate, Visual C++ Yeniden Dağıtılabilir, Web Tools Uzantıları
+
+
+  Bu, aşağıdaki sürümler için geçerlidir: Web için Express, Windows Masaüstü için Express, Premium, Professional, Team Explorer, Ultimate
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Bağlantılar 
-  * [Visual Studio Ürün Yaşam Döngüsü ve Hizmet](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Sürümler 
-  * Agents
-  * Topluluk 2013
-  * Web için Express
-  * Windows 8 için Express
-  * Windows Masaüstü için Express
-  * IntelliTrace Collector
-  * Microsoft Azure Araçları
-  * Premium
-  * Professional
-  * Uzak Araçlar
-  * Shell (Tümleşik)
-  * Shell (Yalıtılmış)
-  * SQL Server Veri Araçları
-  * Takım Gezgini
-  * Test Professional 2013
-  * Ultimate
-  * Visual C++ Yeniden Dağıtılabilir
-  * Web Tools Uzantıları
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Visual Studio'nun eski sürümleri için hizmet bilgileri](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Hizmet Paketi İlkesi](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Aşağıdaki bileşenlerin Visual Studio 2012 sürümleri, Visual Studio 2012 yaşam döngüsünün bir parçası olarak gönderilir ve desteklenir: Aracılar, IntelliTrace Toplayıcı, Microsoft Azure Araçları, Uzak Araçlar, SDK, Shell (Entegre), Shell (Yalıtılmış), SQL Server Veri Araçları, Team Explorer, Visual C++ Yeniden Dağıtılabilir, Web Araçları Uzantıları.\n\n\n## <a name=\"editions\"></a>Sürümler \n* Web için Express\n* Windows Masaüstü için Express\n* Premium\n* Professional\n* Takım Gezgini\n* Ultimate"
