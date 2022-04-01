@@ -1,13 +1,13 @@
 ---
 title: 2030'de Desteği Sona Erecek Ürünler
 description: 2030 yılında hangi ürünlerin sona ereceğini, desteğin sonuna ulaşacağını veya temel destekten genişletilmiş desteğe geçeceğini öğrenin.
-ms.date: 08/11/2021
-ms.openlocfilehash: fc4571cb7bd8cfad504c5a3f2e677320c9a2fab6
-ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+ms.date: 01/26/2022
+ms.openlocfilehash: 15c0ded025a177c10f89e1839eb8c2da7c82daba
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "4029518"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116833"
 ---
 # <a name="products-ending-support-in-2030"></a>2030 yılında desteği sona eren ürünler
 
@@ -29,6 +29,7 @@ Bir ürünün desteği hakkında herhangi bir sorunuz varsa lütfen Microsoft He
 | Ürün | Destek Bitişi Tarihi |
 | --- | --- |
 | [SQL Server 2019](/lifecycle/products/sql-server-2019?branch=live)<br> | 8 Ocak 2030 Salı |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 9 Nisan 2030 Salı |
 | [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 9 Temmuz 2030 Salı |
 | [Azure DevOps Server 2020](/lifecycle/products/azure-devops-server-2020?branch=live)<br>[Microsoft Robotics](/lifecycle/products/microsoft-robotics?branch=live)<br> | 8 Ekim 2030 Salı |
 

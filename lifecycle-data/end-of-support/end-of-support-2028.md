@@ -1,13 +1,13 @@
 ---
 title: 2028'de Desteği Sona Erecek Ürünler
 description: 2028 yılında hangi ürünlerin sona ereceğini, desteğin sonuna ulaşacağını veya temel destekten genişletilmiş desteğe geçeceğini öğrenin.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4029483"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116981"
 ---
 # <a name="products-ending-support-in-2028"></a>2028 yılında desteği sona eren ürünler
 
@@ -39,3 +39,11 @@ Bir ürünün desteği hakkında herhangi bir sorunuz varsa lütfen Microsoft He
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 11 Temmuz 2028 Salı |
 
 
+## <a name="products-moving-to-extended-support"></a>Genişletilmiş Desteğe taşınan ürünler
+
+Aşağıdaki ürünler, 2028 yılında Temel Destekten Genişletilmiş Desteğe taşınacaktır. Genişletilmiş Destek, ücretsiz güvenlik güncelleştirmelerini ve güvenlikle ilgili olmayan ücretli güncelleştirme ve destekleri içerir. Ayrıca Microsoft, Genişletilmiş Destek aşamasında tasarım değişiklikleri veya yeni özellik isteklerini kabul etmeyecektir.
+
+| Ürün | Temel Desteğin Sonu |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 11 Nisan 2028 Salı |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 11 Temmuz 2028 Salı |

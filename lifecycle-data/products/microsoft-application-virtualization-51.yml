@@ -1,32 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization 5.1
-  description: 'Microsoft Application Virtualization 5.1, Sabit Yaşam Döngüsü İlkesi''ni izler.'
+  description: Microsoft Application Virtualization 5.1, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 09/10/2020
-  keywords: 'for Remote Desktop Services,for Windows Desktops'
+  keywords: for Remote Desktop Services,for Windows Desktops
+  ms.openlocfilehash: 5ebb28c8965d47f928547b36980e68ed6cc9c791
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155720"
 name: Microsoft Application Virtualization 5.1
-summary: |+
+summary: >+
   Microsoft Application Virtualization 5.1, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
 
   Bu, şu sürümler için geçerlidir: Uzak Masaüstü Hizmetleri, Windows Masaüstü
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/01/2015
-  end: 01/09/2018
-  extendedEnd: 04/14/2026
+  start: 2015-11-01T00:00:00.000-08:00
+  end: 2018-01-09T22:59:59.999-08:00
+  extendedEnd: 2026-04-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/01/2015
-    endDate: 04/14/2026
-content: |
-
-  ## <a name="links"></a>Bağlantılar 
-  * [Ürün bilgileri](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)
-
-
-  ## <a name="editions"></a>Sürümler 
-  * Uzak Masaüstü Hizmetleri için
-  * Windows Masaüstü Bilgisayarlar için
+- version: Original Release
+  startDate: 2015-11-01T00:00:00.000-08:00
+  endDate: 2026-04-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Ürün bilgileri](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>Sürümler \n* Uzak Masaüstü Hizmetleri için\n* Windows Masaüstü Bilgisayarlar için"

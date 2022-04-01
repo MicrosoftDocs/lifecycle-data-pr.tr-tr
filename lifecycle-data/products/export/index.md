@@ -1,14 +1,14 @@
 ---
 title: Yaşam döngüsü verilerini dışa aktarma
 description: Ürün yaşam döngüsü verilerini dışarı aktarma
-ms.date: 11/01/2021
+ms.date: 01/05/2022
 layout: ContentPage
-ms.openlocfilehash: be7a11f46a034a396e6e74877834d847557cc708
-ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+ms.openlocfilehash: 6299bdc744eecf7591d3d57bc72bc8299464e904
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "3546998"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4150947"
 ---
 # <a name="lifecycle-data-export"></a>Yaşam döngüsü verilerini dışa aktarma
 
@@ -31,7 +31,7 @@ Dışarı aktarmak için bir Aile ve daha sonra Grup seçin. Not: Dışarı akta
 > - [(Azure | Diğer)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Azure',group='Other'))
 > - [(Dynamics | Tümü)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics'))
 > - [(Dynamics | Dynamics)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics'))
-> - [(Dynamics   Dynamics 365)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20365'))
+> - [(Dynamics Dynamics 365)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20365'))
 > - [(Dynamics | Dynamics AX)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20AX'))
 > - [(Dynamics | Dynamics C5)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20C5'))
 > - [(Dynamics | Dynamics CRM)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Dynamics',group='Dynamics%20CRM'))
@@ -87,7 +87,6 @@ Aldığı desteğin sonuna ulaşan ürünleri görmek için bir yıl seçin. Not
 > [!div class="op_single_selector"]
 > - [Sonraki 12 Ay](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Sonraki 6 Ay](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
 > - [2019](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2019))
@@ -103,3 +102,4 @@ Aldığı desteğin sonuna ulaşan ürünleri görmek için bir yıl seçin. Not
 > - [2029](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2029))
 > - [2030](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2030))
 > - [2031](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2031))
+> - [2032](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2032))

@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2015, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 1e07a427245d7d9fd41ca9628cdacdaf1d888241
-  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
+  ms.openlocfilehash: b6e8222fe770516c85dab8108e9652b57c22a1c4
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 10/11/2021
-  ms.locfileid: "3514248"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4142622"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
@@ -24,14 +24,14 @@ products:
 - vs
 policyType: fixed
 supportDates:
-  start: 07/20/2015
-  end: 10/13/2020
-  extendedEnd: 10/14/2025
+  start: 2015-07-20T00:00:00.000-08:00
+  end: 2020-10-13T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
 - version: Update 3
-  startDate: 06/27/2016
-  endDate: 10/14/2025
+  startDate: 2016-06-27T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
 - version: Original Release
-  startDate: 07/20/2015
-  endDate: 10/14/2025
+  startDate: 2015-07-20T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Visual Studio'nun eski sürümleri için hizmet bilgileri](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Aşağıdaki bileşenlerin Visual Studio 2015 sürümleri, Visual Studio 2015 yaşam döngüsünün bir parçası olarak gönderilir ve desteklenir: Aracılar, ESM, Modelleme SDK'sı, PSM, Uzak Araçlar, SDK, Shell (Entegre), Shell (İzole), TPS, Visual C++ Yeniden Dağıtılabilir.\n\n\n## <a name=\"editions\"></a>Sürümler \n* Community\n* Enterprise\n* Web için Express\n* Windows 10 için Express\n* Windows Masaüstü için Express\n* Professional\n* Release Management\n* Test Professional"

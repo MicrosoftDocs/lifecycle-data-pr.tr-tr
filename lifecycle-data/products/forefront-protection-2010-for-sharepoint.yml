@@ -1,21 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint için Forefront Protection 2010
-  description: 'SharePoint için Forefront Protection 2010, Sabit Yaşam Döngüsü İlkesi''ni izler.'
+  description: SharePoint için Forefront Protection 2010, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/21/2020
+  ms.openlocfilehash: 472871969739002bffdf18ce156f6f76e1e31907
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4140106"
 name: SharePoint için Forefront Protection 2010
-summary: |+
+summary: >+
   SharePoint için Forefront Protection 2010, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-  - msc
+- msc
 policyType: fixed
 supportDates:
-  start: 07/15/2010
-  extendedEnd: 12/31/2015
+  start: 2010-07-15T00:00:00.000-08:00
+  extendedEnd: 2015-12-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/15/2010
-    endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront markası altındaki güvenlik ürünleri için yol haritası değişti. \_Bu ürün 31 Aralık 2015 itibarı ile durdurulmuştur.\n\n\n"
+- version: Original Release
+  startDate: 2010-07-15T00:00:00.000-08:00
+  endDate: 2015-12-31T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Forefront markası altındaki güvenlik ürünleri için yol haritası değişti.  Bu ürün 31 Aralık 2015 itibarı ile durdurulmuştur.\n\n\n"

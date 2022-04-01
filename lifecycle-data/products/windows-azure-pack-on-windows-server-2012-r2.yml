@@ -1,35 +1,34 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Azure Paketi (Windows Server 2012 R2 üzerinde)
-  description: 'Windows Azure Paketi (Windows Server 2012 R2''de), Sabit Yaşam Döngüsü İlkesi''ni izler.'
+  description: Windows Azure Paketi (Windows Server 2012 R2'de), Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 10/19/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 78a9dc5372f1d0e10859f588d89842b951c93615
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118498"
 name: Windows Azure Paketi (Windows Server 2012 R2 üzerinde)
-summary: |+
+summary: >+
   Windows Azure Paketi (Windows Server 2012 R2'de), [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
+
 
   Bu, şu sürümler için geçerlidir: Windows Server 2012 R2 üzerinde
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 01/14/2014
-  end: 07/11/2017
-  extendedEnd: 07/12/2022
+  start: 2014-01-14T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
+  extendedEnd: 2022-07-12T22:59:59.999-08:00
 releases:
-  - version: on Windows Server 2012 R2
-    startDate: 01/14/2014
-    endDate: 07/12/2022
-  - version: V2 Web Sites
-    startDate: 01/14/2014
-    endDate: 07/12/2022
-content: |
-
-  ## <a name="links"></a>Bağlantılar 
-  * [Windows Azure Paketi Web Siteleri V2 Desteği Yaşam Döngüsü Tarihleri](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)
-  * [Windows Server Ürün Bilgisi için Windows Azure Paketi](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
-
-
-  ## <a name="editions"></a>Sürümler 
-  * Windows Server 2012 R2 üzerinde
+- version: on Windows Server 2012 R2
+  startDate: 2014-01-14T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
+- version: V2 Web Sites
+  startDate: 2014-01-14T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Windows Azure Paketi Web Siteleri V2 Desteği Yaşam Döngüsü Tarihleri](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Server Ürün Bilgisi için Windows Azure Paketi](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Sürümler \n* Windows Server 2012 R2 üzerinde"

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Machine Learning Studio (klasik)
+  description: Machine Learning Studio (klasik), Modern Yaşam Döngüsü İlkesi'ni izler.
+  ms.date: 11/16/2021
+  keywords: 
+  ms.openlocfilehash: b81ff2080961ea0f8a1ae70a3b0a05fdbc2440e9
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157199"
+name: Machine Learning Studio (klasik)
+summary: >+
+  Machine Learning Studio (klasik), [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2015-05-18T00:00:00.000-08:00
+  end: 2024-08-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2015-05-18T00:00:00.000-08:00
+  endDate: 2024-08-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Azure Machine Learning'e Geçiş](/azure/machine-learning/migrate-overview)\n\n\n> [!NOTE]\n> Machine Learning Studio (klasik), 31 Ağustos 2024'te kullanımdan kaldıracaktır. 1 Aralık 2021'den itibaren müşteriler, yeni Machine Learning Studio (klasik) kaynakları oluşturmayacaktır. Müşterilerin, Ağustos 2024'ten önce Azure Machine Learning'e geçmeleri gerekir. Daha fazla bilgi edinmek için [buraya](https://docs.microsoft.com/azure/machine-learning/migrate-overview) gidin."

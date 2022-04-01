@@ -1,22 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Power BI Rapor Sunucusu
-  description: 'Power BI Rapor Sunucusu, Modern Yaşam Döngüsü İlkesi''ni izler.'
+  description: Power BI Rapor Sunucusu, Modern Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 242f5dcd4d8e262c34c8468b004a84ee1ed26e47
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143584"
 name: Power BI Rapor Sunucusu
-summary: |+
+summary: >+
   Power BI Rapor Sunucusu, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-  - sql-server
+- sql-server
 policyType: modern-online
 supportDates:
-  start: 06/12/2017
+  start: 2017-06-12T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 06/12/2017
-content: |+
-
-  ## <a name="links"></a>Bağlantılar 
-  * [Servis bilgileri](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)
+- version: Original Release
+  startDate: 2017-06-12T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)"

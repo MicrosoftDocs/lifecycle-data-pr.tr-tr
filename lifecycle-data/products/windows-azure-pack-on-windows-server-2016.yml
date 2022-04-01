@@ -1,28 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Azure Paketi (Windows Server 2016'da)
-  description: 'Windows Azure Paketi (Windows Server 2016''da), Sabit Yaşam Döngüsü İlkesi''ni izler.'
+  description: Windows Azure Paketi (Windows Server 2016'da), Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 6bacf76dd121b50595c3b92393bc5c0c2a7f778c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118535"
 name: Windows Azure Paketi (Windows Server 2016'da)
-summary: |+
-  Windows Azure Paketi (Windows Server 2016'da), [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler. 
-
-
+summary: "Windows Azure Paketi (Windows Server 2016'da), [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler. \n\n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/12/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-12T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/12/2016
-    endDate: 01/12/2027
-content: |+
-
-  ## <a name="links"></a>Bağlantılar 
-  * [Daha Fazla Bilgi](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
-
-  > [!NOTE]
-  > Windows Server için Windows Azure Paketi, Windows Azure teknolojilerini veri merkezinize getiren karma bir bulut çözümüdür. Microsoft müşterilerine, ek ücret ödemeden veri merkezi donanımınızda zengin, self servis, çok kiracılı bir bulut sunma imkanı tanımaktadır.
+- version: Original Release
+  startDate: 2016-10-12T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Daha Fazla Bilgi](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Server için Windows Azure Paketi, Windows Azure teknolojilerini veri merkezinize getiren karma bir bulut çözümüdür. Microsoft müşterilerine, ek ücret ödemeden veri merkezi donanımınızda zengin, self servis, çok kiracılı bir bulut sunma imkanı tanımaktadır."

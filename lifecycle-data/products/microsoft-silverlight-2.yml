@@ -1,25 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Silverlight 2
-  description: 'Microsoft Silverlight 2, Sabit Yaşam Döngüsü İlkesi''ni izler.'
+  description: Microsoft Silverlight 2, Sabit Yaşam Döngüsü İlkesi'ni izler.
   ms.date: 08/19/2020
+  ms.openlocfilehash: df76ae08d491a3653b3cd68a9018fdebd41db658
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4125972"
 name: Microsoft Silverlight 2
-summary: |+
+summary: >+
   Microsoft Silverlight 2, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
 
 
 products:
-  - silverlight
+- silverlight
 policyType: fixed-mainstream-only
 supportDates:
-  start: 10/10/2008
-  end: 10/12/2010
+  start: 2008-10-10T00:00:00.000-08:00
+  end: 2010-10-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/10/2008
-    endDate: 10/12/2010
-content: |+
-
-
-  > [!NOTE]
-  > Araçlar için sunulan destek, bildirim tarihinden itibaren en az 12 sonra sona erer.
+- version: Original Release
+  startDate: 2008-10-10T00:00:00.000-08:00
+  endDate: 2010-10-12T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Araçlar için sunulan destek, bildirim tarihinden itibaren en az 12 sonra sona erer."

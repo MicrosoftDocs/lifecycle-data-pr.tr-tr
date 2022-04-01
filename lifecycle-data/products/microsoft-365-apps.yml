@@ -1,34 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365 Uygulamaları
-  description: 'Microsoft 365 Uygulamaları, Modern Yaşam Döngüsü İlkesi''ni takip eder.'
+  description: Microsoft 365 Uygulamaları, Modern Yaşam Döngüsü İlkesi'ni takip eder.
   ms.date: 04/07/2021
-  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
+  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
+  ms.openlocfilehash: df188eeb73187be1007b85338632762e6c9153b7
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155017"
 name: Microsoft 365 Uygulamaları
-summary: |+
+summary: >+
   Microsoft 365 Uygulamaları, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
+
 
   Bu, şu sürümler için geçerlidir: iş için, kurum için
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-content: |
-
-  ## <a name="links"></a>Bağlantılar 
-  * [Desteklenen sürümler](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
-  * [Sistem gereksinimleri](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
-  * [Office yapılandırma destek matrisi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
-  * [Microsoft 365 Uygulamaları için dağıtım rehberi](/DeployOffice/deployment-guide-microsoft-365-apps)
-
-  > [!NOTE]
-  > Kurum için Microsoft 365 Uygulamaları, önceden Office 365 ProPlus olarak adlandırılırdı. İş için Microsoft 365 Uygulamaları, önceden Office 365 İş olarak adlandırılırdı.
-
-  ## <a name="editions"></a>Sürümler 
-  * iş için
-  * kurum için
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Bağlantılar \n* [Desteklenen sürümler](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Sistem gereksinimleri](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Office yapılandırma destek matrisi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Microsoft 365 Uygulamaları için dağıtım rehberi](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Kurum için Microsoft 365 Uygulamaları, önceden Office 365 ProPlus olarak adlandırılırdı. İş için Microsoft 365 Uygulamaları, önceden Office 365 İş olarak adlandırılırdı.\n\n## <a name=\"editions\"></a>Sürümler \n* iş için\n* kurum için"
