@@ -2,26 +2,16 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge, Modern Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 11/03/2021
-  keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 08/08/2022
+  keywords: IE; tarayıcı; Internet Explorer
+  ms.openlocfilehash: eee90516a33aedeb20b404db7362088a5f1031d3
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147765"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518510"
 name: Microsoft Edge
-summary: >+
-  Microsoft Edge, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
-
-
-
-
-
-  > [!IMPORTANT]
-
-  > Bu ürünün eski sürümüne verilen desteğin 9 Mart 2021 tarihinde sona ereceğini lütfen unutmayın. Daha fazla öğrenmek için [buraya](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) gidin.
-
+summary: "Microsoft Edge, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.\n\n\n\n\n> [!IMPORTANT]\n> Microsoft Edge, Windows 7 ve Windows Server 2008 R2'de 15 Ocak 2023'e kadar desteklenmeye devam edecektir. Microsoft, müşterilerin Windows 10 gibi desteklenen bir işletim sistemine geçmelerini önerir. Daha fazla öğrenmek için [buraya](https://docs.microsoft.com/deployedge/microsoft-edge-supported-operating-systems) gidin. \n\n"
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -30,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2020-01-15T00:00:00.000-08:00
-content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Microsoft Edge destekli işletim sistemleri](/deployedge/microsoft-edge-supported-operating-systems)\n* [Edge'e geçişi hızlandırmak için yeni kaynaklar](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Yaşam Döngüsü SSS - Internet Explorer ve Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge Yaşam Döngüsü İlkesi](/deployedge/microsoft-edge-support-lifecycle)"
+content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Microsoft Edge hizmet kanallarına genel bakış](/deployedge/microsoft-edge-channels)\n* [Microsoft Edge destekli işletim sistemleri](/deployedge/microsoft-edge-supported-operating-systems)\n* [Edge'e geçişi hızlandırmak için yeni kaynaklar](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Yaşam Döngüsü SSS - Internet Explorer ve Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge Yaşam Döngüsü İlkesi](/deployedge/microsoft-edge-support-lifecycle)\n\n\n> [!NOTE]\n> Bu ürünün eski sürümüne verilen desteğin 9 Mart 2021 tarihinde sona ereceğini lütfen unutmayın. Daha fazla öğrenmek için [buraya](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) gidin."

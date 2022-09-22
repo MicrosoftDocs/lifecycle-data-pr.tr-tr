@@ -1,13 +1,13 @@
 ---
 title: 2020'de Desteği Sona Erecek Ürünler
 description: 2020 yılında hangi ürünlerin sona ereceğini, desteğin sonuna ulaşacağını veya temel destekten genişletilmiş desteğe geçeceğini öğrenin.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117610"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518214"
 ---
 # <a name="products-ending-support-in-2020"></a>2020 yılında desteği sona eren ürünler
 
@@ -38,7 +38,7 @@ Bir ürünün desteği hakkında herhangi bir sorunuz varsa lütfen Microsoft He
 | --- | --- |
 | [Microsoft Uç Nokta Yapılandırma Yöneticisi, Sürüm 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 31 Ocak 2020 Cuma |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 3 Mart 2020 Salı |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 4 Eylül 2020 Cuma |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 4 Eylül 2020 Cuma |
 | [Microsoft Uç Nokta Yapılandırma Yöneticisi, Sürüm 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 27 Eylül 2020 Pazar |
 | [SharePoint'teki Visio Hizmetleri (Microsoft 365'te)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 30 Eylül 2020 Çarşamba |
 | [Windows 10 Enterprise and Education, Sürüm 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Sürüm 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13 Ekim 2020 |

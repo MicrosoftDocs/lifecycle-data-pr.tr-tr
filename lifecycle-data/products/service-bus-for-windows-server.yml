@@ -2,22 +2,26 @@
 metadata:
   title: Windows Server için Service Bus
   description: Windows Server için Service Bus, Bileşen Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147654"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518843"
 name: Windows Server için Service Bus
-summary: >
+summary: >+
   Windows Server için Service Bus, [Bileşen](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) Yaşam Döngüsü İlkesi'ni izler.
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Service Bus 1.1, SharePoint Server 2016 veya SharePoint Server 2013'ün bir bileşeni olduğunda, ilgili SharePoint Server sürümünün destek sonu tarihlerine göre desteklenir.
+  > Service Bus 1.1, SharePoint Server Abonelik Sürümü, SharePoint Server 2019, SharePoint Server 2016 ve SharePoint Server 2013'ün bir bileşenidir ve ana ürününün yaşam döngüsünü takip eder.
+
 products:
 - windows
 policyType: component

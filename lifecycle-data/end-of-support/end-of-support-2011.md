@@ -1,13 +1,13 @@
 ---
 title: 2011'de Desteği Sona Erecek Ürünler
 description: 2011 yılında hangi ürünlerin sona ereceğini, desteğin sonuna ulaşacağını veya temel destekten genişletilmiş desteğe geçeceğini öğrenin.
-ms.date: 09/17/2021
-ms.openlocfilehash: 58db5162e8b1cea853892a8ee5786bee83054acc
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 2dc1cf852c2f226b2b759e305fe4e72d2c2b8e80
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4029558"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518436"
 ---
 # <a name="products-ending-support-in-2011"></a>2011 yılında desteği sona eren ürünler
 

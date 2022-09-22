@@ -2,14 +2,14 @@
 metadata:
   title: Azure Bilgi Koruma klasik istemcisi
   description: Azure Bilgi Koruma klasik istemcisi, Modern Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4157263"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518658"
 name: Azure Bilgi Koruma klasik istemcisi
 summary: >+
   Azure Bilgi Koruma klasik istemcisi, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Birleşik ve kolaylaştırılmış bir müşteri deneyimi sağlamak için Azure Portalı'ndaki Azure Information Protection istemcisi (klasik) ve Label Management, 31 Mart 2021 itibarıyla kullanımdan kaldırılacaktır. Bu zaman dilimi, tüm mevcut Azure Information Protection müşterilerinin Microsoft Information Protection Unified Labeling platformunu kullanarak birleşik etiketleme çözümümüze geçiş yapmasına olanak tanır."
+content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Geçiş kılavuzu](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Birleşik ve kolaylaştırılmış bir müşteri deneyimi sağlamak için Azure Portalı'ndaki Azure Information Protection istemcisi (klasik) ve Label Management, 31 Mart 2021 itibarıyla kullanımdan kaldırılacaktır. Bu zaman dilimi, tüm mevcut Azure Information Protection müşterilerinin Microsoft Purview Information Protection için birleşik etiketleme platformuna geçiş yapmasına olanak tanır."

@@ -1,13 +1,13 @@
 ---
 title: 2019'de Desteği Sona Erecek Ürünler
 description: 2019 yılında hangi ürünlerin sona ereceğini, desteğin sonuna ulaşacağını veya temel destekten genişletilmiş desteğe geçeceğini öğrenin.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4029638"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518251"
 ---
 # <a name="products-ending-support-in-2019"></a>2019 yılında desteği sona eren ürünler
 
@@ -24,7 +24,6 @@ Bir ürünün desteği hakkında herhangi bir sorunuz varsa lütfen Microsoft He
 
 | Ürün | Sona Erme Tarihi |
 | --- | --- |
-| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | 30 Eylül 2019 Pazartesi |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | 16 Kasım 2019 Cumartesi |
 
 
@@ -34,6 +33,7 @@ Bir ürünün desteği hakkında herhangi bir sorunuz varsa lütfen Microsoft He
 
 | Ürün | Hizmet Sonu |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | 13 Şubat 2019 Çarşamba |
 | [Mac için Visual Studio, Mac için Visual Studio 2017](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 8 Mart 2019 Cuma |
 | [Windows 10 Enterprise and Education, Sürüm 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, Sürüm 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, Sürüm 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, Sürüm 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Sürüm 1709](/lifecycle/products/windows-server?branch=live)<br> | 9 Nisan 2019 Salı |
 | [Microsoft Uç Nokta Yapılandırma Yöneticisi, Sürüm 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 20 Mayıs 2019 Pazartesi |

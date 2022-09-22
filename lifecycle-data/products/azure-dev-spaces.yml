@@ -2,14 +2,14 @@
 metadata:
   title: Azure Dev Spaces
   description: Azure Dev Spaces, Modern Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 05/25/2021
+  ms.date: 2022/06/28
   keywords: 
-  ms.openlocfilehash: 7c49314780cad379b977145dc5823929c4f3c2d3
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 843e08fa86f0f95cb5e9ba7f7ebe113c4067421f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4109797"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516660"
 name: Azure Dev Spaces
 summary: >+
   Azure Dev Spaces, [Modern](/lifecycle/policies/modern) Yaşam Döngüsü İlkesi'ni izler.
@@ -27,5 +27,5 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2019-04-25T00:00:00.000-08:00
-  endDate: 2023-10-31T22:59:59.999-08:00
+  endDate: 2021-05-15T22:59:59.999-08:00
 content: "\n\n\n\n> [!NOTE]\n> Müşteriler, bir istemci geliştirici aracı olan [Bridge to Kubernetes](https://docs.microsoft.com/azure/dev-spaces/migrate-to-bridge-to-kubernetes)'e geçiş yapmalı."

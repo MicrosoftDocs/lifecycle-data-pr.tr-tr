@@ -1,13 +1,13 @@
 ---
 title: 2025'de Desteği Sona Erecek Ürünler
 description: 2025 yılında hangi ürünlerin sona ereceğini, desteğin sonuna ulaşacağını veya temel destekten genişletilmiş desteğe geçeceğini öğrenin.
-ms.date: 03/09/2022
-ms.openlocfilehash: 0ef5be1ee8667f218c76bc4c219b19db879ec365
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117203"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517952"
 ---
 # <a name="products-ending-support-in-2025"></a>2025 yılında desteği sona eren ürünler
 

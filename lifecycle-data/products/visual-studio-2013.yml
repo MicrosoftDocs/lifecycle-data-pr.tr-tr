@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013, Sabit Yaşam Döngüsü İlkesi'ni izler.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: 74908b552844ac27651393960fa567b4971842b6
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 26531cc6c88e5781b92affe65d38caf6f78b63d4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142807"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516475"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013, [Sabit](/lifecycle/policies/fixed) Yaşam Döngüsü İlkesi'ni izler.
@@ -33,5 +33,5 @@ releases:
   endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
   startDate: 2014-01-15T00:00:00.000-08:00
-  endDate: 2024-04-09T22:59:59.999-08:00
+  endDate: 2016-10-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Bağlantılar \n* [Servis bilgileri](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Aşağıdaki bileşenlerin Visual Studio 2013 sürümleri, Visual Studio 2013 yaşam döngüsünün bir parçası olarak gönderilir ve desteklenir: Aracılar, IntelliTrace Toplayıcı, Modelleme SDK'sı, Çok Baytlı MFC Kitaplığı, Uzak Araçlar, SDK, Shell (Tümleşik), Shell (Yalıtılmış), Takım Gezgini, Visual C++ Yeniden Dağıtılabilir, Web Araçları Uzantıları\n\n\n## <a name=\"editions\"></a>Sürümler \n* Community\n* Web için Express\n* Windows için Express\n* Windows Masaüstü için Express\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"
