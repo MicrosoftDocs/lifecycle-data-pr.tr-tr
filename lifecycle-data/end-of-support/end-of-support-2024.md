@@ -1,13 +1,13 @@
 ---
 title: 2024'de Desteği Sona Erecek Ürünler
 description: 2024 yılında hangi ürünlerin sona ereceğini, desteğin sonuna ulaşacağını veya temel destekten genişletilmiş desteğe geçeceğini öğrenin.
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518140"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526961"
 ---
 # <a name="products-ending-support-in-2024"></a>2024 yılında desteği sona eren ürünler
 
@@ -34,8 +34,10 @@ Bir ürünün desteği hakkında herhangi bir sorunuz varsa lütfen Microsoft He
 
 | Ürün | Hizmet Sonu |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, Sürüm 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 Şubat 2024 Pazartesi |
 | [Windows 10 Enterprise and Education, Sürüm 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Sürüm 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 11 Haziran 2024 Salı |
-| [Windows 11 Enterprise and Education (Sürüm 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (Sürüm 21H2), Özgün sürüm (Sürüm 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 8 Ekim 2024 |
+| [Windows 11 Enterprise ve Education, Sürüm 21H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, Sürüm 21H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 8 Ekim 2024 |
+| [Windows 11 Home ve Pro, Sürüm 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 14 Ekim 2024 Pazartesi |
 | [PowerShell, PowerShell 7.2 (LTS-güncel)](/lifecycle/products/powershell?branch=live)<br> | 8 Kasım 2024 Cuma |
 | [Azure IoT Edge, Sürüm 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 12 Kasım 2024 Salı |
 

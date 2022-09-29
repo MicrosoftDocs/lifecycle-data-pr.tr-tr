@@ -1,13 +1,13 @@
 ---
 title: 2023'de Desteği Sona Erecek Ürünler
 description: 2023 yılında hangi ürünlerin sona ereceğini, desteğin sonuna ulaşacağını veya temel destekten genişletilmiş desteğe geçeceğini öğrenin.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521079"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526887"
 ---
 # <a name="products-ending-support-in-2023"></a>2023 yılında desteği sona eren ürünler
 
@@ -36,13 +36,12 @@ Bir ürünün desteği hakkında herhangi bir sorunuz varsa lütfen Microsoft He
 | Ürün | Hizmet Sonu |
 | --- | --- |
 | [Microsoft Uç Nokta Yapılandırma Yöneticisi, Sürüm 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2 Şubat 2023 Perşembe |
-| [Microsoft Endpoint Configuration Manager, Sürüm 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 Şubat 2023 Pazar |
 | [Dynamics 365 Business Central şirket içi (Modern İlke), 2021 sürüm dalgası 2, sürüm 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 Nisan 2023 Çarşamba |
 | [Windows 10 Enterprise and Education, Sürüm 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Sürüm 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 9 Mayıs 2023 Salı |
 | [Microsoft Uç Nokta Yapılandırma Yöneticisi, sürüm 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 Haziran 2023 Perşembe |
 | [Windows 10 Home ve Pro, Sürüm 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 13 Haziran 2023 Salı |
 | [Microsoft Endpoint Configuration Manager, Sürüm 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 6 Ekim 2023 Cuma |
-| [Dynamics 365 Business Central şirket içi (Modern İlke), 2022 sürüm dalgası 1, sürüm 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home ve Pro (Sürüm 21H2), Özgün sürüm (Sürüm 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10 Ekim 2023 |
+| [Dynamics 365 Business Central şirket içi (Modern İlke), 2022 sürüm dalgası 1, sürüm 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home ve Pro, Sürüm 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10 Ekim 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Destek Sonuna ulaşan ürünler
